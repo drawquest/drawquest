@@ -1,0 +1,38 @@
+//
+// Prefix header for all source files of the 'DrawQuest' target in the 'DrawQuest' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_7_0
+#warning "This project uses features only available in iOS SDK 7.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <Foundation/Foundation.h>
+    #import <Availability.h>
+    #import "DQFunctions.h"
+    #import "DQLocalizer.h"
+#endif
+
+// from https://gist.github.com/JaviSoto/5906004
+#define MSDesignatedInitializer(__SEL__) __attribute__((unavailable("Invoke the designated initializer `" # __SEL__ "` instead.")))
+
+// The following comes from TWReverseAuthExample... (ugh)
+
+//
+// I use a variation of these logging methods in most projects. If anyone knows the original author, please let me know so I can attribute.
+//
+#ifdef DEBUG
+#   define TWDLog(fmt, ...) ({ NSLog(@"\n[%s:%d] %s: " fmt, __FILE__, __LINE__, __PRETTY_FUNCTION__, ## __VA_ARGS__); })
+#else
+#   define TWDLog(...)
+#endif
+
+
+//
+//  Logs regardless of debug setting.
+//
+#define TWALog(fmt, ...) ({ NSLog(@"\n[%s:%d] %s: " fmt, __FILE__, __LINE__, __PRETTY_FUNCTION__, ## __VA_ARGS__); })

@@ -1,0 +1,1193 @@
+/* Email specific invitation message to come draw a particular Quest */
+" I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "iPhone、iPod touchとiPad対応のクリエイティブなドローイングアプリ（無料）、DrawQuestを使っています。DrawQuestは毎日ドローイング チャレンジを送信してくれます。自分でドローイングを作成して友達と共有することもできます。あなたもこのクエストが気に入ると思います：「%1$@」\n\nここから無料でDrawQuestをダウンロードできます：%2$@";
+
+/* A simple button title for when a user has forgotten their password */
+"?" = "?";
+
+/* Share a drawing via Twitter message with Quest title */
+"\"%@\" via @DrawQuest" = "@DrawQuestからの「%@」";
+
+/* this will end up being something like 'Twitter Friends' or 'Facebook Friends' */
+"%@ Friends" = "%@友達";
+
+/* Label displaying the DrawQuest username for a friend from another social service */
+"%@ on DrawQuest" = "DrawQuestの%@";
+
+/* Number of characters left for a user to fill in before they reach the maximum limit */
+"%d characters remaining" = "残り%d文字";
+
+/* Label indicating the number of days until the user receives another streak bonus, singular */
+"%ld more day 'til next Streak Bonus" = "次のストリークボーナスまで後%ld 日";
+
+/* Label indicating the number of days until the user receives another streak bonus, plural */
+"%ld more days 'til next Streak Bonus" = "次のストリークボーナスまで後%ld 日";
+
+/* Number of notes users have left on a drawing, singular count */
+"%ld Note" = "メモ%ld";
+
+/* Number of notes users have left on a drawing, plural count */
+"%ld Notes" = "メモ%ld";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please flip your device right-side-up to continue." = "↺ デバイスの右側を上にしてから続行してください。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device back to Portrait to continue." = "↺ デバイスを縦長方向に戻してから続行してください。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device to Portrait to continue." = "↺ デバイスを縦長方向にしてから続行してください。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device back to Portrait to continue." = "↻ デバイスを縦長方向に戻してから続行してください。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device to Portrait to continue." = "↻ デバイスを縦長方向にしてから続行してください。";
+
+/* Navigation title for about us modal */
+"About DrawQuest" = "DrawQuestの概要";
+
+/* Navigation title for about us modal, shortened for iPhone */
+"About" = "概要";
+
+/* Label for the area where all of the user's relevant activity is collected */
+"Activity" = "アクティビティ";
+
+/* Label for adding an email address from user's address book */
+"Add Email Addresses from Contacts" = "連絡先からメールアドレスを追加する";
+
+/* Label for manually adding an email address to list of recipients */
+"Add Email Addresses Manually" = "メールアドレスを手動で追加する";
+
+/* Label for adding recipients' email addresses */
+"Add Email" = "メールを追加する";
+
+/* Add friends error alert title */
+"Add Friends Failed" = "友達追加に失敗しました";
+
+/* Title for modal where the user can invite their friends to DrawQuest */
+"Add Friends" = "友達追加";
+
+/* Add user completion button title */
+"Add" = "追加";
+
+/* Address book authorization failed error message */
+"Address Book Error" = "アドレスブックエラー";
+
+/* Cancel button for alert view */
+"AlertViewButtonTitleCancel" = "キャンセル";
+
+/* Delete button for alert view */
+"AlertViewButtonTitleDelete" = "削除";
+
+/* Dismiss button for alert view */
+"AlertViewButtonTitleDismiss" = "OK";
+
+/* OK button for alert view */
+"AlertViewButtonTitleOK" = "OK";
+
+/* Retry button for alert view */
+"AlertViewButtonTitleRetry" = "再試行する";
+
+/* Tab title which shows all items */
+"AllTabTitle" = "全て";
+
+/* Title for sign up modal when the user is nearly finished signing up */
+"Almost There..." = "あと少しです…";
+
+/* Option to sign into DrawQuest if the user is already registered */
+"Already a Member?" = "既にメンバーですか？";
+
+/* Sign in button title as alternative to signing up */
+"Already have an account?" = "既にアカウントをお持ちですか？";
+
+/* Unknown error alert message */
+"An unexpected error occurred" = "予期しないエラーが発生しました";
+
+/* Unknown DrawQuest error message */
+"An unknown error occurred communicating with DrawQuest" = "DrawQuestとの通信の際に予期しないエラーが発生しました";
+
+/* Unknown Facebook authorization error message */
+"An unknown error occurred communicating with Facebook. Please try again." = "Facebookとの通信の際に予期しないエラーが発生しました。再試行してください。";
+
+/* Unknown Twitter error alert message */
+"An unknown error occurred communicating with Twitter" = "Twitterとの通信の際に予期しないエラーが発生しました。";
+
+/* Generic unknown error message */
+"An unknown error occurred." = "不明なエラーが発生しました。";
+
+/* Continue on and do not invite any users confirmation alert message */
+"Are you sure you want to continue without inviting any friends?" = "友達を招待せずに続行してもよろしいですか？";
+
+/* Delete upload alert message */
+"Are you sure you want to delete this drawing?" = "このドローイングを削除してもよろしいですか？";
+
+/* Flag an inappropriate drawing for staff review message */
+"Are you sure you want to flag this drawing as inappropriate?" = "このドローイングを不適切とフラグしてもよろしいですか？";
+
+/* Flag an inappropriate Quest for staff review alert message */
+"Are you sure you want to flag this Quest as inappropriate?" = "このクエストを不適切とフラグしてもよろしいですか？";
+
+/* Delete a drawing alert message */
+"Are you sure you want to permanently delete your drawing?" = "あなたのドローイングを永久に削除してもよろしいですか？";
+
+/* User requested sign out confirmation message */
+"Are you sure you want to sign out?" = "サインアウトしてもよろしいですか？";
+
+/* Destructive request alert confirmation title */
+"Are you sure?" = "よろしいですか？";
+
+/* Authentication error alert title */
+"Authentication Error" = "認証エラー";
+
+/* User authorization error alert title */
+"Authorization Error" = "許可エラー";
+
+/* The user cancelled authorization message */
+"Authorization was cancelled." = "許可はキャンセルされました。";
+
+/* Facebook authorization failed, retry prompt */
+"Authorization with Facebook failed. Please try again." = "Facebookとの認証に失敗しました。再試行してください。";
+
+/* Twitter authorization failed, prompt to try again */
+"Authorization with Twitter failed. Please try again." = "Twitterとの認証に失敗しました。もう一度試してください。";
+
+/* User is being authorized message */
+"Authorizing" = "認証中";
+
+/* Editor template failed to download error title */
+"Background Image Failure" = "背景画像の失敗";
+
+/* A short label for the biographical information of the user */
+"Bio" = "自己紹介";
+
+/* A collection of tools that can be used to draw in the editor */
+"Brushes" = "ブラシ";
+
+/* Label for option to save to Apple Photos app */
+"Camera Roll" = "カメラロール";
+
+/* Label for changing the user's password */
+"Change Password" = "パスワードを変更する";
+
+/* Share via text message body */
+"Check out this drawing I made on DrawQuest: \"%@\"\n\n You should download the app at http://example.com/download" = "DrawQuestで作成したこのドローイングを見てください：「%@」\n\n 次からこのアプリをダウンロードできます。http://example.com/download";
+
+/* Invitation message to view a drawing on DrawQuest followed by download link */
+"Check out this drawing on DrawQuest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "DrawQuestで作成したこのドローイングを見てください：「%1$@」\n\nここから無料でDrawQuestをダウンロードできます：%2$@";
+
+/* Invitation message to view a drawing on DrawQuest with Quest title */
+"Check out this drawing on DrawQuest: \"%@\"" = "DrawQuestのこのドローイングを見てください：「%@」";
+
+/* Invitation to view a drawing on DrawQuest prefix message */
+"Check out this drawing on DrawQuest!" = "DrawQuestのこのドローイングを見てください！";
+
+/* Prompt for a user to select the appropriate Twitter account from a list */
+"Choose a Twitter Account" = "Twitterアカウントを選択する";
+
+/* Prompt to choose a photo from the device's Camera Roll to use as avatar */
+"Choose Existing" = "既存のものを選択する";
+
+/* Plural form of our DrawQuest specific currency of 'Coin' */
+"Coins" = "コイン";
+
+/* A collection of colors that can be used to draw in the editor */
+"Colors" = "色";
+
+/* User should return for a new Quest tomorrow, or they can create a Quest themselves display message */
+"Come back tomorrow for a new Quest, or create your own!" = "明日、また戻って新しいクエストを試してください。または、ご自分のクエストを作成してください！";
+
+/* Twitter specific invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on @DrawQuest! %@" = "@DrawQuestで一緒に「%1$@」をドローしましょう！%2$@";
+
+/* Twitter specific invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on @DrawQuest! http://www.example.com/download" = "@DrawQuestで一緒に「%@」をドローしましょう！http://example.com/download";
+
+/* Invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on DrawQuest! %@" = "DrawQuestで一緒に「%1$@」をドローしましょう！%2$@";
+
+/* Invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on DrawQuest! http://www.example.com/download" = "DrawQuestで一緒に「%@」をドローしましょう！http://example.com/download";
+
+/* Invitation email for another user to join DrawQuest via a particular Quest subject line */
+"Come draw \"%@\" with me on DrawQuest!" = "DrawQuestで一緒に「%@」をドローしましょう！";
+
+/* Generic invitation to DrawQuest message */
+"Come draw with me on DrawQuest! http://www.example.com/download" = "DrawQuestで一緒にドローしましょう！http://example.com/download";
+
+/* Invite a friend via email message subject */
+"Come draw with me on DrawQuest!" = "DrawQuestで一緒にドローしましょう！";
+
+/* Alert confirm button title */
+"Confirm" = "確認";
+
+/* Confirmation alert title */
+"Confirmation" = "確認";
+
+/* Facebook authorization and invite prompt */
+"Connect with Facebook to see your list of friends.\nThen choose friends you'd like to add." = "Facebookに接続して友達のリストから、追加する友達を選択しましょう。";
+
+/* Prompt to connect with Twitter to invite friends display message */
+"Connect with Twitter to see your list of friends.\nThen choose friends you'd like to add." = "Twitterに接続して友達のリストから、追加する友達を選択しましょう。";
+
+/* A label for inviting other users from the Address Book */
+"Contacts" = "連絡先";
+
+/* Continue on and do not invite any users confirmation alert title */
+"Continue without inviting?" = "招待せずに続行しますか？";
+
+/* Ignore connection failure confirmation button title */
+"Continue" = "続行";
+
+/* Cost of shop items in coin currency */
+"Cost: %@ coins" = "値段：%@コイン";
+
+/* Prompt to create a new Quest */
+"Create a Quest" = "クエストを作成する";
+
+/* Instructions to create a Quest and share it with friends */
+"Create your own Quest and share it with friends!" = "独自のクエストを作成して、友達と共有しよう！";
+
+/* Preceeded by a username indicating that they have created a Quest */
+"created a Quest" = "クエスト作成済み";
+
+/* Label explaining that the above user is responsible for creating the current Quest */
+"Created this Quest" = "このクエストの作成者";
+
+/* The user's current password before they change it, placeholder text */
+"Current Password" = "現在のパスワード";
+
+/* Delete a drawing alert title */
+"Delete Drawing" = "ドローイングを削除する";
+
+/* Label for option to delete a drawing from DrawQuest */
+"Delete this Drawing" = "このドローイングを削除する";
+
+/* Delete upload alert title */
+"Delete Upload" = "アップロードを削除する";
+
+/* Destroy item alert confirmation button title */
+"Delete" = "削除";
+
+/* Sign up button title as alternative to signing in */
+"Don't have an account?" = "アカウントを持っていませんか？";
+
+/* User is done with this action button title */
+"Done" = "完了";
+
+/* Prompt to draw a Quest template */
+"Draw a Template" = "テンプレートをドローする";
+
+/* Option to draw the first quest at a later time */
+"Draw This Later" = "後でこれをドローする";
+
+/* Label for option to draw a particular Quest */
+"Draw this Quest" = "このクエストをドローする";
+
+/* Label for option to draw a particular Quest */
+"Draw This Quest" = "このクエストをドローする";
+
+/* Draw this Quest button title */
+"Draw this" = "これをドローする";
+
+/* Instructions explaining that users can draw something every day */
+"Draw, every day.\n\n " = "毎日ドローする。\n\n";
+
+/* Title for the area where the user can draw Quests */
+"DrawAreaTitle" = "ドロー";
+
+/* Delete drawing request error alert title */
+"Drawing delete failed" = "ドローイングの削除に失敗しました";
+
+/* Label for a colleciton of drawings */
+"Drawings" = "作品数";
+
+/* Prompt for a user to draw the Quest */
+"DrawPrompt" = "ドロー";
+
+/* State sync with DrawQuest failed error title */
+"DrawQuest Connection Failed" = "DrawQuestの接続が失敗しました";
+
+/* Post without sharing alert message */
+"DrawQuest is more fun when you share with friends. Would you still like to continue without sharing?" = "DrawQuestを友達と共有するともっと楽しめます。共有なしで続行しますか？";
+
+/* Label for a link to the user's DrawQuest profile web page */
+"DrawQuest Profile Page" = "DrawQuestプロフィールページ";
+
+/* Update for DrawQuest app is available indicator label */
+"DrawQuest Update Available!" = "DrawQuestの更新が利用可能です！";
+
+/* File save access denied error message */
+"DrawQuest was denied access to your photo library. You can allow access using the iOS Settings app." = "DrawQuestにはあなたのフォトライブラリにアクセスする許可が与えられていません。iOS 設定アプリからアクセスを許可することができます。";
+
+/* Twitter access was denied by user error alert message */
+"DrawQuest was not granted access to your Twitter accounts." = "DrawQuestにはあなたのTwitterアカウントにアクセスする許可が与えられていません。";
+
+/* DrawQuest */
+"DrawQuest" = "DrawQuest";
+
+/* Label indicating the user can earn 5 coins with fixed white space */
+"Earn      5 Coins" = "5コインを取得する";
+
+/* Label indicating the user can earn 25 coins with fixed white space */
+"Earn      25 Coins" = "25コインを取得する";
+
+/* Instructions for earning and spending coins */
+"Earn coins by being an active Quester. Spend coins to unlock more colors!" = "アクティブなクエスターになってコインを取得。コインで支払って多くの色をアンロックしよう！";
+
+/* Instructions explaining the coin economy */
+"Earn coins by drawing Quests. Spend coins to get more colors." = "クエストをドローしてコインを取得。コインを支払って多くの色を手に入れよう！";
+
+/* Email */
+"Email" = "メール";
+
+/* A simple email placeholder that is obviously an invalid placeholder email */
+"email@email.com" = "email@example.com";
+
+/* Empty drawing alert title */
+"Empty Drawing" = "ドローイングが空白です";
+
+/* Quest title placeholder text */
+"Enter Your Quest Title" = "クエストタイトルを入力してください";
+
+/* Invite error alert title */
+"Error Inviting Friends" = "友達を招待する際にエラーが発生しました";
+
+/* Invite error to user error title prefix */
+"Error sending invite to:" = "次に招待状を送信する際にエラーが発生しました：";
+
+/* Invite error alert title */
+"Error sending invites." = "招待状送信のエラー。";
+
+/* Generic error message prefix */
+"Error: " = "エラー：";
+
+/* Generic error alert title */
+"Error" = "エラー";
+
+/* Introductory phrase explaining how to use the app */
+"Every day, DrawQuesters from around the world complete a daily drawing challenge. Quests don't have a right or wrong answer - use your imagination, and have fun!" = "毎日、世界中のドロークエスターはデイリードローイングチャレンジをします。クエストには正解や間違った解答はありません。あなたの創造力を働かせて楽しんでください！";
+
+/* Title for section where users can explore for new content */
+"Explore" = "探索";
+
+/* Facebook error alert title */
+"Facebook Error" = "Facebookエラー";
+
+/* Label for a link to the user's Facebook profile web page */
+"Facebook Profile Page" = "Facebookプロフィールページ";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Find your friends from other services that are registered on DrawQuest button title */
+"Find Your Friends on DrawQuest" = "DrawQuestで友達を探す";
+
+/* Flag an inappropriate drawing for staff review title */
+"Flag Drawing" = "ドローイングをフラグする";
+
+/* Flag an inappropriate Quest for staff review alert title */
+"Flag Quest" = "クエストをフラグする";
+
+/* Flag an inappropriate drawing or Quest for staff review alert confirmation button title */
+"Flag" = "フラグ";
+
+/* Flickr */
+"Flickr" = "Flickr";
+
+/* Instructions explaining how following, starring and playing all work */
+"Follow friends and other Questers. Star and play drawings you like." = "友達や他のクエスターをフォローする。 気に入ったドローイングに星をつけたりプレイする。";
+
+/* Prompt to follow users so that they can see their drawings on this page */
+"Follow more Questers and their drawings will appear here!" = "クエスターをもっとフォローすると、クエスターのドローイングはここに表示されます！";
+
+/* Prompt to follow a user button title */
+"Follow" = "フォロー";
+
+/* Instructions on how followers will see the new Quest */
+"Followers will see your Quest in their \"New\" tab" = "フォロアーはあなたのクエストを「新規」タブから見ることができます。";
+
+/* Label for a collection of users a particular user is following */
+"Followers" = "フォロアー";
+
+/* Label for the area where the content from followed users will appear */
+"FollowingHomeAreaLabel" = "フォロー中";
+
+/* Request fo follow a user is being completed indicator label */
+"FollowingRequestPending" = "フォロー中";
+
+/* Label that confirms a user is following another user */
+"FollowingStatusLabel" = "フォロー中";
+
+/* Label for a collection of users following a particular user */
+"FollowingUserListLabel" = "フォロー中";
+
+/* Use tapped button indicating they forgot their password alert title */
+"Forgot Password?" = "パスワードを忘れましたか？";
+
+/* Use tapped button indicating they forgot their password alert confirmation button title */
+"Forgot" = "忘れました";
+
+/* Quest title instructing users to draw the smiley face a smile */
+"Give him a smile!" = "スマイルさせてください！";
+
+/* Instructions to star other users' drawings */
+"Give stars to your favorite drawings." = "気に入ったドローイングに星をつける。";
+
+/* Sign up completed modal title */
+"Happy Questing!" = "クエストをお楽しみください！";
+
+/* The user's homepage in the app */
+"Home" = "ホーム";
+
+/* Code of conduct agreement label */
+"I agree to keep my artwork classy\nand appropriate for all ages." = "私は作品がどの年齢層にも適切なように\n上品に保つことに同意します。";
+
+/* Message inviting another to come draw the Quest the user just created */
+"I just created a Quest on DrawQuest: \"%@\" Come draw it with me! http://example.com/download" = "たった今、DrawQuestでクエストを作成しました:「%@」一緒にドローしましょう！ http://example.com/download";
+
+/* Email specific invitation message to view a drawing */
+"I thought you'd like this drawing made with DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad: \"%@\" \n\nDownload DrawQuest for free here: %@" = "iPhone、iPod touchおよび iPad に対応するクリエーティブな無料ドローイングアプリ、DrawQuestで作成しました。気に入ってもらえると思います： 「%1$@」\n\nここから無料でDrawQuestをダウンロードできます：%2$@";
+
+/* Button title indicating the user is ready to begin */
+"I'm ready for my first Quest!" = "最初のクエストに取り掛かる準備ができました！";
+
+/* Twitter specific invitation message for another user to join DrawQuest */
+"I'm using @DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "iPhone、iPod touchおよびiPadに対応するクリエーティブな無料ドローイングアプリ、@DrawQuestを使っています。一緒にドローしましょう！http://example.com/download";
+
+/* Invitation message for another user to join DrawQuest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "iPhone、iPod touchおよびiPadに対応するクリエーティブな無料ドローイングアプリ、DrawQuestを使っています。一緒にドローしましょう！http://example.com/download";
+
+/* Email specific invitation message for a user to come draw a specific Quest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: http://www.example.com/download" = "iPhone、iPod touchおよびiPadに対応するクリエーティブな無料ドローイングアプリ、DrawQuestを使っています。DrawQuestは毎日ドローイングチャレンジを送信してくれます。自分のチャレンジを作成して友達と共有することもできます。この Questを気に入ってもらえると思います：「%@」\n\nここから無料でDrawQuestをダウンロードすることができます：http://example.com/download";
+
+/* Email specific invitation message for another user to join DrawQuest, includes the inviting user's username */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\" \n\n Download DrawQuest for free here: http://www.example.com/download" = "iPhone、iPod touchおよび iPad に対応するクリエーティブな無料ドローイングアプリ、DrawQuestを使っています。DrawQuestは毎日ドローイングチャレンジをあなたに送信します。アプリの「%@」から私をフォローできます。\n\nここから無料でDrawQuest をダウンロードすることができます：http://example.com/download";
+
+/* Invite a friend via email message body */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\". \n\nDownload DrawQuest for free here: %@" = "iPhone、iPod touchおよびiPadに対応するクリエーティブな無料ドローイングアプリ、DrawQuestを使っています。DrawQuestは毎日ドローイングチャレンジをあなたに送信します。自分のチャレンジを作成して友達と共有することもできます。アプリの「%1$@」から私をフォローできます。\n\nここから無料でDrawQuestをダウンロードすることができます：%2$@";
+
+/* In-App Purchase failure error alert tile */
+"In-App Purchase Failed" = "アプリ内課金に失敗しました";
+
+/* In-App Purchases disabled on device error alert message */
+"In-App Purchases have been disabled on this device." = "このデバイスではアプリ内課金は無効になっています。";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Invite user action sheet title */
+"Invite %@ to DrawQuest" = "%@をDrawQuestに招待する";
+
+/* Invite friends prompt message */
+"Invite your friends!" = "友達を招待しよう！";
+
+/* Invite others to DrawQuest button title */
+"Invite" = "招待";
+
+/* User has been invited to DrawQuest indicator label */
+"Invited" = "招待済み";
+
+/* The user has no Facebook friends message */
+"It looks like you don't have any Facebook friends to invite." = "招待できるFacebookの友達がいません。";
+
+/* The user has no Twitter friends available to invite display message */
+"It looks like you don't have any Twitter friends to invite." = "招待できるTwitterの友達がいません。";
+
+/* User has no contacts in their address book to invite */
+"It looks like your Address Book is empty." = "アドレスブックが空のようです。";
+
+/* Sign up modal title */
+"Join DrawQuest" = "DrawQuestに参加する";
+
+/* Title for sign up modal */
+"Join" = "参加";
+
+/* Preceeded by a username indicating that they have just joined DrawQuest */
+"joined DrawQuest" = "DrawQuest参加済み";
+
+/* Alert title when the editor has repeatedly crashed */
+"Keep trying?" = "Keep trying?";
+
+/* Date the item was last updated */
+"Last Updated: %@" = "最終更新：%@";
+
+/* App update available alert dismiss button title */
+"Later" = "後で";
+
+/* Button title indicating the user can tap to load in more items */
+"Load More" = "もっと読み込む";
+
+/* More items are loading in from the server indicator label */
+"Loading More" = "もっと読込み中";
+
+/* Data is being loaded from server indicator label */
+"Loading..." = "読込み中…";
+
+/* The user must wait as a request is currently being made. */
+"Loading" = "読込み中";
+
+/* Mail app error alert title */
+"Mail Error" = "メールエラー";
+
+/* Label for option to share using the Apple Mail app */
+"Mail" = "メール";
+
+/* Label for option to share using the Apple Messages app */
+"Message" = "メッセージ";
+
+/* Messages app error title */
+"Messages Error" = "メッセージエラー";
+
+/* Label for the user's first Quest */
+"My First Quest" = "私の最初のクエスト";
+
+/* Name required for Quest alert title */
+"Name your Quest!" = "クエストに名前を付けて下さい！";
+
+/* Indicating an item has never been updated */
+"Never" = "まだ更新されていません";
+
+/* Activity item notifying users new colors are available in the shop */
+"New colors available!" = "新しい色が利用可能です！";
+
+/* New colors available in shop message */
+"New Colors!" = "新しい色！";
+
+/* The user's new password they would like to change it to repeated for safety, placeholder text */
+"New Password Again" = "新しいパスワードを再度入力";
+
+/* The user's new password they would like to change it to */
+"New Password" = "新しいパスワード";
+
+/* A new Quest is available alert label */
+"New Quest!" = "新しいクエスト！";
+
+/* App update available alert title */
+"New Version Available!" = "新しいバージョンが利用可能です！";
+
+/* Shop item has been recently added indicator label */
+"New!" = "新規！";
+
+/* Shop item is new to the user indicator label */
+"NewShopItemIndicatorLabel" = "新規";
+
+/* Tab title which shows the newest items in reverse chron order */
+"NewTabTitle" = "新規";
+
+/* Proceed to the next phase of the current action */
+"Next" = "次";
+
+/* Message congratulating the user on completing another drawing for the day */
+"Nice drawing! You're on a roll today!" = "素敵なドローイングですね! 今日はがんばっていますね!";
+
+/* Message complementing users on a job well done as they post a drawing */
+"Nice Questing!" = "ナイスクエスト！";
+
+/* Invite friends failed because no accounts are set up alert title */
+"No Email Accounts" = "メールアカウントがありません";
+
+/* No drawings exist for this Quest message */
+"No one's drawn this Quest yet. Be the first!" = "まだ誰もこのクエストをドローしていません。一番乗りでドローしよう！";
+
+/* No quests found on server display message */
+"No quests to display." = "表示するクエストがありません。";
+
+/* No Twitter accounts are configured on device error alert tile */
+"No Twitter Accounts" = "Twitterアカウントがありません";
+
+/* Label for notification options */
+"Notifications" = "通知";
+
+/* The user's old password before they change it */
+"Old Password" = "古いパスワード";
+
+/* The user's DrawQuest specific password */
+"Password" = "パスワード";
+
+/* The user failed to enter matching passwords during password change error alert message */
+"Passwords must match." = "パスワードが一致しません。";
+
+/* Label for the photo avatar to represent the user */
+"Photo" = "写真";
+
+/* Label for all the areas of the app the user can visit */
+"Places" = "場所";
+
+/* Instructions to watch the playback for drawings */
+"Play back your favorite drawings to see how your fellow Questers created their masterpiece." = "あなたが気に入っているドローイングをプレイバックしてクエスター仲間がどのようにしてマスターピースを作成したか見てみよう。";
+
+/* Drawing playback error title */
+"Playback Error" = "プレイバックエラー";
+
+/* User has played current drawing suffix */
+"played this drawing" = "はこのドローイングをプレイしました";
+
+/* Preceeded by a username indicating that they have played your drawing */
+"played your drawing" = "はあなたのドローイングをプレイしました";
+
+/* Request to delete account email body with reason for doing so asked of user */
+"Please close my account and remove all the content associated with it. I understand that this cannot be undone.\n\nThe reason I'm closing my account is:" = "私のアカウントを閉め、関連する全てのコンテンツを削除してください。これは元に戻すことはできないことを理解しています。\n\nアカウントを閉める理由:";
+
+/* Empty drawing alert message */
+"Please draw something before posting it!" = "投稿する前に何かドローしてください！";
+
+/* Name required for Quest alert message */
+"Please enter a title for your Quest to continue." = "続行するためにはクエストのタイトルを入力してください。";
+
+/* User needs to enter a valid email address indicator label */
+"Please enter a valid email address." = "有効なメールアドレスを入力してください。";
+
+/* Invalid email alert title */
+"Please enter a valid email address" = "有効なメールアドレスを入力してください";
+
+/* User needs to enter a valid password indicator label */
+"Please enter a valid password." = "有効なパスワードを入力してください。";
+
+/* User needs to enter a valid username indicator label */
+"Please enter a valid username." = "有効なユーザー名を入力してください。";
+
+/* The user failed to enter and/or repeat a new password during password change error alert message */
+"Please enter and repeat your new password." = "新しいパスワードを入力・再入力してください。";
+
+/* The user failed to enter an old password during password change error alert message */
+"Please enter your old password." = "古いパスワードを入力してください。";
+
+/* Prompt to attempt a request again */
+"Please try again" = "再試行してください";
+
+/* Activity item request that the user update to a newer version of the app */
+"Please update DrawQuest to view this." = "これを表示するためにはDrawQuest を更新してください。";
+
+/* Instructions on how the new Quest can become popular */
+"Popular Quests appear in the \"All\" tab. Share yours to increase your chances!" = "人気のあるクエストは「全て」のタブに表示されます。あなたのクエストを共有して、ここに表示されるチャンスを増やそう！";
+
+/* Upload error alert title */
+"Post Error" = "投稿エラー";
+
+/* Upload the completed drawing to DrawQuest button title */
+"Post to DrawQuest" = "DrawQuestに投稿する";
+
+/* Begin upload button title */
+"Post" = "投稿";
+
+/* Preceeded by a username indicating that they have posted a drawing of their own */
+"posted a drawing" = "ドローイングを投稿する";
+
+/* Upload error alert title */
+"Posting Error" = "投稿エラー";
+
+/* The comment upload failed, prompt to try the upload again */
+"Posting failed. Try again?" = "投稿に失敗しました。再試行しますか？";
+
+/* Image upload failed message */
+"Posting Image Failed.\nTry Again?" = "画像の投稿に失敗しました。\n再試行しますか？";
+
+/* User should wait as the image is uploading */
+"Posting Image..." = "画像投稿中…";
+
+/* Playback data upload failed message */
+"Posting Playback Data Failed.\nTry Again?" = "プレイバックデータの投稿に失敗しました。\n再試行しますか？";
+
+/* User should wait as the playback data is uploading */
+"Posting Playback Data..." = "プレイバックデータ投稿中…";
+
+/* Upload to Facebook failed message */
+"Posting to Facebook Failed.\nTry Again?" = "Facebookへの投稿に失敗しました。\n再試行しますか？";
+
+/* Comment upload failed message */
+"Posting to Quest Failed.\nTry Again?" = "クエストへの投稿に失敗しました。\n再試行しますか？";
+
+/* User should wait as the comment is uploading */
+"Posting to Quest..." = "クエストに投稿中…";
+
+/* Upload to Twitter failed message */
+"Posting to Twitter Failed.\nTry Again?" = "Twitterへの投稿に失敗しました。\n再試行しますか？";
+
+/* Upload is in progress indicator label */
+"Posting" = "投稿中";
+
+/* Playback data is being loaded indicator label */
+"Preparing Playback" = "プレイバック準備中";
+
+/* A blocking HUD message while the editor is loading in. */
+"Preparing Quest" = "クエスト準備中";
+
+/* Label to view the Privacy Policy */
+"Privacy Policy" = "プライバシー ポリシー";
+
+/* Profile error alert title */
+"Profile error:" = "プロフィール エラー：";
+
+/* Label for the user's own profile */
+"Profile" = "プロフィール";
+
+/* Prompt to pull down on the page to refresh content */
+"Pull to refresh..." = "プルして更新…";
+
+/* Store purchase failure error title */
+"Purchase Error" = "購入エラー";
+
+/* Coin based shop purchase alert confirmation button title */
+"Purchase" = "購入";
+
+/* Shop item has been purchased indicator label */
+"Purchased" = "購入済み";
+
+/* Instructions explaining why you should say allow push notifications */
+"Push notifications remind you when there's a new Quest to draw." = "新しくドローできるクエストがあるとプッシュ通知でリマインドされます。";
+
+/* Label for the option to receive push notifications when there is a new Quest of the Day */
+"Quest of the Day Alerts" = "今日のクエスト通知";
+
+/* The name for our daily Quests the users can draw */
+"Quest" = "クエスト";
+
+/* Label for a colleciton of Quests */
+"Quests" = "クエスト";
+
+/* Message asking if users are ready to complete their first drawing */
+"Ready for your first Quest?" = "最初のクエストの準備はできましたか?";
+
+/* Alert message */
+"Really delete your drawing?" = "Really delete your drawing?";
+
+/* Tab title which shows items the user has recently completed */
+"RecentTabTitle" = "最近";
+
+/* Label for list of users who will receive an email */
+"Recipients" = "受信者";
+
+/* Refresh this Quest button title */
+"Refresh" = "更新";
+
+/* Prompt to release the page to refresh content */
+"Release to refresh..." = "リリースして更新…";
+
+/* Preceeded by a username indicating that they have remixed your drawing */
+"remixed your drawing" = "はあなたのドローイングをリミックスしました";
+
+/* The user's new password they would like to change it to repeated for safety */
+"Repeat New Password" = "新しいパスワードを繰り返す";
+
+/* Label to report problems to staff */
+"Report a Problem" = "問題を報告する";
+
+/* Label for option to flag an innappropriate drawing for staff review */
+"Report this Drawing" = "このドローイングを報告する";
+
+/* Label for option to flag an inappropriate Quest for staff review */
+"Report this Quest" = "このクエストを報告する";
+
+/* Error restoring purchases the user has made in the shop alert title */
+"Restore Error" = "復元エラー";
+
+/* Restore all shop purchases previously made button title */
+"Restore Purchases" = "購入を復元する";
+
+/* Prompt for a user to attempt a failed connection again. */
+"Retry" = "再試行する";
+
+/* File save failure alert title */
+"Saving Failed" = "保存に失敗しました";
+
+/* Search for user autocomplete button title */
+"Search for '%@'" = "'%@'を検索";
+
+/* Search for user button title */
+"Search for..." = "検索…";
+
+/* Search for users search field placeholder text */
+"Search People" = "ユーザー検索";
+
+/* Instructions to tap the menu button to see new activity */
+"See what's new by tapping the menu button." = "メニューボタンをタップして新規情報をご覧ください。";
+
+/* API Service error alert title */
+"Service Error" = "サービスエラー";
+
+/* Photo is being uploaded and set as user's avatar loading indicator label */
+"Setting Avatar" = "アバタ設定中";
+
+/* The title for the area where the user can change their account settings */
+"Settings" = "設定";
+
+/* Share drawing to Tumblr modal title */
+"Share on Tumblr" = "Tumblrで共有する";
+
+/* Label for option to share posts to their Facebook timeline by default */
+"Share to Facebook Timeline" = "Facebookタイムラインで共有する";
+
+/* Label for option to share posts to their Twitter followers by default */
+"Share to Twitter" = "Twitterで共有する";
+
+/* Prompt to have users share their drawing with friends which will earn them coins */
+"Share with Friends to earn extra coins" = "友達と共有してもっとコインを取得しよう";
+
+/* Message inviting users to share the drawing they are posting with friends */
+"Share with Friends" = "友達と共有する";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile!" = "あなたのプロフィールを共有する！";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile" = "あなたのプロフィールを共有する";
+
+/* Drawing being published with options to share the drawing modal title */
+"Share" = "共有";
+
+/* Label for sharing options */
+"Sharing" = "共有";
+
+/* Shop related error alert title */
+"Shop Error" = "ショップエラー";
+
+/* Button title in color picker encouraging users to go to the shop */
+"Shop for More Colors!" = "もっと色を購入する！";
+
+/* Title for the shop area of the app where users can purchase new items */
+"Shop" = "ショップ";
+
+/* Prompt for the user to sign into their DrawQuest account so they can upload an item */
+"Sign In & Post" = "サインイン＆投稿";
+
+/* Prompt to sign into an existing DrawQuest account to see what others are drawing */
+"Sign In and see what your fellow Questers are drawing!" = "サインインして他のクエスターが何をドローしているか見てみよう！";
+
+/* Prompt to sign in and immediately begin drawing */
+"Sign In and Start Drawing" = "サインインしてドローイングを始めよう";
+
+/* Sign in failed alert title */
+"Sign In Failed" = "サインインに失敗しました";
+
+/* Prompt for the user to sign into their DrawQuest account */
+"Sign In" = "サインイン";
+
+/* Sign the currently signed in user out of DrawQuest */
+"Sign Out" = "サインアウト";
+
+/* Prompt for the user to sign up for DrawQuest so they can upload an item */
+"Sign Up & Post" = "サインアップ＆投稿";
+
+/* Prompt to sign up and immediately begin drawing */
+"Sign Up and Start Drawing" = "サインアップしてドローイングを始めよう";
+
+/* Prompt to sign up for DrawQuest so they can start following other users */
+"Sign Up and start following other Questers!" = "サインアップして他のクエスターをフォローしよう！";
+
+/* Sign up failed alert title */
+"Sign Up Failed" = "サインアップに失敗しました";
+
+/* Prompt to sign up, post, and collect the 25 coin reward for doing so */
+"Sign up for DrawQuest to post your drawing and collect your first 25 coins!" = "DrawQuestにサインアップしてあなたのドローイングを投稿してください。最初の25コインを取得できます！";
+
+/* Sign up using email button title */
+"Sign Up Using Email" = "メールでサインアップする";
+
+/* Prompt for the user to sign up for DrawQuest */
+"Sign Up" = "サインアップ";
+
+/* Message letting the user know they must wait as the sign out is completed */
+"Signing out" = "サインアウト";
+
+/* Option to continue without completing the current step */
+"Skip" = "省略";
+
+/* Prompt to drag with a finger to advance */
+"SLIDE" = "スライド";
+
+/* Label for links to web profile for various services */
+"Social Profile Links" = "SNSプロフィールリンク";
+
+/* Delete drawing request error alert message */
+"Something went wrong and we couldn't delete your drawing. Please try again." = "問題が発生したため、ドローイングを削除できませんでした。再試行してください。";
+
+/* User profile not found on server error alert message */
+"Sorry that profile no longer exists." = "申し訳ありませんが、そのプロフィールはもう存在しません。";
+
+/* Invite friends failed because no accounts are set up alert message */
+"Sorry, but to invite friends you'll need to setup an email account on your device first." = "申し訳ありませんが、友達を招待するためにはまずデバイスでメールアカウントを設定してください。";
+
+/* Message explaining that the user can only invite 50 or less friends at one time */
+"Sorry, but you can't select more than 50 friends to invite at once." = "申し訳ありませんが、一度の50人以上の友達を選択して招待することはできません。";
+
+/* Alert message */
+"Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again." = "Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again.";
+
+/* Drawing could not be found on server message */
+"Sorry, that drawing could not be found." = "申し訳ありませんが、そのドローイングは見つかりませんでした。";
+
+/* Label for the option to receive push notifications when someone stars one of their drawings */
+"Starred Drawing Alerts" = "ドローイングに星が付けられた通知";
+
+/* User has starred current drawing suffix */
+"starred this drawing" = "はこのドローイングに星を付けました";
+
+/* Preceeded by a username indicating that they have starred your drawing */
+"starred your drawing" = "はあなたのドローイングに星を付けました";
+
+/* Preceeded by a username indicating that they have started following you */
+"started following you" = "があなたをフォローはじめました";
+
+/* Stop following user alert confirmation button title */
+"Stop Following " = "フォローを中止する";
+
+/* Successful request indicator label */
+"Success" = "成功";
+
+/* Label for support links */
+"Support" = "サポート";
+
+/* Prompt to use the camera function to take a photo as avatar */
+"Take a Photo" = "写真を撮る";
+
+/* User biographical field placeholder text prompting user to tap the field */
+"Tap here to say something about yourself!" = "ここをタップして自己紹介してください！";
+
+/* Label to view the Terms of Service */
+"Terms of Service" = "利用規約";
+
+/* Coin purchase success alert title */
+"Thanks!" = "ありがとうございます！";
+
+/* Alert message requesting the user update their app because they received a notification not supported by the current version */
+"That notification is not supported by this version of DrawQuest. Please update to the latest version!" = "その通知はこのバージョンのDrawQuestではサポートされていません。最新のバージョンに更新してください。";
+
+/* User cancelled Facebook authorization message */
+"The operation was cancelled." = "操作はキャンセルされました。";
+
+/* Prompt to try a failed request once again */
+"The request failed. Try again?" = "リクエストが失敗しました。再試行しますか？";
+
+/* Empty explore page message */
+"There are no featured drawings to show right now. Try again later." = "現在、表示できる注目ドローイングはありません。後でまた試してください。";
+
+/* No Twitter accounts are configured on device error alert message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings on your device." = "Twitterアカウントが設定されていません。デバイスの設定からTwitterアカウントを追加することができます。";
+
+/* Quest gallery load failure alert message */
+"There was a problem loading this quest. Please return to the quest archive and try loading the the gallery again." = "このクエストの読み込み中に問題が発生しました。クエストアーカイブに戻ってから再度ギャラリーを読み込んでください。";
+
+/* Unknown DrawQuest upload error message */
+"There was a problem saving the drawing, DrawQuest is unable to post." = "ドローイングの保存の際に問題が発生しました。DrawQuestから投稿できませんでした。";
+
+/* Invite error to user error message prefix */
+"There was a problem sending your invitation via Twitter. Error code:" = "Twitterを介して招待状を送信する際に問題が発生しました。エラーコード：";
+
+/* Messages app error message */
+"There was an error opening the Messages app." = "メッセージアプリを開ける際にエラーが発生しました。";
+
+/* Unknown Twitter error alert message */
+"There was an unexpected error communicating with Twitter. Please try again." = "Twitterとの通信で予期しないエラーが発生しました。 再試行してください。";
+
+/* Unknown DrawQuest upload error message */
+"There was an unexpected problem and DrawQuest is unable to post." = "予期しない問題が発生したため、DrawQuestは投稿することができません。";
+
+/* App update available alert message */
+"There's a new version of DrawQuest available. Upgrade now?" = "DrawQuestの新しいバージョンが利用可能です。今すぐアップグレードしますか？";
+
+/* A message explaining that the user is seeing something unexpected and they should try again at a later time */
+"This shouldn't be empty. Please try back later!" = "これは空白ではいけません。後で試してください！";
+
+/* Simple time unit suffix indicating days, e.g.: 5d */
+"TimestampTimesDays" = "%d日前";
+
+/* Simple time unit suffix indicating hours, e.g.: 5h */
+"TimestampTimesHours" = "%d時間前";
+
+/* Timestamp label for an item that showed up in the last few seconds */
+"TimestampTimesJustNow" = "つい先ほど";
+
+/* Simple time unit suffix indicating minutes, e.g.: 5m */
+"TimestampTimesMinutes" = "%d分前";
+
+/* Simple time unit suffix indicating seconds, e.g.: 5s */
+"TimestampTimesSeconds" = "%d秒前";
+
+/* Simple time unit suffix indicating weeks, e.g.: 5w */
+"TimestampTimesWeeks" = "%d週間前";
+
+/* Simple time unit suffix indicating years, e.g.: 5y */
+"TimestampTimesYears" = "%d年前";
+
+/* Label for the Quest of the Day */
+"Today's Quest" = "今日のクエスト";
+
+/* Tab title which shows the best items in order of ranking */
+"TopTabTitle" = "トップ";
+
+/* Total coins a user has collected tally prefix */
+"Total coins:" = "コイン合計：";
+
+/* Label for a list of recent Quests the user can complete */
+"Try These Recent Quests" = "これらの最近のクエストを試してみてください";
+
+/* Tumblr */
+"Tumblr" = "Tumblr";
+
+/* Twitter API keys are missing error message */
+"Twitter API keys are missing!" = "Twitter API キーがありません！";
+
+/* Twitter authorization error alert title */
+"Twitter Auth Error" = "Twitter認証エラー";
+
+/* Twitter error alert title */
+"Twitter Error" = "Twitterエラー";
+
+/* Label for a link to the user's Twitter profile web page */
+"Twitter Profile Page" = "Twitterプロフィールページ";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Quest could not be dismissed from Inbox error alert title */
+"Unable to dismiss" = "無視することができません";
+
+/* Quest could not be found on server error alert title */
+"Unable to Find Quest" = "クエストを見つけることができません";
+
+/* Follow error alert title */
+"Unable to Follow" = "フォローすることができません";
+
+/* Request for current page failed alert title */
+"Unable to load page" = "ページをロードすることができません";
+
+/* Quest gallery load failure alert title */
+"Unable to Load Quest" = "クエストをロードすることができません";
+
+/* Editor template failed to download error body */
+"Unable to load the quest background image. You can still post but it will be missing from your drawing. Exit and re-enter the editor to try again." = "クエストの背景画像を読み込むことができません。投稿することはできますが、ドローイングには含まれません。終了してから再度エディターを入力してください。";
+
+/* Unable to purchase shop item error alert message prefix */
+"Unable to purchase due to error: %@" = "次のエラーのため購入することができません：%@";
+
+/* Unable to purchase shop item error alert title */
+"Unable to Purchase" = "購入することができません";
+
+/* Quest gallery refresh failure alert title */
+"Unable to Refresh Gallery" = "ギャラリーを更新することができません";
+
+/* Quest refresh error alert message prefix */
+"Unable to refresh quests due to error: %@" = "次のエラーのためクエストを更新することができません：%@";
+
+/* Quest refresh unknown error alert message */
+"Unable to refresh quests due to unknown error." = "不明なエラーのためクエストを更新することができません。";
+
+/* Quest refresh error alert title */
+"Unable to Refresh Quests" = "クエストを更新することができません";
+
+/* Unknown Facebook upload error message */
+"Unable to share to Facebook due to an unknown error." = "不明なエラーのためFacebookと共有することができません。";
+
+/* Unknown Twitter upload error message */
+"Unable to share to Twitter due to an unknown error." = "不明なエラーのためTwitterと共有することができません。";
+
+/* Unfollow error alert title */
+"Unable to Unfollow" = "フォロー解除することができません";
+
+/* Request to unfollow a user is being completed indicator label */
+"Unfollowing" = "フォロー解除中";
+
+/* Unknown error alert message */
+"Unknown error." = "不明なエラー。";
+
+/* Update app alert title */
+"Update DrawQuest" = "DrawQuestを更新する";
+
+/* Update app alert confirmation button title */
+"Update" = "更新";
+
+/* Photo was successfully uploaded as user's new avatar indicator label */
+"Updated avatar." = "アバタ更新済み。";
+
+/* Settings are being updated loading indicator label */
+"Updating Settings" = "設定更新中";
+
+/* App update available alert confirmation button title */
+"Upgrade!" = "アップグレード！";
+
+/* Upgrade alert confirmation button title */
+"Upgrade" = "アップグレード";
+
+/* Upload failed message */
+"Upload Failed. Try Again?" = "アップロードに失敗しました。再試行しますか？";
+
+/* The image upload failed, prompt to try the upload again */
+"Uploading the image failed. Try again?" = "画像のアップロードに失敗しました。再試行しますか？";
+
+/* Data is uploading to server indicator label */
+"Uploading" = "アップロード中";
+
+/* The user's DrawQuest specific username */
+"Username" = "ユーザー名";
+
+/* Label for option to view the Quest this drawing was drawn for */
+"View this Quest" = "このクエストを表示する";
+
+/* Unknown error while loading Quest gallery, retry prompt */
+"We couldn't load the gallery. Please try again." = "ギャラリーを読み込むことができません。再試行してください。";
+
+/* Prompt to retry a failed attempt to load the current profile from the server */
+"We couldn't load the profile. Please try again." = "プロフィールを読み込むことができません。再試行してください。";
+
+/* Error loading activity from server message */
+"We couldn't load your activity. Please try again." = "アクティビティーを読み込むことができません。再試行してください。";
+
+/* Message encouraging users to keep drawings appropriate for all ages */
+"We have Questers of all ages, so please keep your drawings safe-for-work and appropriate for everyone" = "様々な年齢層のクエスターがいるので、ドローイングはどの年齢層にも安全かつ適しているようにしてください。";
+
+/* Quest could not be dismissed from Inbox error alert message */
+"We were unable to remove the quest from your inbox. Please try again later." = "このクエストを受信箱から削除することができません。再試行してください。";
+
+/* Label for the user's web profile */
+"Web Profile" = "Webプロフィール";
+
+/* Greeting for users signing in that have previously registered */
+"Welcome Back" = "おかえりなさい";
+
+/* Activity item welcoming new users */
+"Welcome to DrawQuest!" = "DrawQuestへようこそ！";
+
+/* Prefix before the DrawQuest logo welcoming the user on the splash screen */
+"Welcome to" = "ようこそ";
+
+/* Sign in modal title welcoming the user back */
+"Welcome" = "ようこそ";
+
+/* Delete artwork confirmation alert message */
+"Would you really like to delete your artwork?" = "あなたの作品を削除してもよろしいでしょうか？";
+
+/* Post without sharing alert confirmation button title */
+"Yes, continue" = "はい、続行します";
+
+/* Yesterday */
+"Yesterday" = "昨日";
+
+/* Label preceeding alernative services that can be used to sign in */
+"You Can Also Sign In Using:" = "次を使用してサインインできます：";
+
+/* Label preceeding alernative services that can be used to sign up */
+"You Can Also Sign Up Using:" = "次を使用してサインアップすることもできます：";
+
+/* Message for user that do not yet have any activity items */
+"You don't have any activity yet." = "まだ、アクティビティはありません。";
+
+/* The user doesn't have enough coins to purchase what they tried to purchase, prompt them to purchase some coins first */
+"You don't have enough coins, why not buy some first?" = "コインが足りません。まず、購入しますか？";
+
+/* The user's history is empty because they haven't completed any Quests display message */
+"You haven't drawn anything yet! Quests you've drawn in will appear here." = "まだ、ドローしていません。あなたがドローしたクエストはここに表示されます。";
+
+/* Activity item notifying users of an explore feature */
+"Your drawing was featured on Explore!" = "あなたのドローイングは検索で特集されました！";
+
+/* Coin purchase success alert message */
+"Your new coins are ready to use." = "新しいコインを使用することができます。";
+
+/* The user's profile has been removed from the server error message */
+"Your profile no longer exists." = "プロフィールはもう存在しません。";
+
+/* App needs to be updated alert title */
+"Your version of DrawQuest is out of date. Please update to see this activity item." = "あなたのDrawQuestバージョンは古いものです。このアクテビティ項目を見るためには更新してください。";
+
+/* A reminder that a new Quest of the Day is now available */
+"Today's Quest is now available. Come draw it!" = "今日のクエストの準備ができました。引いてみてね！";

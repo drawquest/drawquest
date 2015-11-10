@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1811" systemVersion="12C3006" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CVSDrawing" representedClassName="CVSDrawing" syncable="YES">
+        <attribute name="usesTemplate" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <relationship name="strokes" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="CVSStroke" inverseName="drawing" inverseEntity="CVSStroke" syncable="YES"/>
+    </entity>
+    <entity name="CVSStroke" representedClassName="CVSStroke" syncable="YES">
+        <attribute name="brushTypeNumber" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="path" optional="YES" transient="YES" syncable="YES"/>
+        <attribute name="strokeColor" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <relationship name="components" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="CVSStrokeComponent" inverseName="stroke" inverseEntity="CVSStrokeComponent" syncable="YES"/>
+        <relationship name="drawing" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CVSDrawing" inverseName="strokes" inverseEntity="CVSDrawing" syncable="YES"/>
+    </entity>
+    <entity name="CVSStrokeComponent" representedClassName="CVSStrokeComponent" syncable="YES">
+        <attribute name="controlPoint1" optional="YES" transient="YES" syncable="YES"/>
+        <attribute name="controlPoint1String" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="controlPoint2" optional="YES" transient="YES" syncable="YES"/>
+        <attribute name="controlPoint2String" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fromPoint" optional="YES" transient="YES" syncable="YES"/>
+        <attribute name="fromPointString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="toPoint" optional="YES" transient="YES" syncable="YES"/>
+        <attribute name="toPointString" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="typeNumber" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="stroke" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="CVSStroke" inverseName="components" inverseEntity="CVSStroke" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CVSDrawing" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="CVSStroke" positionX="160" positionY="192" width="128" height="120"/>
+        <element name="CVSStrokeComponent" positionX="160" positionY="192" width="128" height="195"/>
+    </elements>
+</model>

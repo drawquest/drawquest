@@ -1,0 +1,1193 @@
+/* Email specific invitation message to come draw a particular Quest */
+" I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "我在使用DrawQuest，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用。DrawQuest會向你傳送每日繪畫挑戰，並且你可以建立自己的Quest以與好友分享。我想你可能會喜歡此Quest的: 「%1$@」 \n\n可在此處免費下載DrawQuest: %2$@";
+
+/* A simple button title for when a user has forgotten their password */
+"?" = "?";
+
+/* Share a drawing via Twitter message with Quest title */
+"\"%@\" via @DrawQuest" = "「%@」透過@DrawQuest";
+
+/* this will end up being something like 'Twitter Friends' or 'Facebook Friends' */
+"%@ Friends" = "%@好友";
+
+/* Label displaying the DrawQuest username for a friend from another social service */
+"%@ on DrawQuest" = "%@在使用DrawQuest";
+
+/* Number of characters left for a user to fill in before they reach the maximum limit */
+"%d characters remaining" = "剩餘%d個字元";
+
+/* Label indicating the number of days until the user receives another streak bonus, singular */
+"%ld more day 'til next Streak Bonus" = "到下一個連續獎勵還有%ld天";
+
+/* Label indicating the number of days until the user receives another streak bonus, plural */
+"%ld more days 'til next Streak Bonus" = "到下一個連續獎勵還有%ld天";
+
+/* Number of notes users have left on a drawing, singular count */
+"%ld Note" = "%ld個筆記";
+
+/* Number of notes users have left on a drawing, plural count */
+"%ld Notes" = "%ld個筆記";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please flip your device right-side-up to continue." = "↺ 請右側向上翻轉裝置以繼續。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device back to Portrait to continue." = "↺ 請重新旋轉裝置為縱向以繼續。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device to Portrait to continue." = "↺ 請旋轉裝置為縱向以繼續。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device back to Portrait to continue." = "↻ 請重新旋轉裝置為縱向以繼續。";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device to Portrait to continue." = "↻ 請旋轉裝置為縱向以繼續。";
+
+/* Navigation title for about us modal */
+"About DrawQuest" = "關於DrawQuest";
+
+/* Navigation title for about us modal, shortened for iPhone */
+"About" = "關於";
+
+/* Label for the area where all of the user's relevant activity is collected */
+"Activity" = "活動";
+
+/* Label for adding an email address from user's address book */
+"Add Email Addresses from Contacts" = "從連絡人新增電子郵件地址";
+
+/* Label for manually adding an email address to list of recipients */
+"Add Email Addresses Manually" = "手動新增電子郵件地址";
+
+/* Label for adding recipients' email addresses */
+"Add Email" = "新增電子郵件";
+
+/* Add friends error alert title */
+"Add Friends Failed" = "新增好友失敗";
+
+/* Title for modal where the user can invite their friends to DrawQuest */
+"Add Friends" = "新增好友";
+
+/* Add user completion button title */
+"Add" = "新增";
+
+/* Address book authorization failed error message */
+"Address Book Error" = "通訊錄出錯";
+
+/* Cancel button for alert view */
+"AlertViewButtonTitleCancel" = "取消";
+
+/* Delete button for alert view */
+"AlertViewButtonTitleDelete" = "刪除";
+
+/* Dismiss button for alert view */
+"AlertViewButtonTitleDismiss" = "關閉";
+
+/* OK button for alert view */
+"AlertViewButtonTitleOK" = "好";
+
+/* Retry button for alert view */
+"AlertViewButtonTitleRetry" = "重試";
+
+/* Tab title which shows all items */
+"AllTabTitle" = "所有";
+
+/* Title for sign up modal when the user is nearly finished signing up */
+"Almost There..." = "快完成了...";
+
+/* Option to sign into DrawQuest if the user is already registered */
+"Already a Member?" = "已是會員?";
+
+/* Sign in button title as alternative to signing up */
+"Already have an account?" = "已有一個帳戶?";
+
+/* Unknown error alert message */
+"An unexpected error occurred" = "發生了一個意外錯誤";
+
+/* Unknown DrawQuest error message */
+"An unknown error occurred communicating with DrawQuest" = "與DrawQuest通訊時發生未知錯誤";
+
+/* Unknown Facebook authorization error message */
+"An unknown error occurred communicating with Facebook. Please try again." = "與Facebook通訊時發生未知錯誤。請重試。";
+
+/* Unknown Twitter error alert message */
+"An unknown error occurred communicating with Twitter" = "與Twitter通訊時發生未知錯誤。";
+
+/* Generic unknown error message */
+"An unknown error occurred." = "發生了一個未知錯誤。";
+
+/* Continue on and do not invite any users confirmation alert message */
+"Are you sure you want to continue without inviting any friends?" = "確定不邀請任何好友繼續嗎?";
+
+/* Delete upload alert message */
+"Are you sure you want to delete this drawing?" = "確定要刪除此繪畫嗎?";
+
+/* Flag an inappropriate drawing for staff review message */
+"Are you sure you want to flag this drawing as inappropriate?" = "確定要標記此繪畫為不宜嗎?";
+
+/* Flag an inappropriate Quest for staff review alert message */
+"Are you sure you want to flag this Quest as inappropriate?" = "確定要標記此Quest為不宜嗎?";
+
+/* Delete a drawing alert message */
+"Are you sure you want to permanently delete your drawing?" = "確定要永久刪除你的繪畫嗎?";
+
+/* User requested sign out confirmation message */
+"Are you sure you want to sign out?" = "確定登出嗎?";
+
+/* Destructive request alert confirmation title */
+"Are you sure?" = "確定?";
+
+/* Authentication error alert title */
+"Authentication Error" = "驗證出錯";
+
+/* User authorization error alert title */
+"Authorization Error" = "授權出錯";
+
+/* The user cancelled authorization message */
+"Authorization was cancelled." = "授權已取消。";
+
+/* Facebook authorization failed, retry prompt */
+"Authorization with Facebook failed. Please try again." = "使用Facebook授權失敗。請重試。";
+
+/* Twitter authorization failed, prompt to try again */
+"Authorization with Twitter failed. Please try again." = "使用Twitter授權失敗。請重試。";
+
+/* User is being authorized message */
+"Authorizing" = "正在授權";
+
+/* Editor template failed to download error title */
+"Background Image Failure" = "背景圖片下載失敗";
+
+/* A short label for the biographical information of the user */
+"Bio" = "個人簡介";
+
+/* A collection of tools that can be used to draw in the editor */
+"Brushes" = "畫筆";
+
+/* Label for option to save to Apple Photos app */
+"Camera Roll" = "相機膠捲";
+
+/* Label for changing the user's password */
+"Change Password" = "更改密碼";
+
+/* Share via text message body */
+"Check out this drawing I made on DrawQuest: \"%@\"\n\n You should download the app at http://example.com/download" = "看看這張我在DrawQuest上完成的繪畫: 「%@」\n\n 可在此處下載該應用: http://example.com/download";
+
+/* Invitation message to view a drawing on DrawQuest followed by download link */
+"Check out this drawing on DrawQuest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "看看這張DrawQuest上的繪畫: 「%1$@」 \n\n可在此處免費下載DrawQuest: %2$@";
+
+/* Invitation message to view a drawing on DrawQuest with Quest title */
+"Check out this drawing on DrawQuest: \"%@\"" = "看看這張DrawQuest上的繪畫: 「%@」";
+
+/* Invitation to view a drawing on DrawQuest prefix message */
+"Check out this drawing on DrawQuest!" = "看看這張DrawQuest上的繪畫!";
+
+/* Prompt for a user to select the appropriate Twitter account from a list */
+"Choose a Twitter Account" = "選擇一個Twitter帳戶";
+
+/* Prompt to choose a photo from the device's Camera Roll to use as avatar */
+"Choose Existing" = "選擇現有";
+
+/* Plural form of our DrawQuest specific currency of 'Coin' */
+"Coins" = "錢幣";
+
+/* A collection of colors that can be used to draw in the editor */
+"Colors" = "色彩";
+
+/* User should return for a new Quest tomorrow, or they can create a Quest themselves display message */
+"Come back tomorrow for a new Quest, or create your own!" = "明天回來獲取一個新Quest，或建立自己的!";
+
+/* Twitter specific invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on @DrawQuest! %@" = "來與我一起在@DrawQuest上畫「%1$@」! %2$@";
+
+/* Twitter specific invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on @DrawQuest! http://www.example.com/download" = "來與我一起在@DrawQuest上畫「%@」! http://example.com/download";
+
+/* Invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on DrawQuest! %@" = "來與我一起在DrawQuest上畫「%1$@」! %2$@";
+
+/* Invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on DrawQuest! http://www.example.com/download" = "來與我一起在DrawQuest上畫「%@」! http://example.com/download";
+
+/* Invitation email for another user to join DrawQuest via a particular Quest subject line */
+"Come draw \"%@\" with me on DrawQuest!" = "來與我一起在DrawQuest上畫「%@」!";
+
+/* Generic invitation to DrawQuest message */
+"Come draw with me on DrawQuest! http://www.example.com/download" = "來與我一起在DrawQuest上畫畫! http://example.com/download";
+
+/* Invite a friend via email message subject */
+"Come draw with me on DrawQuest!" = "來與我一起在DrawQuest上畫畫!";
+
+/* Alert confirm button title */
+"Confirm" = "確認";
+
+/* Confirmation alert title */
+"Confirmation" = "確認";
+
+/* Facebook authorization and invite prompt */
+"Connect with Facebook to see your list of friends.\nThen choose friends you'd like to add." = "使用Facebook連線以檢視你的好友列表。\n然後選擇你想新增的好友。";
+
+/* Prompt to connect with Twitter to invite friends display message */
+"Connect with Twitter to see your list of friends.\nThen choose friends you'd like to add." = "使用Twitter連線以檢視你的好友列表。\n然後選擇你想新增的好友。";
+
+/* A label for inviting other users from the Address Book */
+"Contacts" = "連絡人";
+
+/* Continue on and do not invite any users confirmation alert title */
+"Continue without inviting?" = "不邀請繼續嗎?";
+
+/* Ignore connection failure confirmation button title */
+"Continue" = "繼續";
+
+/* Cost of shop items in coin currency */
+"Cost: %@ coins" = "價格: %@個錢幣";
+
+/* Prompt to create a new Quest */
+"Create a Quest" = "建立一個Quest";
+
+/* Instructions to create a Quest and share it with friends */
+"Create your own Quest and share it with friends!" = "建立你自己的Quest，並與好友分享!";
+
+/* Preceeded by a username indicating that they have created a Quest */
+"created a Quest" = "建立了一個Quest";
+
+/* Label explaining that the above user is responsible for creating the current Quest */
+"Created this Quest" = "建立了此Quest";
+
+/* The user's current password before they change it, placeholder text */
+"Current Password" = "當前密碼";
+
+/* Delete a drawing alert title */
+"Delete Drawing" = "刪除繪畫";
+
+/* Label for option to delete a drawing from DrawQuest */
+"Delete this Drawing" = "刪除此繪畫";
+
+/* Delete upload alert title */
+"Delete Upload" = "刪除上傳";
+
+/* Destroy item alert confirmation button title */
+"Delete" = "刪除";
+
+/* Sign up button title as alternative to signing in */
+"Don't have an account?" = "沒有一個帳戶?";
+
+/* User is done with this action button title */
+"Done" = "完成";
+
+/* Prompt to draw a Quest template */
+"Draw a Template" = "畫一個範本";
+
+/* Option to draw the first quest at a later time */
+"Draw This Later" = "以後再畫";
+
+/* Label for option to draw a particular Quest */
+"Draw this Quest" = "畫此Quest";
+
+/* Label for option to draw a particular Quest */
+"Draw This Quest" = "畫此Quest";
+
+/* Draw this Quest button title */
+"Draw this" = "畫此";
+
+/* Instructions explaining that users can draw something every day */
+"Draw, every day.\n\n " = "可每天畫。\n\n";
+
+/* Title for the area where the user can draw Quests */
+"DrawAreaTitle" = "繪畫";
+
+/* Delete drawing request error alert title */
+"Drawing delete failed" = "繪畫刪除失敗";
+
+/* Label for a colleciton of drawings */
+"Drawings" = "繪畫";
+
+/* Prompt for a user to draw the Quest */
+"DrawPrompt" = "繪畫";
+
+/* State sync with DrawQuest failed error title */
+"DrawQuest Connection Failed" = "DrawQuest連線失敗";
+
+/* Post without sharing alert message */
+"DrawQuest is more fun when you share with friends. Would you still like to continue without sharing?" = "與好友分享DrawQuest更有趣。仍想不分享繼續嗎?";
+
+/* Label for a link to the user's DrawQuest profile web page */
+"DrawQuest Profile Page" = "DrawQuest個人檔案頁";
+
+/* Update for DrawQuest app is available indicator label */
+"DrawQuest Update Available!" = "DrawQuest有更新!";
+
+/* File save access denied error message */
+"DrawQuest was denied access to your photo library. You can allow access using the iOS Settings app." = "DrawQuest被拒絕存取你的照片庫。可在iOS設定應用中允許存取。";
+
+/* Twitter access was denied by user error alert message */
+"DrawQuest was not granted access to your Twitter accounts." = "DrawQuest未被允許存取你的Twitter帳戶。";
+
+/* DrawQuest */
+"DrawQuest" = "DrawQuest";
+
+/* Label indicating the user can earn 5 coins with fixed white space */
+"Earn      5 Coins" = "掙得 5 個錢幣";
+
+/* Label indicating the user can earn 25 coins with fixed white space */
+"Earn      25 Coins" = "掙得 25 個錢幣";
+
+/* Instructions for earning and spending coins */
+"Earn coins by being an active Quester. Spend coins to unlock more colors!" = "成為一個活躍Quester可掙得錢幣。使用錢幣可解鎖更多色彩!";
+
+/* Instructions explaining the coin economy */
+"Earn coins by drawing Quests. Spend coins to get more colors." = "畫Quest可掙得錢幣。使用錢幣可獲得更多色彩。";
+
+/* Email */
+"Email" = "電子郵件";
+
+/* A simple email placeholder that is obviously an invalid placeholder email */
+"email@email.com" = "email@example.com";
+
+/* Empty drawing alert title */
+"Empty Drawing" = "空繪畫";
+
+/* Quest title placeholder text */
+"Enter Your Quest Title" = "輸入你的Quest標題";
+
+/* Invite error alert title */
+"Error Inviting Friends" = "邀請好友出錯";
+
+/* Invite error to user error title prefix */
+"Error sending invite to:" = "傳送邀請出錯:";
+
+/* Invite error alert title */
+"Error sending invites." = "傳送邀請出錯。";
+
+/* Generic error message prefix */
+"Error: " = "錯誤:";
+
+/* Generic error alert title */
+"Error" = "錯誤";
+
+/* Introductory phrase explaining how to use the app */
+"Every day, DrawQuesters from around the world complete a daily drawing challenge. Quests don't have a right or wrong answer - use your imagination, and have fun!" = "每一天，來自世界各地的DrawQuesters都可完成一個每日繪畫挑戰。Quest沒有一個或對或錯的答案 – 只需發揮你的想像力並玩得開心!";
+
+/* Title for section where users can explore for new content */
+"Explore" = "探索";
+
+/* Facebook error alert title */
+"Facebook Error" = "Facebook出錯";
+
+/* Label for a link to the user's Facebook profile web page */
+"Facebook Profile Page" = "Facebook個人檔案頁";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Find your friends from other services that are registered on DrawQuest button title */
+"Find Your Friends on DrawQuest" = "在DrawQuest上查找你的好友";
+
+/* Flag an inappropriate drawing for staff review title */
+"Flag Drawing" = "標記繪畫";
+
+/* Flag an inappropriate Quest for staff review alert title */
+"Flag Quest" = "標記Quest";
+
+/* Flag an inappropriate drawing or Quest for staff review alert confirmation button title */
+"Flag" = "標記";
+
+/* Flickr */
+"Flickr" = "Flickr";
+
+/* Instructions explaining how following, starring and playing all work */
+"Follow friends and other Questers. Star and play drawings you like." = "關注好友和其他Questers。可以評分和播放你喜歡的繪畫。";
+
+/* Prompt to follow users so that they can see their drawings on this page */
+"Follow more Questers and their drawings will appear here!" = "關注更多Questers，他們的畫作會出現在這裡!";
+
+/* Prompt to follow a user button title */
+"Follow" = "關注";
+
+/* Instructions on how followers will see the new Quest */
+"Followers will see your Quest in their \"New\" tab" = "關注者會在其「新」標籤下看見你的Quest";
+
+/* Label for a collection of users a particular user is following */
+"Followers" = "關注者";
+
+/* Label for the area where the content from followed users will appear */
+"FollowingHomeAreaLabel" = "正在關注";
+
+/* Request fo follow a user is being completed indicator label */
+"FollowingRequestPending" = "正在關注";
+
+/* Label that confirms a user is following another user */
+"FollowingStatusLabel" = "正在關注";
+
+/* Label for a collection of users following a particular user */
+"FollowingUserListLabel" = "正在關注";
+
+/* Use tapped button indicating they forgot their password alert title */
+"Forgot Password?" = "忘記了密碼?";
+
+/* Use tapped button indicating they forgot their password alert confirmation button title */
+"Forgot" = "忘記了";
+
+/* Quest title instructing users to draw the smiley face a smile */
+"Give him a smile!" = "給他一個微笑!";
+
+/* Instructions to star other users' drawings */
+"Give stars to your favorite drawings." = "給你最喜歡的繪畫評分。";
+
+/* Sign up completed modal title */
+"Happy Questing!" = "快樂Questing!";
+
+/* The user's homepage in the app */
+"Home" = "主頁";
+
+/* Code of conduct agreement label */
+"I agree to keep my artwork classy\nand appropriate for all ages." = "我同意堅持創作優雅\n且適宜所有年齡段人士的繪畫。";
+
+/* Message inviting another to come draw the Quest the user just created */
+"I just created a Quest on DrawQuest: \"%@\" Come draw it with me! http://example.com/download" = "我剛在DrawQuest上建立了一個Quest: 「%@」 來與我一起畫! http://example.com/download";
+
+/* Email specific invitation message to view a drawing */
+"I thought you'd like this drawing made with DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad: \"%@\" \n\nDownload DrawQuest for free here: %@" = "我想你會喜歡這張用DrawQuest創作的畫，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用: 「%1$@」 \n\n可在此處免費下載DrawQuest: %2$@";
+
+/* Button title indicating the user is ready to begin */
+"I'm ready for my first Quest!" = "我已準備好開始我的第一個Quest!";
+
+/* Twitter specific invitation message for another user to join DrawQuest */
+"I'm using @DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "我在使用@DrawQuest，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用，來與我一起畫畫! http://example.com/download";
+
+/* Invitation message for another user to join DrawQuest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "我在使用DrawQuest，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用，來與我一起畫畫! http://example.com/download";
+
+/* Email specific invitation message for a user to come draw a specific Quest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: http://www.example.com/download" = "我在使用DrawQuest，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用。DrawQuest會向你傳送每日繪畫挑戰，並且你可以建立自己的Quest以與好友分享。我想你可能會喜歡此Quest的: 「%@」 \n\n可在此處免費下載DrawQuest: http://example.com/download";
+
+/* Email specific invitation message for another user to join DrawQuest, includes the inviting user's username */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\" \n\n Download DrawQuest for free here: http://www.example.com/download" = "我在使用DrawQuest，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用。DrawQuest會向你傳送每日繪畫挑戰，並且可以建立自己的Quest以與好友分享。你可以在應用內使用「%@」關注我 \n\n可在此處免費下載DrawQuest: http://example.com/download";
+
+/* Invite a friend via email message body */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\". \n\nDownload DrawQuest for free here: %@" = "我在使用DrawQuest，一款用於iPhone、iPod touch及iPad的免費創意繪畫應用。DrawQuest會向你傳送每日繪畫挑戰，並且可以建立自己的Quest以與好友分享。你可在應用內使用「%1$@」關注我 \n\n可在此處免費下載DrawQuest: %2$@";
+
+/* In-App Purchase failure error alert tile */
+"In-App Purchase Failed" = "應用內購買失敗";
+
+/* In-App Purchases disabled on device error alert message */
+"In-App Purchases have been disabled on this device." = "應用內購買已在此裝置上禁用。";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Invite user action sheet title */
+"Invite %@ to DrawQuest" = "邀請%@使用DrawQuest";
+
+/* Invite friends prompt message */
+"Invite your friends!" = "邀請你的好友!";
+
+/* Invite others to DrawQuest button title */
+"Invite" = "邀請";
+
+/* User has been invited to DrawQuest indicator label */
+"Invited" = "已邀請";
+
+/* The user has no Facebook friends message */
+"It looks like you don't have any Facebook friends to invite." = "似乎你沒有任何Facebook好友可邀請。";
+
+/* The user has no Twitter friends available to invite display message */
+"It looks like you don't have any Twitter friends to invite." = "似乎你沒有任何Twitter好友可邀請。";
+
+/* User has no contacts in their address book to invite */
+"It looks like your Address Book is empty." = "似乎你的通訊錄是空的。";
+
+/* Sign up modal title */
+"Join DrawQuest" = "加入DrawQuest";
+
+/* Title for sign up modal */
+"Join" = "加入";
+
+/* Preceeded by a username indicating that they have just joined DrawQuest */
+"joined DrawQuest" = "加入了DrawQuest";
+
+/* Alert title when the editor has repeatedly crashed */
+"Keep trying?" = "Keep trying?";
+
+/* Date the item was last updated */
+"Last Updated: %@" = "上次更新: %@";
+
+/* App update available alert dismiss button title */
+"Later" = "以後再說";
+
+/* Button title indicating the user can tap to load in more items */
+"Load More" = "載入更多";
+
+/* More items are loading in from the server indicator label */
+"Loading More" = "載入更多";
+
+/* Data is being loaded from server indicator label */
+"Loading..." = "正在載入...";
+
+/* The user must wait as a request is currently being made. */
+"Loading" = "正在載入";
+
+/* Mail app error alert title */
+"Mail Error" = "郵件出錯";
+
+/* Label for option to share using the Apple Mail app */
+"Mail" = "郵件";
+
+/* Label for option to share using the Apple Messages app */
+"Message" = "訊息";
+
+/* Messages app error title */
+"Messages Error" = "訊息出錯";
+
+/* Label for the user's first Quest */
+"My First Quest" = "我的第一個Quest";
+
+/* Name required for Quest alert title */
+"Name your Quest!" = "給你的Quest命名!";
+
+/* Indicating an item has never been updated */
+"Never" = "從不";
+
+/* Activity item notifying users new colors are available in the shop */
+"New colors available!" = "有新色彩!";
+
+/* New colors available in shop message */
+"New Colors!" = "新色彩!";
+
+/* The user's new password they would like to change it to repeated for safety, placeholder text */
+"New Password Again" = "再次輸入新密碼";
+
+/* The user's new password they would like to change it to */
+"New Password" = "新密碼";
+
+/* A new Quest is available alert label */
+"New Quest!" = "新Quest!";
+
+/* App update available alert title */
+"New Version Available!" = "有新版本!";
+
+/* Shop item has been recently added indicator label */
+"New!" = "新!";
+
+/* Shop item is new to the user indicator label */
+"NewShopItemIndicatorLabel" = "新";
+
+/* Tab title which shows the newest items in reverse chron order */
+"NewTabTitle" = "新";
+
+/* Proceed to the next phase of the current action */
+"Next" = "下一步";
+
+/* Message congratulating the user on completing another drawing for the day */
+"Nice drawing! You're on a roll today!" = "畫得漂亮! 今天興致不錯!";
+
+/* Message complementing users on a job well done as they post a drawing */
+"Nice Questing!" = "漂亮的Questing!";
+
+/* Invite friends failed because no accounts are set up alert title */
+"No Email Accounts" = "無電子郵件帳戶";
+
+/* No drawings exist for this Quest message */
+"No one's drawn this Quest yet. Be the first!" = "還沒有人畫此Quest。成為第一個!";
+
+/* No quests found on server display message */
+"No quests to display." = "無Quest可顯示。";
+
+/* No Twitter accounts are configured on device error alert tile */
+"No Twitter Accounts" = "無Twitter帳戶";
+
+/* Label for notification options */
+"Notifications" = "通知";
+
+/* The user's old password before they change it */
+"Old Password" = "舊密碼";
+
+/* The user's DrawQuest specific password */
+"Password" = "密碼";
+
+/* The user failed to enter matching passwords during password change error alert message */
+"Passwords must match." = "密碼必須匹配。";
+
+/* Label for the photo avatar to represent the user */
+"Photo" = "照片";
+
+/* Label for all the areas of the app the user can visit */
+"Places" = "地方";
+
+/* Instructions to watch the playback for drawings */
+"Play back your favorite drawings to see how your fellow Questers created their masterpiece." = "播放最喜歡的繪畫以查看Questers同伴們是如何畫出來的。";
+
+/* Drawing playback error title */
+"Playback Error" = "播放出錯";
+
+/* User has played current drawing suffix */
+"played this drawing" = "播放了此繪畫";
+
+/* Preceeded by a username indicating that they have played your drawing */
+"played your drawing" = "播放了你的繪畫";
+
+/* Request to delete account email body with reason for doing so asked of user */
+"Please close my account and remove all the content associated with it. I understand that this cannot be undone.\n\nThe reason I'm closing my account is:" = "請關閉我的帳戶並刪除所有與之關聯的內容。我瞭解此動作無法復原。\n\n關閉帳戶原因是:";
+
+/* Empty drawing alert message */
+"Please draw something before posting it!" = "請在發表前畫一些東西!";
+
+/* Name required for Quest alert message */
+"Please enter a title for your Quest to continue." = "請為你的Quest輸入一個標題以繼續。";
+
+/* User needs to enter a valid email address indicator label */
+"Please enter a valid email address." = "請輸入一個有效的電子郵件地址。";
+
+/* Invalid email alert title */
+"Please enter a valid email address" = "請輸入一個有效的電子郵件地址";
+
+/* User needs to enter a valid password indicator label */
+"Please enter a valid password." = "請輸入一個有效的密碼。";
+
+/* User needs to enter a valid username indicator label */
+"Please enter a valid username." = "請輸入一個有效的使用者名稱。";
+
+/* The user failed to enter and/or repeat a new password during password change error alert message */
+"Please enter and repeat your new password." = "請輸入新密碼並重複。";
+
+/* The user failed to enter an old password during password change error alert message */
+"Please enter your old password." = "請輸入你的舊密碼。";
+
+/* Prompt to attempt a request again */
+"Please try again" = "請重試";
+
+/* Activity item request that the user update to a newer version of the app */
+"Please update DrawQuest to view this." = "請更新DrawQuest以檢視它。";
+
+/* Instructions on how the new Quest can become popular */
+"Popular Quests appear in the \"All\" tab. Share yours to increase your chances!" = "受歡迎的Quest將出現在「所有」標籤下。分享你的Quest以增加機會!";
+
+/* Upload error alert title */
+"Post Error" = "發表出錯";
+
+/* Upload the completed drawing to DrawQuest button title */
+"Post to DrawQuest" = "發表到DrawQuest";
+
+/* Begin upload button title */
+"Post" = "發表";
+
+/* Preceeded by a username indicating that they have posted a drawing of their own */
+"posted a drawing" = "發表了一個繪畫";
+
+/* Upload error alert title */
+"Posting Error" = "發表出錯";
+
+/* The comment upload failed, prompt to try the upload again */
+"Posting failed. Try again?" = "發表失敗。重試?";
+
+/* Image upload failed message */
+"Posting Image Failed.\nTry Again?" = "發表圖片失敗。\n重試?";
+
+/* User should wait as the image is uploading */
+"Posting Image..." = "發表圖片…";
+
+/* Playback data upload failed message */
+"Posting Playback Data Failed.\nTry Again?" = "發表播放資料失敗。\n重試?";
+
+/* User should wait as the playback data is uploading */
+"Posting Playback Data..." = "發表播放資料...";
+
+/* Upload to Facebook failed message */
+"Posting to Facebook Failed.\nTry Again?" = "發表到Facebook失敗。\n重試?";
+
+/* Comment upload failed message */
+"Posting to Quest Failed.\nTry Again?" = "發表到Quest失敗。\n重試?";
+
+/* User should wait as the comment is uploading */
+"Posting to Quest..." = "發表到Quest...";
+
+/* Upload to Twitter failed message */
+"Posting to Twitter Failed.\nTry Again?" = "發表到Twitter失敗。\n重試?";
+
+/* Upload is in progress indicator label */
+"Posting" = "正在發表";
+
+/* Playback data is being loaded indicator label */
+"Preparing Playback" = "正在準備播放";
+
+/* A blocking HUD message while the editor is loading in. */
+"Preparing Quest" = "正在準備Quest";
+
+/* Label to view the Privacy Policy */
+"Privacy Policy" = "隱私政策";
+
+/* Profile error alert title */
+"Profile error:" = "個人檔案出錯:";
+
+/* Label for the user's own profile */
+"Profile" = "個人檔案";
+
+/* Prompt to pull down on the page to refresh content */
+"Pull to refresh..." = "下拉以重新整理…";
+
+/* Store purchase failure error title */
+"Purchase Error" = "購買出錯";
+
+/* Coin based shop purchase alert confirmation button title */
+"Purchase" = "購買";
+
+/* Shop item has been purchased indicator label */
+"Purchased" = "已購買";
+
+/* Instructions explaining why you should say allow push notifications */
+"Push notifications remind you when there's a new Quest to draw." = "當有新Quest可畫時推送通知會提醒你。";
+
+/* Label for the option to receive push notifications when there is a new Quest of the Day */
+"Quest of the Day Alerts" = "當天Quest提醒";
+
+/* The name for our daily Quests the users can draw */
+"Quest" = "Quest";
+
+/* Label for a colleciton of Quests */
+"Quests" = "Quests";
+
+/* Message asking if users are ready to complete their first drawing */
+"Ready for your first Quest?" = "準備開始你的第一個Quest了嗎?";
+
+/* Alert message */
+"Really delete your drawing?" = "Really delete your drawing?";
+
+/* Tab title which shows items the user has recently completed */
+"RecentTabTitle" = "最近";
+
+/* Label for list of users who will receive an email */
+"Recipients" = "收件者";
+
+/* Refresh this Quest button title */
+"Refresh" = "重新整理";
+
+/* Prompt to release the page to refresh content */
+"Release to refresh..." = "釋放以重新整理…";
+
+/* Preceeded by a username indicating that they have remixed your drawing */
+"remixed your drawing" = "重新混合了你的繪畫";
+
+/* The user's new password they would like to change it to repeated for safety */
+"Repeat New Password" = "重複新密碼";
+
+/* Label to report problems to staff */
+"Report a Problem" = "報告問題";
+
+/* Label for option to flag an innappropriate drawing for staff review */
+"Report this Drawing" = "舉報此繪畫";
+
+/* Label for option to flag an inappropriate Quest for staff review */
+"Report this Quest" = "舉報此Quest";
+
+/* Error restoring purchases the user has made in the shop alert title */
+"Restore Error" = "還原出錯";
+
+/* Restore all shop purchases previously made button title */
+"Restore Purchases" = "還原購買";
+
+/* Prompt for a user to attempt a failed connection again. */
+"Retry" = "重試";
+
+/* File save failure alert title */
+"Saving Failed" = "儲存失敗";
+
+/* Search for user autocomplete button title */
+"Search for '%@'" = "搜尋「%@」";
+
+/* Search for user button title */
+"Search for..." = "搜尋...";
+
+/* Search for users search field placeholder text */
+"Search People" = "搜尋使用者";
+
+/* Instructions to tap the menu button to see new activity */
+"See what's new by tapping the menu button." = "點按選單按鈕可檢視新活動。";
+
+/* API Service error alert title */
+"Service Error" = "服務出錯";
+
+/* Photo is being uploaded and set as user's avatar loading indicator label */
+"Setting Avatar" = "設定頭像";
+
+/* The title for the area where the user can change their account settings */
+"Settings" = "設定";
+
+/* Share drawing to Tumblr modal title */
+"Share on Tumblr" = "在Tumblr上分享";
+
+/* Label for option to share posts to their Facebook timeline by default */
+"Share to Facebook Timeline" = "分享到Facebook時間軸";
+
+/* Label for option to share posts to their Twitter followers by default */
+"Share to Twitter" = "分享到Twitter";
+
+/* Prompt to have users share their drawing with friends which will earn them coins */
+"Share with Friends to earn extra coins" = "與好友分享可獲得額外錢幣";
+
+/* Message inviting users to share the drawing they are posting with friends */
+"Share with Friends" = "與好友分享";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile!" = "分享你的個人檔案!";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile" = "分享你的個人檔案";
+
+/* Drawing being published with options to share the drawing modal title */
+"Share" = "分享";
+
+/* Label for sharing options */
+"Sharing" = "分享";
+
+/* Shop related error alert title */
+"Shop Error" = "商店出錯";
+
+/* Button title in color picker encouraging users to go to the shop */
+"Shop for More Colors!" = "購買更多色彩!";
+
+/* Title for the shop area of the app where users can purchase new items */
+"Shop" = "商店";
+
+/* Prompt for the user to sign into their DrawQuest account so they can upload an item */
+"Sign In & Post" = "登入並發表";
+
+/* Prompt to sign into an existing DrawQuest account to see what others are drawing */
+"Sign In and see what your fellow Questers are drawing!" = "登入並檢視你的Questers同伴們都在畫什麼!";
+
+/* Prompt to sign in and immediately begin drawing */
+"Sign In and Start Drawing" = "登入並開始繪畫";
+
+/* Sign in failed alert title */
+"Sign In Failed" = "登入失敗";
+
+/* Prompt for the user to sign into their DrawQuest account */
+"Sign In" = "登入";
+
+/* Sign the currently signed in user out of DrawQuest */
+"Sign Out" = "登出";
+
+/* Prompt for the user to sign up for DrawQuest so they can upload an item */
+"Sign Up & Post" = "註冊並發表";
+
+/* Prompt to sign up and immediately begin drawing */
+"Sign Up and Start Drawing" = "註冊並開始繪畫";
+
+/* Prompt to sign up for DrawQuest so they can start following other users */
+"Sign Up and start following other Questers!" = "註冊並開始關注其他Questers!";
+
+/* Sign up failed alert title */
+"Sign Up Failed" = "註冊失敗";
+
+/* Prompt to sign up, post, and collect the 25 coin reward for doing so */
+"Sign up for DrawQuest to post your drawing and collect your first 25 coins!" = "註冊DrawQuest以發表你的繪畫並收集25個獎勵錢幣!";
+
+/* Sign up using email button title */
+"Sign Up Using Email" = "使用電子郵件註冊";
+
+/* Prompt for the user to sign up for DrawQuest */
+"Sign Up" = "註冊";
+
+/* Message letting the user know they must wait as the sign out is completed */
+"Signing out" = "正在登出";
+
+/* Option to continue without completing the current step */
+"Skip" = "跳過";
+
+/* Prompt to drag with a finger to advance */
+"SLIDE" = "滑動";
+
+/* Label for links to web profile for various services */
+"Social Profile Links" = "社交主頁連結";
+
+/* Delete drawing request error alert message */
+"Something went wrong and we couldn't delete your drawing. Please try again." = "出錯了，無法刪除你的繪畫。請重試。";
+
+/* User profile not found on server error alert message */
+"Sorry that profile no longer exists." = "抱歉，該個人檔案已不存在。";
+
+/* Invite friends failed because no accounts are set up alert message */
+"Sorry, but to invite friends you'll need to setup an email account on your device first." = "抱歉，要邀請好友，你需要先在裝置上設定一個電子郵件帳戶。";
+
+/* Message explaining that the user can only invite 50 or less friends at one time */
+"Sorry, but you can't select more than 50 friends to invite at once." = "抱歉，你不能選擇超過50個好友一次邀請。";
+
+/* Alert message */
+"Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again." = "Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again.";
+
+/* Drawing could not be found on server message */
+"Sorry, that drawing could not be found." = "抱歉，無法找到該繪畫。";
+
+/* Label for the option to receive push notifications when someone stars one of their drawings */
+"Starred Drawing Alerts" = "繪畫評分提醒";
+
+/* User has starred current drawing suffix */
+"starred this drawing" = "給此繪畫評了分";
+
+/* Preceeded by a username indicating that they have starred your drawing */
+"starred your drawing" = "給你的繪畫評了分";
+
+/* Preceeded by a username indicating that they have started following you */
+"started following you" = "已開始關注你";
+
+/* Stop following user alert confirmation button title */
+"Stop Following " = "停止關注";
+
+/* Successful request indicator label */
+"Success" = "成功";
+
+/* Label for support links */
+"Support" = "支援";
+
+/* Prompt to use the camera function to take a photo as avatar */
+"Take a Photo" = "拍照";
+
+/* User biographical field placeholder text prompting user to tap the field */
+"Tap here to say something about yourself!" = "點按這裡自我介紹一下!";
+
+/* Label to view the Terms of Service */
+"Terms of Service" = "服務條款";
+
+/* Coin purchase success alert title */
+"Thanks!" = "謝謝!";
+
+/* Alert message requesting the user update their app because they received a notification not supported by the current version */
+"That notification is not supported by this version of DrawQuest. Please update to the latest version!" = "此DrawQuest版本不支援該通知。請更新到最新版!";
+
+/* User cancelled Facebook authorization message */
+"The operation was cancelled." = "操作已取消。";
+
+/* Prompt to try a failed request once again */
+"The request failed. Try again?" = "請求失敗。重試?";
+
+/* Empty explore page message */
+"There are no featured drawings to show right now. Try again later." = "現在無精選繪畫可顯示。請稍後再試。";
+
+/* No Twitter accounts are configured on device error alert message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings on your device." = "沒有設定Twitter帳戶。可在裝置的設定中新增或建立一個Twitter帳戶。";
+
+/* Quest gallery load failure alert message */
+"There was a problem loading this quest. Please return to the quest archive and try loading the the gallery again." = "載入此Quest遇到問題。請返回Quest存檔並重新嘗試載入圖庫。";
+
+/* Unknown DrawQuest upload error message */
+"There was a problem saving the drawing, DrawQuest is unable to post." = "儲存此繪畫遇到問題，DrawQuest無法發表。";
+
+/* Invite error to user error message prefix */
+"There was a problem sending your invitation via Twitter. Error code:" = "透過Twitter傳送你的邀請遇到問題。錯誤代碼:";
+
+/* Messages app error message */
+"There was an error opening the Messages app." = "開啟訊息應用出現錯誤。";
+
+/* Unknown Twitter error alert message */
+"There was an unexpected error communicating with Twitter. Please try again." = "與Twitter通訊出現意外錯誤。請重試。";
+
+/* Unknown DrawQuest upload error message */
+"There was an unexpected problem and DrawQuest is unable to post." = "發生了一個意外問題，DrawQuest無法發表。";
+
+/* App update available alert message */
+"There's a new version of DrawQuest available. Upgrade now?" = "DrawQuest有一個新版本。立即升級?";
+
+/* A message explaining that the user is seeing something unexpected and they should try again at a later time */
+"This shouldn't be empty. Please try back later!" = "這不應該是空的。請稍後再試!";
+
+/* Simple time unit suffix indicating days, e.g.: 5d */
+"TimestampTimesDays" = "%d天";
+
+/* Simple time unit suffix indicating hours, e.g.: 5h */
+"TimestampTimesHours" = "%d小時";
+
+/* Timestamp label for an item that showed up in the last few seconds */
+"TimestampTimesJustNow" = "剛剛";
+
+/* Simple time unit suffix indicating minutes, e.g.: 5m */
+"TimestampTimesMinutes" = "%d分鐘";
+
+/* Simple time unit suffix indicating seconds, e.g.: 5s */
+"TimestampTimesSeconds" = "%d秒";
+
+/* Simple time unit suffix indicating weeks, e.g.: 5w */
+"TimestampTimesWeeks" = "%d周";
+
+/* Simple time unit suffix indicating years, e.g.: 5y */
+"TimestampTimesYears" = "%d年";
+
+/* Label for the Quest of the Day */
+"Today's Quest" = "今天的Quest";
+
+/* Tab title which shows the best items in order of ranking */
+"TopTabTitle" = "最佳";
+
+/* Total coins a user has collected tally prefix */
+"Total coins:" = "總錢幣:";
+
+/* Label for a list of recent Quests the user can complete */
+"Try These Recent Quests" = "試試這些最新的Quest";
+
+/* Tumblr */
+"Tumblr" = "Tumblr";
+
+/* Twitter API keys are missing error message */
+"Twitter API keys are missing!" = "Twitter API金鑰丟失!";
+
+/* Twitter authorization error alert title */
+"Twitter Auth Error" = "Twitter身份驗證出錯";
+
+/* Twitter error alert title */
+"Twitter Error" = "Twitter出錯";
+
+/* Label for a link to the user's Twitter profile web page */
+"Twitter Profile Page" = "Twitter個人檔案頁";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Quest could not be dismissed from Inbox error alert title */
+"Unable to dismiss" = "無法關閉";
+
+/* Quest could not be found on server error alert title */
+"Unable to Find Quest" = "找不到Quest";
+
+/* Follow error alert title */
+"Unable to Follow" = "無法關注";
+
+/* Request for current page failed alert title */
+"Unable to load page" = "無法載入頁面";
+
+/* Quest gallery load failure alert title */
+"Unable to Load Quest" = "無法載入Quest";
+
+/* Editor template failed to download error body */
+"Unable to load the quest background image. You can still post but it will be missing from your drawing. Exit and re-enter the editor to try again." = "無法載入Quest背景圖片。你仍然可以發表，但是繪畫中會缺少它。請結束並重新進入編輯器以重試。";
+
+/* Unable to purchase shop item error alert message prefix */
+"Unable to purchase due to error: %@" = "無法購買，錯誤: %@";
+
+/* Unable to purchase shop item error alert title */
+"Unable to Purchase" = "無法購買";
+
+/* Quest gallery refresh failure alert title */
+"Unable to Refresh Gallery" = "無法重新整理圖庫";
+
+/* Quest refresh error alert message prefix */
+"Unable to refresh quests due to error: %@" = "無法重新整理Quests，錯誤: %@";
+
+/* Quest refresh unknown error alert message */
+"Unable to refresh quests due to unknown error." = "由於未知錯誤，無法重新整理Quests。";
+
+/* Quest refresh error alert title */
+"Unable to Refresh Quests" = "無法重新整理Quests";
+
+/* Unknown Facebook upload error message */
+"Unable to share to Facebook due to an unknown error." = "由於未知錯誤，無法分享到Facebook。";
+
+/* Unknown Twitter upload error message */
+"Unable to share to Twitter due to an unknown error." = "由於未知錯誤，無法分享到Twitter。";
+
+/* Unfollow error alert title */
+"Unable to Unfollow" = "無法取消關注";
+
+/* Request to unfollow a user is being completed indicator label */
+"Unfollowing" = "正在取消關注";
+
+/* Unknown error alert message */
+"Unknown error." = "未知錯誤。";
+
+/* Update app alert title */
+"Update DrawQuest" = "更新DrawQuest";
+
+/* Update app alert confirmation button title */
+"Update" = "更新";
+
+/* Photo was successfully uploaded as user's new avatar indicator label */
+"Updated avatar." = "已更新頭像。";
+
+/* Settings are being updated loading indicator label */
+"Updating Settings" = "更新設定";
+
+/* App update available alert confirmation button title */
+"Upgrade!" = "升級!";
+
+/* Upgrade alert confirmation button title */
+"Upgrade" = "升級";
+
+/* Upload failed message */
+"Upload Failed. Try Again?" = "上傳失敗。重試?";
+
+/* The image upload failed, prompt to try the upload again */
+"Uploading the image failed. Try again?" = "上傳圖片失敗。重試?";
+
+/* Data is uploading to server indicator label */
+"Uploading" = "正在上傳";
+
+/* The user's DrawQuest specific username */
+"Username" = "使用者名稱";
+
+/* Label for option to view the Quest this drawing was drawn for */
+"View this Quest" = "檢視此Quest";
+
+/* Unknown error while loading Quest gallery, retry prompt */
+"We couldn't load the gallery. Please try again." = "無法載入圖庫。請重試。";
+
+/* Prompt to retry a failed attempt to load the current profile from the server */
+"We couldn't load the profile. Please try again." = "無法載入個人檔案。請重試。";
+
+/* Error loading activity from server message */
+"We couldn't load your activity. Please try again." = "無法載入你的活動。請重試。";
+
+/* Message encouraging users to keep drawings appropriate for all ages */
+"We have Questers of all ages, so please keep your drawings safe-for-work and appropriate for everyone" = "我們有各個年齡段的Questers，所以請確保你的繪畫安全且適宜所有使用者。";
+
+/* Quest could not be dismissed from Inbox error alert message */
+"We were unable to remove the quest from your inbox. Please try again later." = "無法從你的收件匣刪除此Quest。請稍後再試。";
+
+/* Label for the user's web profile */
+"Web Profile" = "Web個人檔案";
+
+/* Greeting for users signing in that have previously registered */
+"Welcome Back" = "歡迎回來";
+
+/* Activity item welcoming new users */
+"Welcome to DrawQuest!" = "歡迎來到DrawQuest!";
+
+/* Prefix before the DrawQuest logo welcoming the user on the splash screen */
+"Welcome to" = "歡迎來到";
+
+/* Sign in modal title welcoming the user back */
+"Welcome" = "歡迎";
+
+/* Delete artwork confirmation alert message */
+"Would you really like to delete your artwork?" = "真要刪除你的作品嗎?";
+
+/* Post without sharing alert confirmation button title */
+"Yes, continue" = "是的，繼續";
+
+/* Yesterday */
+"Yesterday" = "昨天";
+
+/* Label preceeding alernative services that can be used to sign in */
+"You Can Also Sign In Using:" = "登入也可以使用:";
+
+/* Label preceeding alernative services that can be used to sign up */
+"You Can Also Sign Up Using:" = "註冊也可以使用:";
+
+/* Message for user that do not yet have any activity items */
+"You don't have any activity yet." = "你還沒有任何活動。";
+
+/* The user doesn't have enough coins to purchase what they tried to purchase, prompt them to purchase some coins first */
+"You don't have enough coins, why not buy some first?" = "你沒有足夠的錢幣，何不先購買一些?";
+
+/* The user's history is empty because they haven't completed any Quests display message */
+"You haven't drawn anything yet! Quests you've drawn in will appear here." = "你什麼也沒畫! 已畫的Quest將在這裡顯示。";
+
+/* Activity item notifying users of an explore feature */
+"Your drawing was featured on Explore!" = "你的繪畫已選入“探索”中!";
+
+/* Coin purchase success alert message */
+"Your new coins are ready to use." = "你的新錢幣已可使用。";
+
+/* The user's profile has been removed from the server error message */
+"Your profile no longer exists." = "你的個人檔案已不存在。";
+
+/* App needs to be updated alert title */
+"Your version of DrawQuest is out of date. Please update to see this activity item." = "你的DrawQuest版本過時了。請更新以檢視此活動項目。";
+
+/* A reminder that a new Quest of the Day is now available */
+"Today's Quest is now available. Come draw it!" = "今天有繪圖任務。立即完成它！";

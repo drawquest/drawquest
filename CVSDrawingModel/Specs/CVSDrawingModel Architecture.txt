@@ -1,0 +1,53 @@
+CVSDrawingModel Architecture
+
+This living document outlines the structure of the device-local persisted representation of a DrawQuest drawing/document.
+
+
+Objects/graphs are generally serialized using Cocoa's keyed-archiving.
+More complex data may be represented in a well defined binary format, where deemed appropriate. Generally, that will be wrapped in NSData.
+We discussed how we could approach a format smaller than zipped JSON, which is compatible with Python. Protocol Buffers came to mind, but ultimately it seemed like a lot of work and a lot to specify this close to release.
+
+Images:
+Typically, 8bpc with alpha -- either PNG or raw bitmaps.
+
+Base/
+  template.png (Read Only)
+    ...store everything required for a template
+
+CLUT/
+  document.dqclut # serialization of small color representations which have no duplicate entries. assets required by colors are stored in subdirectories (Append Only, Atomic, Write on append)
+  patterns/
+    ...store any pattern assets here
+
+
+Snapshots/
+  Assets/
+    ... # reserved for snapshots' assets. suppose a draw action needed to save some special data which does not make sense to save in the actions.dqactions file. save the original here and create a link inside the snapshot's Assets/ directory. avoid duplicate files here.
+  Current.snapshot/ # every snapshot uses the same hierarchy
+    actions.dqactions # an array of "Draw Actions" -- equivalent to today's stroke and stroke component info (Atomic, frequent updates)
+    info # stores general information about this snapshot, such as the depth (Read Only)
+    snapshot.dqbitmap # this is a bitmap or PNG which is a composite representation of the drawing which has none of the snapshots' actions/strokes applied. note that this file is able to be reconstructed by rendering all preceding "actions.dqactions", and may be purged from any snapshot. strategies for choosing the optimal approach to determine what to purge have been discussed.
+  History/
+    0.snapshot/
+      ...action, info, maybe bitmap
+    25.snapshot/
+      ...action, info, maybe bitmap
+    50.snapshot/
+      ...action, info, maybe bitmap
+    75.snapshot/
+      ...action, info, maybe bitmap
+    100.snapshot/
+      ...action, info, maybe bitmap
+    125.snapshot/
+      ...action, info, maybe bitmap
+    150.snapshot/
+      ...action, info, maybe bitmap
+    175.snapshot/
+      ...action, info, maybe bitmap
+    etc
+
+Notes:
+- 25 is not a fixed number. The number may be variable, based on the complexity of actions. We may determine a better number. This is presently just an illustration of the document structure.
+- This illustrates: For every 25 strokes added to the stroke stack, produce a new snapshot.
+- To push a new snapshot on the stroke stack, simply move Current.snapshot into History/ and give it the apporpriate name. Popping entails a move from History/ to Current.snapshot.
+- In the case of an error or crash, a drawing could be partially reconstructed using well-formed snapshots.

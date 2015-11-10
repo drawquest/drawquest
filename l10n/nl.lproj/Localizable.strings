@@ -1,0 +1,1193 @@
+/* Email specific invitation message to come draw a particular Quest */
+" I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "Ik gebruik DrawQuest, een gratis creatieve teken app voor iPhone, iPod touch en iPad. DrawQuest stuurt je dagelijks tekenuitdagingen en maakt het mogelijk je eigen tekenuitdagingen te maken en te delen met vrienden. Ik denk dat je deze Quest wel leuk zult vinden: \"%1$@\" \n\nDownload DrawQuest hier gratis: %2$@";
+
+/* A simple button title for when a user has forgotten their password */
+"?" = "?";
+
+/* Share a drawing via Twitter message with Quest title */
+"\"%@\" via @DrawQuest" = "\"%@\" via @DrawQuest";
+
+/* this will end up being something like 'Twitter Friends' or 'Facebook Friends' */
+"%@ Friends" = "%@ Vrienden";
+
+/* Label displaying the DrawQuest username for a friend from another social service */
+"%@ on DrawQuest" = "%@ op DrawQuest";
+
+/* Number of characters left for a user to fill in before they reach the maximum limit */
+"%d characters remaining" = "%d karakters resterend";
+
+/* Label indicating the number of days until the user receives another streak bonus, singular */
+"%ld more day 'til next Streak Bonus" = "nog %ld dag tot de volgende Streak Bonus";
+
+/* Label indicating the number of days until the user receives another streak bonus, plural */
+"%ld more days 'til next Streak Bonus" = "nog %ld dagen tot de volgende Streak Bonus";
+
+/* Number of notes users have left on a drawing, singular count */
+"%ld Note" = "%ld Notitie";
+
+/* Number of notes users have left on a drawing, plural count */
+"%ld Notes" = "%ld Notities";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please flip your device right-side-up to continue." = "↺ Kantel je toestel naar rechterkant boven en ga door.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device back to Portrait to continue." = "↺ Draai je toestel terug rechtop en ga door.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device to Portrait to continue." = "↺ Draai je toestel rechtop en ga door.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device back to Portrait to continue." = "↻ Draai je toestel terug rechtop en ga door.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device to Portrait to continue." = "↻ Draai je toestel rechtop en ga door.";
+
+/* Navigation title for about us modal */
+"About DrawQuest" = "Over DrawQuest";
+
+/* Navigation title for about us modal, shortened for iPhone */
+"About" = "Over";
+
+/* Label for the area where all of the user's relevant activity is collected */
+"Activity" = "Activiteit";
+
+/* Label for adding an email address from user's address book */
+"Add Email Addresses from Contacts" = "E-mailadressen toevoegen van contacten";
+
+/* Label for manually adding an email address to list of recipients */
+"Add Email Addresses Manually" = "E-mailadressen handmatig toevoegen";
+
+/* Label for adding recipients' email addresses */
+"Add Email" = "E-mail toevoegen";
+
+/* Add friends error alert title */
+"Add Friends Failed" = "Toevoegen vrienden mislukt";
+
+/* Title for modal where the user can invite their friends to DrawQuest */
+"Add Friends" = "Vrienden toevoegen";
+
+/* Add user completion button title */
+"Add" = "Toevoegen";
+
+/* Address book authorization failed error message */
+"Address Book Error" = "Adresboek fout";
+
+/* Cancel button for alert view */
+"AlertViewButtonTitleCancel" = "Annuleren";
+
+/* Delete button for alert view */
+"AlertViewButtonTitleDelete" = "Wissen";
+
+/* Dismiss button for alert view */
+"AlertViewButtonTitleDismiss" = "Verwijderen";
+
+/* OK button for alert view */
+"AlertViewButtonTitleOK" = "OK";
+
+/* Retry button for alert view */
+"AlertViewButtonTitleRetry" = "Opnieuw proberen";
+
+/* Tab title which shows all items */
+"AllTabTitle" = "Alles";
+
+/* Title for sign up modal when the user is nearly finished signing up */
+"Almost There..." = "Je bent er bijna...";
+
+/* Option to sign into DrawQuest if the user is already registered */
+"Already a Member?" = "Ben je al lid?";
+
+/* Sign in button title as alternative to signing up */
+"Already have an account?" = "Heb je al een account?";
+
+/* Unknown error alert message */
+"An unexpected error occurred" = "Er is een onverwachte fout opgetreden";
+
+/* Unknown DrawQuest error message */
+"An unknown error occurred communicating with DrawQuest" = "Er is een onverwachte fout opgetreden tijdens de communicatie met DrawQuest";
+
+/* Unknown Facebook authorization error message */
+"An unknown error occurred communicating with Facebook. Please try again." = "Er is een onverwachte fout opgetreden tijdens de communicatie met Facebook. Probeer opnieuw.";
+
+/* Unknown Twitter error alert message */
+"An unknown error occurred communicating with Twitter" = "Er is een onverwachte fout opgetreden tijdens de communicatie met Twitter";
+
+/* Generic unknown error message */
+"An unknown error occurred." = "Er is een onverwachte fout opgetreden.";
+
+/* Continue on and do not invite any users confirmation alert message */
+"Are you sure you want to continue without inviting any friends?" = "Weet je zeker dat je wilt doorgaan zonder vrienden uit te nodigen?";
+
+/* Delete upload alert message */
+"Are you sure you want to delete this drawing?" = "Weet je zeker dat je deze tekening wilt verwijderen?";
+
+/* Flag an inappropriate drawing for staff review message */
+"Are you sure you want to flag this drawing as inappropriate?" = "Weet je zeker dat je deze tekening wilt markeren als onbehoorlijk?";
+
+/* Flag an inappropriate Quest for staff review alert message */
+"Are you sure you want to flag this Quest as inappropriate?" = "Weet je zeker dat je deze Quest wilt markeren als onbehoorlijk?";
+
+/* Delete a drawing alert message */
+"Are you sure you want to permanently delete your drawing?" = "Weet je zeker dat je deze tekening permanent wilt wissen?";
+
+/* User requested sign out confirmation message */
+"Are you sure you want to sign out?" = "Weet je zeker dat je je wilt afmelden?";
+
+/* Destructive request alert confirmation title */
+"Are you sure?" = "Weet je het zeker?";
+
+/* Authentication error alert title */
+"Authentication Error" = "Verificatie fout";
+
+/* User authorization error alert title */
+"Authorization Error" = "Verificatie fout";
+
+/* The user cancelled authorization message */
+"Authorization was cancelled." = "Verificatie is geannuleerd.";
+
+/* Facebook authorization failed, retry prompt */
+"Authorization with Facebook failed. Please try again." = "Verificatie met Facebook mislukt. Probeer opnieuw.";
+
+/* Twitter authorization failed, prompt to try again */
+"Authorization with Twitter failed. Please try again." = "Verificatie met Twitter mislukt. Probeer opnieuw.";
+
+/* User is being authorized message */
+"Authorizing" = "Verifiëren...";
+
+/* Editor template failed to download error title */
+"Background Image Failure" = "Achtergrondbeeld fout";
+
+/* A short label for the biographical information of the user */
+"Bio" = "Bio";
+
+/* A collection of tools that can be used to draw in the editor */
+"Brushes" = "Penselen";
+
+/* Label for option to save to Apple Photos app */
+"Camera Roll" = "Camerarol";
+
+/* Label for changing the user's password */
+"Change Password" = "Wachtwoord wijzigen";
+
+/* Share via text message body */
+"Check out this drawing I made on DrawQuest: \"%@\"\n\n You should download the app at http://example.com/download" = "Check deze tekening eens, die ik op DrawQuest heb gemaakt: \"%@\"\n\n Je zou de app moeten downloaden van http://example.com/download";
+
+/* Invitation message to view a drawing on DrawQuest followed by download link */
+"Check out this drawing on DrawQuest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "Check deze tekening eens, die ik op DrawQuest heb gemaakt:  \"%1$@\" \n\nDownload DrawQuest hier gratis: %2$@";
+
+/* Invitation message to view a drawing on DrawQuest with Quest title */
+"Check out this drawing on DrawQuest: \"%@\"" = "Check deze tekening eens op DrawQuest:  \"%@\"";
+
+/* Invitation to view a drawing on DrawQuest prefix message */
+"Check out this drawing on DrawQuest!" = "Check deze tekening op DrawQuest!";
+
+/* Prompt for a user to select the appropriate Twitter account from a list */
+"Choose a Twitter Account" = "Kies een Twitter-account";
+
+/* Prompt to choose a photo from the device's Camera Roll to use as avatar */
+"Choose Existing" = "Kies bestaande";
+
+/* Plural form of our DrawQuest specific currency of 'Coin' */
+"Coins" = "Munten";
+
+/* A collection of colors that can be used to draw in the editor */
+"Colors" = "Kleuren";
+
+/* User should return for a new Quest tomorrow, or they can create a Quest themselves display message */
+"Come back tomorrow for a new Quest, or create your own!" = "Kom morgen terug voor een nieuwe Quest, of creëer je eigen Quest!";
+
+/* Twitter specific invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on @DrawQuest! %@" = "Teken samen \"%1$@\" met mij op @DrawQuest! %2$@";
+
+/* Twitter specific invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on @DrawQuest! http://www.example.com/download" = "Teken samen \"%@\" met mij op @DrawQuest! http://example.com/download";
+
+/* Invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on DrawQuest! %@" = "Teken samen \"%1$@\" met mij op DrawQuest! %2$@";
+
+/* Invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on DrawQuest! http://www.example.com/download" = "Teken samen \"%@\" met mij op DrawQuest! http://example.com/download";
+
+/* Invitation email for another user to join DrawQuest via a particular Quest subject line */
+"Come draw \"%@\" with me on DrawQuest!" = "Teken samen \"%@\" met mij op DrawQuest!";
+
+/* Generic invitation to DrawQuest message */
+"Come draw with me on DrawQuest! http://www.example.com/download" = "Kom samen met mij tekenen op DrawQuest! http://example.com/download";
+
+/* Invite a friend via email message subject */
+"Come draw with me on DrawQuest!" = "Kom samen met mij tekenen op DrawQuest!";
+
+/* Alert confirm button title */
+"Confirm" = "Bevestigen";
+
+/* Confirmation alert title */
+"Confirmation" = "Bevestiging";
+
+/* Facebook authorization and invite prompt */
+"Connect with Facebook to see your list of friends.\nThen choose friends you'd like to add." = "Maak verbinding met Facebook om je lijst met vrienden te bekijken.\nKies dan de vrienden die je wilt toevoegen.";
+
+/* Prompt to connect with Twitter to invite friends display message */
+"Connect with Twitter to see your list of friends.\nThen choose friends you'd like to add." = "Maak verbinding met Twitter om je lijst met vrienden te bekijken.\nKies dan de vrienden die je wilt toevoegen.";
+
+/* A label for inviting other users from the Address Book */
+"Contacts" = "Contacten";
+
+/* Continue on and do not invite any users confirmation alert title */
+"Continue without inviting?" = "Doorgaan zonder uit te nodigen?";
+
+/* Ignore connection failure confirmation button title */
+"Continue" = "Doorgaan";
+
+/* Cost of shop items in coin currency */
+"Cost: %@ coins" = "Prijs: %@ munten";
+
+/* Prompt to create a new Quest */
+"Create a Quest" = "Creëer een Quest";
+
+/* Instructions to create a Quest and share it with friends */
+"Create your own Quest and share it with friends!" = "Creëer je eigen Quest en deel die met vrienden!";
+
+/* Preceeded by a username indicating that they have created a Quest */
+"created a Quest" = "Quest gecreëerd";
+
+/* Label explaining that the above user is responsible for creating the current Quest */
+"Created this Quest" = "Heb deze Quest gecreëerd";
+
+/* The user's current password before they change it, placeholder text */
+"Current Password" = "Huidig wachtwoord";
+
+/* Delete a drawing alert title */
+"Delete Drawing" = "Tekening wissen";
+
+/* Label for option to delete a drawing from DrawQuest */
+"Delete this Drawing" = "Deze tekening wissen";
+
+/* Delete upload alert title */
+"Delete Upload" = "Upload wissen";
+
+/* Destroy item alert confirmation button title */
+"Delete" = "Wissen";
+
+/* Sign up button title as alternative to signing in */
+"Don't have an account?" = "Heb je geen account?";
+
+/* User is done with this action button title */
+"Done" = "Gereed";
+
+/* Prompt to draw a Quest template */
+"Draw a Template" = "Teken een sjabloon";
+
+/* Option to draw the first quest at a later time */
+"Draw This Later" = "Teken deze later";
+
+/* Label for option to draw a particular Quest */
+"Draw this Quest" = "Teken deze Quest";
+
+/* Label for option to draw a particular Quest */
+"Draw This Quest" = "Teken deze Quest";
+
+/* Draw this Quest button title */
+"Draw this" = "Teken deze";
+
+/* Instructions explaining that users can draw something every day */
+"Draw, every day.\n\n " = "Teken, elke dag.\n\n";
+
+/* Title for the area where the user can draw Quests */
+"DrawAreaTitle" = "Tekenen";
+
+/* Delete drawing request error alert title */
+"Drawing delete failed" = "Tekening wissen mislukt";
+
+/* Label for a colleciton of drawings */
+"Drawings" = "Tekeningen";
+
+/* Prompt for a user to draw the Quest */
+"DrawPrompt" = "Tekenen";
+
+/* State sync with DrawQuest failed error title */
+"DrawQuest Connection Failed" = "Verbinding met DrawQuest mislukt";
+
+/* Post without sharing alert message */
+"DrawQuest is more fun when you share with friends. Would you still like to continue without sharing?" = "DrawQuest is veel leuker als je met vrienden deelt. Wil je nog steeds doorgaan zonder te delen?";
+
+/* Label for a link to the user's DrawQuest profile web page */
+"DrawQuest Profile Page" = "DrawQuest Profielpagina";
+
+/* Update for DrawQuest app is available indicator label */
+"DrawQuest Update Available!" = "DrawQuest update beschikbaar!";
+
+/* File save access denied error message */
+"DrawQuest was denied access to your photo library. You can allow access using the iOS Settings app." = "DrawQuest is toegang geweigerd tot je fotobibliotheek. Je kunt die toegang toestaan in je iOS Instellingen app.";
+
+/* Twitter access was denied by user error alert message */
+"DrawQuest was not granted access to your Twitter accounts." = "DrawQuest kreeg geen toegang tot je Twitter-accounts.";
+
+/* DrawQuest */
+"DrawQuest" = "DrawQuest";
+
+/* Label indicating the user can earn 5 coins with fixed white space */
+"Earn      5 Coins" = "Verdien 5 munten";
+
+/* Label indicating the user can earn 25 coins with fixed white space */
+"Earn      25 Coins" = "Verdien 25 munten";
+
+/* Instructions for earning and spending coins */
+"Earn coins by being an active Quester. Spend coins to unlock more colors!" = "Verdien munten door een actieve Quester te zijn. Spendeer munten om meer kleuren te ontgrendelen!";
+
+/* Instructions explaining the coin economy */
+"Earn coins by drawing Quests. Spend coins to get more colors." = "Verdien munten door Quests te tekenen. Spendeer munten om meer kleuren te krijgen.";
+
+/* Email */
+"Email" = "E-mail";
+
+/* A simple email placeholder that is obviously an invalid placeholder email */
+"email@email.com" = "email@example.com";
+
+/* Empty drawing alert title */
+"Empty Drawing" = "Lege tekening";
+
+/* Quest title placeholder text */
+"Enter Your Quest Title" = "Voer de titel van je Quest in";
+
+/* Invite error alert title */
+"Error Inviting Friends" = "Fout bij uitnodigen vrienden";
+
+/* Invite error to user error title prefix */
+"Error sending invite to:" = "Fout bij uitnodiging versturen naar:";
+
+/* Invite error alert title */
+"Error sending invites." = "Fout bij versturen uitnodigingen.";
+
+/* Generic error message prefix */
+"Error: " = "Fout: ";
+
+/* Generic error alert title */
+"Error" = "Fout";
+
+/* Introductory phrase explaining how to use the app */
+"Every day, DrawQuesters from around the world complete a daily drawing challenge. Quests don't have a right or wrong answer - use your imagination, and have fun!" = "Elke dag tekenen DrawQuesters van over de hele wereld een dagelijkse tekenuitdaging. Quests zijn nooit goed of fout - gebruik je verbeelding en heb veel plezier!";
+
+/* Title for section where users can explore for new content */
+"Explore" = "Verkennen";
+
+/* Facebook error alert title */
+"Facebook Error" = "Facebook fout";
+
+/* Label for a link to the user's Facebook profile web page */
+"Facebook Profile Page" = "Facebook Profielpagina";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Find your friends from other services that are registered on DrawQuest button title */
+"Find Your Friends on DrawQuest" = "Zoek je vrienden via DrawQuest";
+
+/* Flag an inappropriate drawing for staff review title */
+"Flag Drawing" = "Tekening markeren";
+
+/* Flag an inappropriate Quest for staff review alert title */
+"Flag Quest" = "Quest markeren";
+
+/* Flag an inappropriate drawing or Quest for staff review alert confirmation button title */
+"Flag" = "Markeren";
+
+/* Flickr */
+"Flickr" = "Flickr";
+
+/* Instructions explaining how following, starring and playing all work */
+"Follow friends and other Questers. Star and play drawings you like." = "Volg vrienden en andere Questers. Wees een ster en speel met tekeningen die je leuk vindt.";
+
+/* Prompt to follow users so that they can see their drawings on this page */
+"Follow more Questers and their drawings will appear here!" = "Volg meer Questers en hun tekeningen zullen hier verschijnen!";
+
+/* Prompt to follow a user button title */
+"Follow" = "Volgen";
+
+/* Instructions on how followers will see the new Quest */
+"Followers will see your Quest in their \"New\" tab" = "Volgers zien je Quest in hun \"Nieuw\" tabblad";
+
+/* Label for a collection of users a particular user is following */
+"Followers" = "Volgers";
+
+/* Label for the area where the content from followed users will appear */
+"FollowingHomeAreaLabel" = "Wat je volgt";
+
+/* Request fo follow a user is being completed indicator label */
+"FollowingRequestPending" = "Wie je volgt";
+
+/* Label that confirms a user is following another user */
+"FollowingStatusLabel" = "Volger";
+
+/* Label for a collection of users following a particular user */
+"FollowingUserListLabel" = "Volgers";
+
+/* Use tapped button indicating they forgot their password alert title */
+"Forgot Password?" = "Wachtwoord vergeten?";
+
+/* Use tapped button indicating they forgot their password alert confirmation button title */
+"Forgot" = "Vergeten";
+
+/* Quest title instructing users to draw the smiley face a smile */
+"Give him a smile!" = "Geef hem een glimlach!";
+
+/* Instructions to star other users' drawings */
+"Give stars to your favorite drawings." = "Geef sterren aan je favoriete tekeningen.";
+
+/* Sign up completed modal title */
+"Happy Questing!" = "Veel plezier met de quests!";
+
+/* The user's homepage in the app */
+"Home" = "Startpagina";
+
+/* Code of conduct agreement label */
+"I agree to keep my artwork classy\nand appropriate for all ages." = "Ik beloof om mijn werk stijlvol\nen geschikt voor alle leeftijden te houden.";
+
+/* Message inviting another to come draw the Quest the user just created */
+"I just created a Quest on DrawQuest: \"%@\" Come draw it with me! http://example.com/download" = "Ik heb juist een quest gecreëerd op DrawQuest: \"%@\" Kom met me tekenen! http://example.com/download";
+
+/* Email specific invitation message to view a drawing */
+"I thought you'd like this drawing made with DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad: \"%@\" \n\nDownload DrawQuest for free here: %@" = "Ik dacht dat je deze tekening wel leuk zou vinden, gemaakt met DrawQuest, een gratis en creatieve app om tekeningen te maken, voor iPhone, iPod touch, en iPad: \"%1$@\" \n\nDrawQuest hier gratis downloaden: %2$@";
+
+/* Button title indicating the user is ready to begin */
+"I'm ready for my first Quest!" = "Ik ben klaar voor mijn eerste quest!";
+
+/* Twitter specific invitation message for another user to join DrawQuest */
+"I'm using @DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "Ik gebruik @DrawQuest, een gratis en creatieve app om te tekenen, voor iPhone, iPod touch, en iPad. Kom met me tekenen! http://example.com/download";
+
+/* Invitation message for another user to join DrawQuest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "Ik gebruik DrawQuest, een gratis en creatieve app om te tekenen, voor iPhone, iPod touch, en iPad. Kom met me tekenen! http://example.com/download";
+
+/* Email specific invitation message for a user to come draw a specific Quest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: http://www.example.com/download" = "Ik gebruik DrawQuest, een gratis en creatieve app om te tekenen, voor iPhone, iPod touch, en iPad. DrawQuest stuurt je dagelijks uitdagingen om te tekenen en laat je toe om zelf tekeningen te maken en met vrienden te delen. Ik dacht dat je deze quest wel leuk zou vinden: \"%@\" \n\nDrawQuest hier gratis downloaden: http://example.com/download";
+
+/* Email specific invitation message for another user to join DrawQuest, includes the inviting user's username */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\" \n\n Download DrawQuest for free here: http://www.example.com/download" = "Ik gebruik DrawQuest, een gratis en creatieve app om te tekenen, voor iPhone, iPod touch, en iPad. DrawQuest stuurt je dagelijks uitdagingen om te tekenen en laat je toe om zelf tekeningen te maken en met vrienden te delen. Je kunt me in de app volgen als  \"%@\" \n\n DrawQuest hier gratis downloaden: http://example.com/download";
+
+/* Invite a friend via email message body */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\". \n\nDownload DrawQuest for free here: %@" = "Ik gebruik DrawQuest, een gratis en creatieve app om te tekenen, voor iPhone, iPod touch, en iPad. DrawQuest stuurt je dagelijks uitdagingen om te tekenen en laat je toe om zelf tekeningen te maken en met vrienden te delen. Je kunt me in de app volgen als \"%1$@\". \n\nDrawQuest hier gratis downloaden:  %2$@";
+
+/* In-App Purchase failure error alert tile */
+"In-App Purchase Failed" = "In-app aankoop is mislukt";
+
+/* In-App Purchases disabled on device error alert message */
+"In-App Purchases have been disabled on this device." = "In-app aankopen zijn gedeactiveerd op dit toestel.";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Invite user action sheet title */
+"Invite %@ to DrawQuest" = "%@ uitnodigen voor DrawQuest";
+
+/* Invite friends prompt message */
+"Invite your friends!" = "Nodig je vrienden uit!";
+
+/* Invite others to DrawQuest button title */
+"Invite" = "Uitnodigen";
+
+/* User has been invited to DrawQuest indicator label */
+"Invited" = "Uitgenodigd";
+
+/* The user has no Facebook friends message */
+"It looks like you don't have any Facebook friends to invite." = "Blijkbaar heb je geen Facebookvrienden die je kunt uitnodigen.";
+
+/* The user has no Twitter friends available to invite display message */
+"It looks like you don't have any Twitter friends to invite." = "Blijkbaar heb je geen Twittervrienden die je kunt uitnodigen.";
+
+/* User has no contacts in their address book to invite */
+"It looks like your Address Book is empty." = "Blijkbaar is je adresboek leeg.";
+
+/* Sign up modal title */
+"Join DrawQuest" = "Registreren voor DrawQuest";
+
+/* Title for sign up modal */
+"Join" = "Registreren";
+
+/* Preceeded by a username indicating that they have just joined DrawQuest */
+"joined DrawQuest" = "geregistreerd bij DrawQuest";
+
+/* Alert title when the editor has repeatedly crashed */
+"Keep trying?" = "Keep trying?";
+
+/* Date the item was last updated */
+"Last Updated: %@" = "Laats geüpdatet: %@";
+
+/* App update available alert dismiss button title */
+"Later" = "Later";
+
+/* Button title indicating the user can tap to load in more items */
+"Load More" = "Meer laden";
+
+/* More items are loading in from the server indicator label */
+"Loading More" = "Meer laden";
+
+/* Data is being loaded from server indicator label */
+"Loading..." = "Laden...";
+
+/* The user must wait as a request is currently being made. */
+"Loading" = "Laden";
+
+/* Mail app error alert title */
+"Mail Error" = "E-mailfout";
+
+/* Label for option to share using the Apple Mail app */
+"Mail" = "Mail";
+
+/* Label for option to share using the Apple Messages app */
+"Message" = "Bericht";
+
+/* Messages app error title */
+"Messages Error" = "Berichtfout";
+
+/* Label for the user's first Quest */
+"My First Quest" = "Mijn eerste quest";
+
+/* Name required for Quest alert title */
+"Name your Quest!" = "Benoem je quest!";
+
+/* Indicating an item has never been updated */
+"Never" = "Nooit";
+
+/* Activity item notifying users new colors are available in the shop */
+"New colors available!" = "Nieuwe kleuren beschikbaar!";
+
+/* New colors available in shop message */
+"New Colors!" = "Nieuwe kleuren!";
+
+/* The user's new password they would like to change it to repeated for safety, placeholder text */
+"New Password Again" = "Nieuw wachtwoord opnieuw invoeren";
+
+/* The user's new password they would like to change it to */
+"New Password" = "Nieuw wachtwoord";
+
+/* A new Quest is available alert label */
+"New Quest!" = "Nieuwe quest!";
+
+/* App update available alert title */
+"New Version Available!" = "Nieuwe versie beschikbaar!";
+
+/* Shop item has been recently added indicator label */
+"New!" = "Nieuw!";
+
+/* Shop item is new to the user indicator label */
+"NewShopItemIndicatorLabel" = "Nieuw";
+
+/* Tab title which shows the newest items in reverse chron order */
+"NewTabTitle" = "Nieuw";
+
+/* Proceed to the next phase of the current action */
+"Next" = "Volgende";
+
+/* Message congratulating the user on completing another drawing for the day */
+"Nice drawing! You're on a roll today!" = "Leuke tekening! Je bent in vorm vandaag!";
+
+/* Message complementing users on a job well done as they post a drawing */
+"Nice Questing!" = "Leuke quest!";
+
+/* Invite friends failed because no accounts are set up alert title */
+"No Email Accounts" = "Geen e-mailaccounts";
+
+/* No drawings exist for this Quest message */
+"No one's drawn this Quest yet. Be the first!" = "Nog niemand heeft deze quest getekend. Wees de eerste!";
+
+/* No quests found on server display message */
+"No quests to display." = "Er kunnen geen quests weergegeven worden.";
+
+/* No Twitter accounts are configured on device error alert tile */
+"No Twitter Accounts" = "Geen Twitter-accounts";
+
+/* Label for notification options */
+"Notifications" = "Meldingen";
+
+/* The user's old password before they change it */
+"Old Password" = "Oude wachtwoord";
+
+/* The user's DrawQuest specific password */
+"Password" = "Wachtwoord";
+
+/* The user failed to enter matching passwords during password change error alert message */
+"Passwords must match." = "Wachtwoorden moeten overeenstemmen.";
+
+/* Label for the photo avatar to represent the user */
+"Photo" = "Foto";
+
+/* Label for all the areas of the app the user can visit */
+"Places" = "Plaatsen";
+
+/* Instructions to watch the playback for drawings */
+"Play back your favorite drawings to see how your fellow Questers created their masterpiece." = "Speel je favoriete tekeningen af om te zien hoe je mede-questers hun meesterwerk gecreëerd hebben.";
+
+/* Drawing playback error title */
+"Playback Error" = "Fout bij het afspelen";
+
+/* User has played current drawing suffix */
+"played this drawing" = "heeft deze tekening afgespeeld";
+
+/* Preceeded by a username indicating that they have played your drawing */
+"played your drawing" = "heeft jouw tekening afgespeeld";
+
+/* Request to delete account email body with reason for doing so asked of user */
+"Please close my account and remove all the content associated with it. I understand that this cannot be undone.\n\nThe reason I'm closing my account is:" = "Gelieve mijn account af te sluiten en alle inhoud te verwijderen die ermee geassocieerd is. Ik begrijp dat deze bewerking niet kan worden ongedaan gemaakt.\n\nDe reden waarom ik mijn account afsluit, is:";
+
+/* Empty drawing alert message */
+"Please draw something before posting it!" = "Gelieve iets te tekenen voor je het post!";
+
+/* Name required for Quest alert message */
+"Please enter a title for your Quest to continue." = "Gelieve een titel voor je quest in te voeren, om te kunnen doorgaan.";
+
+/* User needs to enter a valid email address indicator label */
+"Please enter a valid email address." = "Gelieve een geldig e-mailadres in te voeren.";
+
+/* Invalid email alert title */
+"Please enter a valid email address" = "Gelieve een geldig e-mailadres in te voeren";
+
+/* User needs to enter a valid password indicator label */
+"Please enter a valid password." = "Gelieve een geldig wachtwoord in te voeren.";
+
+/* User needs to enter a valid username indicator label */
+"Please enter a valid username." = "Gelieve een geldige gebruikersnaam in te voeren.";
+
+/* The user failed to enter and/or repeat a new password during password change error alert message */
+"Please enter and repeat your new password." = "Gelieve een nieuw wachtwoord in te voeren en te herhalen.";
+
+/* The user failed to enter an old password during password change error alert message */
+"Please enter your old password." = "Gelieve je oude wachtwoord in te voeren.";
+
+/* Prompt to attempt a request again */
+"Please try again" = "Gelieve opnieuw te proberen";
+
+/* Activity item request that the user update to a newer version of the app */
+"Please update DrawQuest to view this." = "Gelieve DrawQuest te updaten om dit te bekijken.";
+
+/* Instructions on how the new Quest can become popular */
+"Popular Quests appear in the \"All\" tab. Share yours to increase your chances!" = "Populaire quests verschijnen in de tab \"All\". Deel de jouwe om je kansen te vergroten!";
+
+/* Upload error alert title */
+"Post Error" = "Fout bij het posten";
+
+/* Upload the completed drawing to DrawQuest button title */
+"Post to DrawQuest" = "Posten op DrawQuest";
+
+/* Begin upload button title */
+"Post" = "Post";
+
+/* Preceeded by a username indicating that they have posted a drawing of their own */
+"posted a drawing" = "heeft een tekening gepost";
+
+/* Upload error alert title */
+"Posting Error" = "Fout bij het posten";
+
+/* The comment upload failed, prompt to try the upload again */
+"Posting failed. Try again?" = "Post is mislukt. Opnieuw proberen?";
+
+/* Image upload failed message */
+"Posting Image Failed.\nTry Again?" = "Post van de afbeelding is mislukt.\nOpnieuw proberen?";
+
+/* User should wait as the image is uploading */
+"Posting Image..." = "Afbeelding posten...";
+
+/* Playback data upload failed message */
+"Posting Playback Data Failed.\nTry Again?" = "Het posten van de gegevens om af te spelen, is mislukt.\nOpnieuw proberen?";
+
+/* User should wait as the playback data is uploading */
+"Posting Playback Data..." = "Posten van de afspeelgegevens...";
+
+/* Upload to Facebook failed message */
+"Posting to Facebook Failed.\nTry Again?" = "Posten op Facebook is mislukt.\nOpnieuw proberen?";
+
+/* Comment upload failed message */
+"Posting to Quest Failed.\nTry Again?" = "Posten op Quest is mislukt.\nOpnieuw proberen?";
+
+/* User should wait as the comment is uploading */
+"Posting to Quest..." = "Posten op Quest...";
+
+/* Upload to Twitter failed message */
+"Posting to Twitter Failed.\nTry Again?" = "Posten op Twitter is mislukt.\nOpnieuw proberen?";
+
+/* Upload is in progress indicator label */
+"Posting" = "Posten";
+
+/* Playback data is being loaded indicator label */
+"Preparing Playback" = "Het afspelen voorbereiden";
+
+/* A blocking HUD message while the editor is loading in. */
+"Preparing Quest" = "Quest voorbereiden";
+
+/* Label to view the Privacy Policy */
+"Privacy Policy" = "Privacybeleid";
+
+/* Profile error alert title */
+"Profile error:" = "Profielfout:";
+
+/* Label for the user's own profile */
+"Profile" = "Profiel";
+
+/* Prompt to pull down on the page to refresh content */
+"Pull to refresh..." = "Sleep naar beneden om te vernieuwen...";
+
+/* Store purchase failure error title */
+"Purchase Error" = "Aankoopfout";
+
+/* Coin based shop purchase alert confirmation button title */
+"Purchase" = "Aankopen";
+
+/* Shop item has been purchased indicator label */
+"Purchased" = "Aangekocht";
+
+/* Instructions explaining why you should say allow push notifications */
+"Push notifications remind you when there's a new Quest to draw." = "Push-meldingen herinneren je eraan als er een nieuwe quest is om te tekenen.";
+
+/* Label for the option to receive push notifications when there is a new Quest of the Day */
+"Quest of the Day Alerts" = "'Quest van de dag'-meldingen";
+
+/* The name for our daily Quests the users can draw */
+"Quest" = "Quest";
+
+/* Label for a colleciton of Quests */
+"Quests" = "Quests";
+
+/* Message asking if users are ready to complete their first drawing */
+"Ready for your first Quest?" = "Klaar voor je eerste quest?";
+
+/* Alert message */
+"Really delete your drawing?" = "Really delete your drawing?";
+
+/* Tab title which shows items the user has recently completed */
+"RecentTabTitle" = "Recent";
+
+/* Label for list of users who will receive an email */
+"Recipients" = "Ontvangers";
+
+/* Refresh this Quest button title */
+"Refresh" = "Vernieuwen";
+
+/* Prompt to release the page to refresh content */
+"Release to refresh..." = "Laat los om te vernieuwen...";
+
+/* Preceeded by a username indicating that they have remixed your drawing */
+"remixed your drawing" = "heeft jouw tekening geremixt";
+
+/* The user's new password they would like to change it to repeated for safety */
+"Repeat New Password" = "Nieuwe wachtwoord herhalen";
+
+/* Label to report problems to staff */
+"Report a Problem" = "Een probleem melden";
+
+/* Label for option to flag an innappropriate drawing for staff review */
+"Report this Drawing" = "Deze tekening rapporteren";
+
+/* Label for option to flag an inappropriate Quest for staff review */
+"Report this Quest" = "Deze quest rapporteren";
+
+/* Error restoring purchases the user has made in the shop alert title */
+"Restore Error" = "Fout herstellen";
+
+/* Restore all shop purchases previously made button title */
+"Restore Purchases" = "Aankopen herstellen";
+
+/* Prompt for a user to attempt a failed connection again. */
+"Retry" = "Opnieuw proberen";
+
+/* File save failure alert title */
+"Saving Failed" = "Opslaan mislukt";
+
+/* Search for user autocomplete button title */
+"Search for '%@'" = "Zoeken naar '%@'";
+
+/* Search for user button title */
+"Search for..." = "Zoeken naar...";
+
+/* Search for users search field placeholder text */
+"Search People" = "Mensen zoeken";
+
+/* Instructions to tap the menu button to see new activity */
+"See what's new by tapping the menu button." = "Nieuwigheden bekijken door te tikken op de menuknop.";
+
+/* API Service error alert title */
+"Service Error" = "Servicefout";
+
+/* Photo is being uploaded and set as user's avatar loading indicator label */
+"Setting Avatar" = "Avatar instellen";
+
+/* The title for the area where the user can change their account settings */
+"Settings" = "Instellingen";
+
+/* Share drawing to Tumblr modal title */
+"Share on Tumblr" = "Delen op Tumblr";
+
+/* Label for option to share posts to their Facebook timeline by default */
+"Share to Facebook Timeline" = "Delen op Facebook-tijdlijn";
+
+/* Label for option to share posts to their Twitter followers by default */
+"Share to Twitter" = "Delen op Twitter";
+
+/* Prompt to have users share their drawing with friends which will earn them coins */
+"Share with Friends to earn extra coins" = "Delen met vrienden om extra munten te verdienen";
+
+/* Message inviting users to share the drawing they are posting with friends */
+"Share with Friends" = "Delen met vrienden";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile!" = "Je profiel delen!";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile" = "Je profiel delen";
+
+/* Drawing being published with options to share the drawing modal title */
+"Share" = "Delen";
+
+/* Label for sharing options */
+"Sharing" = "Delen";
+
+/* Shop related error alert title */
+"Shop Error" = "Winkelfout";
+
+/* Button title in color picker encouraging users to go to the shop */
+"Shop for More Colors!" = "Meer kleuren kopen!";
+
+/* Title for the shop area of the app where users can purchase new items */
+"Shop" = "Winkel";
+
+/* Prompt for the user to sign into their DrawQuest account so they can upload an item */
+"Sign In & Post" = "Aanmelden & posten";
+
+/* Prompt to sign into an existing DrawQuest account to see what others are drawing */
+"Sign In and see what your fellow Questers are drawing!" = "Aanmelden en kijken wat je mede-questers aan het tekenen zijn!";
+
+/* Prompt to sign in and immediately begin drawing */
+"Sign In and Start Drawing" = "Meld je aan en begin te tekenen";
+
+/* Sign in failed alert title */
+"Sign In Failed" = "Aanmelden mislukt";
+
+/* Prompt for the user to sign into their DrawQuest account */
+"Sign In" = "Aanmelden";
+
+/* Sign the currently signed in user out of DrawQuest */
+"Sign Out" = "Afmelden";
+
+/* Prompt for the user to sign up for DrawQuest so they can upload an item */
+"Sign Up & Post" = "Registreren & posten";
+
+/* Prompt to sign up and immediately begin drawing */
+"Sign Up and Start Drawing" = "Registreer je en begin te tekenen";
+
+/* Prompt to sign up for DrawQuest so they can start following other users */
+"Sign Up and start following other Questers!" = "Registreer je en volg andere questers!";
+
+/* Sign up failed alert title */
+"Sign Up Failed" = "Registratie mislukt";
+
+/* Prompt to sign up, post, and collect the 25 coin reward for doing so */
+"Sign up for DrawQuest to post your drawing and collect your first 25 coins!" = "Registreer je voor DrawQuest om je tekening te posten en verzamel je eerste 25 munten!";
+
+/* Sign up using email button title */
+"Sign Up Using Email" = "Registreer je met je e-mailadres";
+
+/* Prompt for the user to sign up for DrawQuest */
+"Sign Up" = "Registreren";
+
+/* Message letting the user know they must wait as the sign out is completed */
+"Signing out" = "Afmelden";
+
+/* Option to continue without completing the current step */
+"Skip" = "Overslaan";
+
+/* Prompt to drag with a finger to advance */
+"SLIDE" = "SLEPEN";
+
+/* Label for links to web profile for various services */
+"Social Profile Links" = "Links naar sociale profielen";
+
+/* Delete drawing request error alert message */
+"Something went wrong and we couldn't delete your drawing. Please try again." = "Er is iets verkeerd gelopen en we konden je tekening niet verwijderen. Gelieve het opnieuw te proberen.";
+
+/* User profile not found on server error alert message */
+"Sorry that profile no longer exists." = "Sorry, dat profiel bestaat niet meer.";
+
+/* Invite friends failed because no accounts are set up alert message */
+"Sorry, but to invite friends you'll need to setup an email account on your device first." = "Sorry, maar om vrienden uit te nodigen, moet je eerst een e-mailaccount op je toestel instellen.";
+
+/* Message explaining that the user can only invite 50 or less friends at one time */
+"Sorry, but you can't select more than 50 friends to invite at once." = "Sorry, maar je kunt niet meer dan 50 vrienden tegelijk uitnodigen.";
+
+/* Alert message */
+"Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again." = "Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again.";
+
+/* Drawing could not be found on server message */
+"Sorry, that drawing could not be found." = "Sorry, die tekening kon niet gevonden worden.";
+
+/* Label for the option to receive push notifications when someone stars one of their drawings */
+"Starred Drawing Alerts" = "Meldingen als er sterren toegekend worden";
+
+/* User has starred current drawing suffix */
+"starred this drawing" = "heeft deze tekening sterren toegekend";
+
+/* Preceeded by a username indicating that they have starred your drawing */
+"starred your drawing" = "heeft jouw tekening sterren toegekend";
+
+/* Preceeded by a username indicating that they have started following you */
+"started following you" = "is begonnen jou te volgen";
+
+/* Stop following user alert confirmation button title */
+"Stop Following " = "Niet meer volgen";
+
+/* Successful request indicator label */
+"Success" = "Gelukt";
+
+/* Label for support links */
+"Support" = "Ondersteuning";
+
+/* Prompt to use the camera function to take a photo as avatar */
+"Take a Photo" = "Een foto nemen";
+
+/* User biographical field placeholder text prompting user to tap the field */
+"Tap here to say something about yourself!" = "Tik hier om iets over jezelf te schrijven!";
+
+/* Label to view the Terms of Service */
+"Terms of Service" = "Servicevoorwaarden";
+
+/* Coin purchase success alert title */
+"Thanks!" = "Dank je!";
+
+/* Alert message requesting the user update their app because they received a notification not supported by the current version */
+"That notification is not supported by this version of DrawQuest. Please update to the latest version!" = "Die melding wordt niet ondersteund door deze versie van DrawQuest. Gelieve te updaten naar de laatste versie!";
+
+/* User cancelled Facebook authorization message */
+"The operation was cancelled." = "De bewerking is geannuleerd.";
+
+/* Prompt to try a failed request once again */
+"The request failed. Try again?" = "Het verzoek is mislukt. Opnieuw proberen?";
+
+/* Empty explore page message */
+"There are no featured drawings to show right now. Try again later." = "Er kunnen momenteel geen tekeningen weergegeven worden. Probeer het later opnieuw.";
+
+/* No Twitter accounts are configured on device error alert message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings on your device." = "Er zijn geen Twitter-accounts geconfigureerd.Je kunt een Twitter-account toevoegen of creëren bij de Instellingen op je toestel.";
+
+/* Quest gallery load failure alert message */
+"There was a problem loading this quest. Please return to the quest archive and try loading the the gallery again." = "Deze quest kon niet geladen worden. Gelieve terug te keren naar het archief met de quests en probeer de galerij opnieuw te laden.";
+
+/* Unknown DrawQuest upload error message */
+"There was a problem saving the drawing, DrawQuest is unable to post." = "De tekening kon niet opgeslagen worden, DrawQuest kan deze niet posten.";
+
+/* Invite error to user error message prefix */
+"There was a problem sending your invitation via Twitter. Error code:" = "De uitnodiging via Twitter kon niet verzonden worden. Foutcode:";
+
+/* Messages app error message */
+"There was an error opening the Messages app." = "De app Berichten kon niet geopend worden.";
+
+/* Unknown Twitter error alert message */
+"There was an unexpected error communicating with Twitter. Please try again." = "Er is een onverwachte verbindingsfout met Twitter opgetreden. Gelieve het opnieuw te proberen.";
+
+/* Unknown DrawQuest upload error message */
+"There was an unexpected problem and DrawQuest is unable to post." = "Er is een onverwachte fout opgetreden en DrawQuest kan dit niet posten.";
+
+/* App update available alert message */
+"There's a new version of DrawQuest available. Upgrade now?" = "Er is een nieuwe versie van DrawQuest beschikbaar. Nu upgraden?";
+
+/* A message explaining that the user is seeing something unexpected and they should try again at a later time */
+"This shouldn't be empty. Please try back later!" = "Dit zou niet leeg mogen zijn. Gelieve het later opnieuw te proberen!";
+
+/* Simple time unit suffix indicating days, e.g.: 5d */
+"TimestampTimesDays" = "%dd";
+
+/* Simple time unit suffix indicating hours, e.g.: 5h */
+"TimestampTimesHours" = "%du";
+
+/* Timestamp label for an item that showed up in the last few seconds */
+"TimestampTimesJustNow" = "daarstraks";
+
+/* Simple time unit suffix indicating minutes, e.g.: 5m */
+"TimestampTimesMinutes" = "%dm";
+
+/* Simple time unit suffix indicating seconds, e.g.: 5s */
+"TimestampTimesSeconds" = "%ds";
+
+/* Simple time unit suffix indicating weeks, e.g.: 5w */
+"TimestampTimesWeeks" = "%dw";
+
+/* Simple time unit suffix indicating years, e.g.: 5y */
+"TimestampTimesYears" = "%dj";
+
+/* Label for the Quest of the Day */
+"Today's Quest" = "Quest van de dag";
+
+/* Tab title which shows the best items in order of ranking */
+"TopTabTitle" = "Beste";
+
+/* Total coins a user has collected tally prefix */
+"Total coins:" = "Totaal aantal munten:";
+
+/* Label for a list of recent Quests the user can complete */
+"Try These Recent Quests" = "Probeer deze recente quests";
+
+/* Tumblr */
+"Tumblr" = "Tumblr";
+
+/* Twitter API keys are missing error message */
+"Twitter API keys are missing!" = "Twitter API-sleutels ontbreken!";
+
+/* Twitter authorization error alert title */
+"Twitter Auth Error" = "Twitter-verificatiefout";
+
+/* Twitter error alert title */
+"Twitter Error" = "Twitterfout";
+
+/* Label for a link to the user's Twitter profile web page */
+"Twitter Profile Page" = "Twitter-profielpagina";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Quest could not be dismissed from Inbox error alert title */
+"Unable to dismiss" = "Kon niet verwijderen";
+
+/* Quest could not be found on server error alert title */
+"Unable to Find Quest" = "Kon quest niet vinden";
+
+/* Follow error alert title */
+"Unable to Follow" = "Kon niet volgen";
+
+/* Request for current page failed alert title */
+"Unable to load page" = "Kon pagina niet laden";
+
+/* Quest gallery load failure alert title */
+"Unable to Load Quest" = "Kon quest niet laden";
+
+/* Editor template failed to download error body */
+"Unable to load the quest background image. You can still post but it will be missing from your drawing. Exit and re-enter the editor to try again." = "Kon de achtergrondafbeelding van de quest niet laden. Je kunt nog altijd posten maar de achtergrond zal ontbreken in je tekening. Je moet afsluiten en opnieuw bewerken om het opnieuw te proberen.";
+
+/* Unable to purchase shop item error alert message prefix */
+"Unable to purchase due to error: %@" = "Kon niet kopen wegens deze fout: %@";
+
+/* Unable to purchase shop item error alert title */
+"Unable to Purchase" = "Kon niet kopen";
+
+/* Quest gallery refresh failure alert title */
+"Unable to Refresh Gallery" = "Kon galerij niet vernieuwen";
+
+/* Quest refresh error alert message prefix */
+"Unable to refresh quests due to error: %@" = "Kon quests niet vernieuwen wegens deze fout: %@";
+
+/* Quest refresh unknown error alert message */
+"Unable to refresh quests due to unknown error." = "Kon quests niet vernieuwen wegens onbekende fout.";
+
+/* Quest refresh error alert title */
+"Unable to Refresh Quests" = "Kon quests niet vernieuwen";
+
+/* Unknown Facebook upload error message */
+"Unable to share to Facebook due to an unknown error." = "Kon niet delen op Facebook wegens een onbekende fout.";
+
+/* Unknown Twitter upload error message */
+"Unable to share to Twitter due to an unknown error." = "Kon niet delen op Twitter wegens een onbekende fout.";
+
+/* Unfollow error alert title */
+"Unable to Unfollow" = "Kon het volgen niet stoppen";
+
+/* Request to unfollow a user is being completed indicator label */
+"Unfollowing" = "Wordt niet meer gevolgd";
+
+/* Unknown error alert message */
+"Unknown error." = "Onbekende fout.";
+
+/* Update app alert title */
+"Update DrawQuest" = "DrawQuest updaten";
+
+/* Update app alert confirmation button title */
+"Update" = "Updaten";
+
+/* Photo was successfully uploaded as user's new avatar indicator label */
+"Updated avatar." = "Avatar updaten.";
+
+/* Settings are being updated loading indicator label */
+"Updating Settings" = "Instellingen updaten";
+
+/* App update available alert confirmation button title */
+"Upgrade!" = "Upgraden!";
+
+/* Upgrade alert confirmation button title */
+"Upgrade" = "Upgraden";
+
+/* Upload failed message */
+"Upload Failed. Try Again?" = "Upload mislukt. Opnieuw proberen?";
+
+/* The image upload failed, prompt to try the upload again */
+"Uploading the image failed. Try again?" = "Kon afbeelding niet uploaden. Opnieuw proberen?";
+
+/* Data is uploading to server indicator label */
+"Uploading" = "Uploaden";
+
+/* The user's DrawQuest specific username */
+"Username" = "Gebruikersnaam";
+
+/* Label for option to view the Quest this drawing was drawn for */
+"View this Quest" = "Deze quest bekijken";
+
+/* Unknown error while loading Quest gallery, retry prompt */
+"We couldn't load the gallery. Please try again." = "We konden de galerij niet laden. Gelieve opnieuw te proberen.";
+
+/* Prompt to retry a failed attempt to load the current profile from the server */
+"We couldn't load the profile. Please try again." = "We konden het profiel niet laden. Gelieve opnieuw te proberen.";
+
+/* Error loading activity from server message */
+"We couldn't load your activity. Please try again." = "We konden je activiteit niet laden. Gelieve opnieuw te proberen.";
+
+/* Message encouraging users to keep drawings appropriate for all ages */
+"We have Questers of all ages, so please keep your drawings safe-for-work and appropriate for everyone" = "We hebben questers van alle leeftijden, dus gelieve je tekeningen fatsoenlijk en geschikt voor iedereen te houden.";
+
+/* Quest could not be dismissed from Inbox error alert message */
+"We were unable to remove the quest from your inbox. Please try again later." = "We konden de quest niet uit je inbox verwijderen. Gelieve het later opnieuw te proberen.";
+
+/* Label for the user's web profile */
+"Web Profile" = "Webprofiel";
+
+/* Greeting for users signing in that have previously registered */
+"Welcome Back" = "Welkom terug";
+
+/* Activity item welcoming new users */
+"Welcome to DrawQuest!" = "Welkom bij DrawQuest!";
+
+/* Prefix before the DrawQuest logo welcoming the user on the splash screen */
+"Welcome to" = "Welkom bij";
+
+/* Sign in modal title welcoming the user back */
+"Welcome" = "Welkom";
+
+/* Delete artwork confirmation alert message */
+"Would you really like to delete your artwork?" = "Wil je je werk echt verwijderen?";
+
+/* Post without sharing alert confirmation button title */
+"Yes, continue" = "Ja, doorgaan";
+
+/* Yesterday */
+"Yesterday" = "Gisteren";
+
+/* Label preceeding alernative services that can be used to sign in */
+"You Can Also Sign In Using:" = "Je kunt je ook aanmelden met:";
+
+/* Label preceeding alernative services that can be used to sign up */
+"You Can Also Sign Up Using:" = "Je kunt je ook registreren met:";
+
+/* Message for user that do not yet have any activity items */
+"You don't have any activity yet." = "Je hebt nog geen activiteiten.";
+
+/* The user doesn't have enough coins to purchase what they tried to purchase, prompt them to purchase some coins first */
+"You don't have enough coins, why not buy some first?" = "Je hebt niet genoeg munten, waarom er niet eerst enkele kopen?";
+
+/* The user's history is empty because they haven't completed any Quests display message */
+"You haven't drawn anything yet! Quests you've drawn in will appear here." = "Je hebt nog niets getekend! Quests waarin je getekend hebt, zullen hier verschijnen.";
+
+/* Activity item notifying users of an explore feature */
+"Your drawing was featured on Explore!" = "Je tekening is gebruikt op Explore!";
+
+/* Coin purchase success alert message */
+"Your new coins are ready to use." = "Je nieuwe munten zijn klaar voor gebruik.";
+
+/* The user's profile has been removed from the server error message */
+"Your profile no longer exists." = "Je profiel bestaat niet meer.";
+
+/* App needs to be updated alert title */
+"Your version of DrawQuest is out of date. Please update to see this activity item." = "Je versie van DrawQuest is niet meer actueel. Gelieve te updaten om het item van deze activiteit te bekijken.";
+
+/* A reminder that a new Quest of the Day is now available */
+"Today's Quest is now available. Come draw it!" = "Quest is nu beschikbaar. Kom nu tekenen!";

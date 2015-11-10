@@ -1,0 +1,1193 @@
+/* Email specific invitation message to come draw a particular Quest */
+" I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "Я использую бесплатное креативное приложение DrawQuest для iPhone, iPod touch и iPad. Ежедневно DrawQuest предлагает задания по рисованию и позволяет создавать свои рисунки, чтобы делиться ими с друзьями. Думаю, тебе понравится это задание: \"%1$@\" \n\nСкачай DrawQuest бесплатно здесь: %2$@";
+
+/* A simple button title for when a user has forgotten their password */
+"?" = "?";
+
+/* Share a drawing via Twitter message with Quest title */
+"\"%@\" via @DrawQuest" = "\"%@\" с помощью @DrawQuest";
+
+/* this will end up being something like 'Twitter Friends' or 'Facebook Friends' */
+"%@ Friends" = "Друзья из %@";
+
+/* Label displaying the DrawQuest username for a friend from another social service */
+"%@ on DrawQuest" = "%@ в DrawQuest";
+
+/* Number of characters left for a user to fill in before they reach the maximum limit */
+"%d characters remaining" = "Осталось %d символа(ов)";
+
+/* Label indicating the number of days until the user receives another streak bonus, singular */
+"%ld more day 'til next Streak Bonus" = "%ld дня(ей) до следующего бонуса за стрик";
+
+/* Label indicating the number of days until the user receives another streak bonus, plural */
+"%ld more days 'til next Streak Bonus" = "%ld дня(ей) до следующего бонуса за стрик";
+
+/* Number of notes users have left on a drawing, singular count */
+"%ld Note" = "%ld помета";
+
+/* Number of notes users have left on a drawing, plural count */
+"%ld Notes" = "%ld помет(ы)";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please flip your device right-side-up to continue." = "↺ Для продолжения поверните устройство экраном кверху.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device back to Portrait to continue." = "↺ Для продолжения снова расположите устройство в портретном режиме.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device to Portrait to continue." = "↺ Для продолжения расположите устройство в портретном режиме.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device back to Portrait to continue." = "↻ Для продолжения снова расположите устройство в портретном режиме.";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device to Portrait to continue." = "↻ Для продолжения расположите устройство в портретном режиме.";
+
+/* Navigation title for about us modal */
+"About DrawQuest" = "О приложении DrawQuest";
+
+/* Navigation title for about us modal, shortened for iPhone */
+"About" = "О приложении";
+
+/* Label for the area where all of the user's relevant activity is collected */
+"Activity" = "Действия";
+
+/* Label for adding an email address from user's address book */
+"Add Email Addresses from Contacts" = "Добавить эл. адреса из контактов";
+
+/* Label for manually adding an email address to list of recipients */
+"Add Email Addresses Manually" = "Добавить эл. адреса вручную";
+
+/* Label for adding recipients' email addresses */
+"Add Email" = "Добавить эл. адрес";
+
+/* Add friends error alert title */
+"Add Friends Failed" = "Приглашение не удалось";
+
+/* Title for modal where the user can invite their friends to DrawQuest */
+"Add Friends" = "Пригласить";
+
+/* Add user completion button title */
+"Add" = "Добавить";
+
+/* Address book authorization failed error message */
+"Address Book Error" = "Ошибка адресной книги";
+
+/* Cancel button for alert view */
+"AlertViewButtonTitleCancel" = "Отмена";
+
+/* Delete button for alert view */
+"AlertViewButtonTitleDelete" = "Удалить";
+
+/* Dismiss button for alert view */
+"AlertViewButtonTitleDismiss" = "Отменить";
+
+/* OK button for alert view */
+"AlertViewButtonTitleOK" = "OK";
+
+/* Retry button for alert view */
+"AlertViewButtonTitleRetry" = "Повторить";
+
+/* Tab title which shows all items */
+"AllTabTitle" = "Все";
+
+/* Title for sign up modal when the user is nearly finished signing up */
+"Almost There..." = "Почти...";
+
+/* Option to sign into DrawQuest if the user is already registered */
+"Already a Member?" = "Вы уже участник?";
+
+/* Sign in button title as alternative to signing up */
+"Already have an account?" = "У вас уже есть аккаунт?";
+
+/* Unknown error alert message */
+"An unexpected error occurred" = "Возникла непредвиденная ошибка";
+
+/* Unknown DrawQuest error message */
+"An unknown error occurred communicating with DrawQuest" = "При передаче данных в DrawQuest возникла неизвестная ошибка";
+
+/* Unknown Facebook authorization error message */
+"An unknown error occurred communicating with Facebook. Please try again." = "При передаче данных в Facebook возникла неизвестная ошибка. Повторите попытку.";
+
+/* Unknown Twitter error alert message */
+"An unknown error occurred communicating with Twitter" = "При передаче данных в Twitter возникла неизвестная ошибка.";
+
+/* Generic unknown error message */
+"An unknown error occurred." = "Возникла неизвестная ошибка.";
+
+/* Continue on and do not invite any users confirmation alert message */
+"Are you sure you want to continue without inviting any friends?" = "Вы уверены, что хотите продолжить без приглашения друзей?";
+
+/* Delete upload alert message */
+"Are you sure you want to delete this drawing?" = "Вы уверены, что хотите удалить этот рисунок?";
+
+/* Flag an inappropriate drawing for staff review message */
+"Are you sure you want to flag this drawing as inappropriate?" = "Вы уверены, что хотите пометить этот рисунок как неудачный?";
+
+/* Flag an inappropriate Quest for staff review alert message */
+"Are you sure you want to flag this Quest as inappropriate?" = "Вы уверены, что хотите пометить это задание как неудачное?";
+
+/* Delete a drawing alert message */
+"Are you sure you want to permanently delete your drawing?" = "Вы уверены, что хотите навсегда удалить свой рисунок?";
+
+/* User requested sign out confirmation message */
+"Are you sure you want to sign out?" = "Вы уверены, что хотите выйти?";
+
+/* Destructive request alert confirmation title */
+"Are you sure?" = "Вы уверены?";
+
+/* Authentication error alert title */
+"Authentication Error" = "Ошибка аутентификации";
+
+/* User authorization error alert title */
+"Authorization Error" = "Ошибка авторизации";
+
+/* The user cancelled authorization message */
+"Authorization was cancelled." = "Авторизация была отменена.";
+
+/* Facebook authorization failed, retry prompt */
+"Authorization with Facebook failed. Please try again." = "Не удалось пройти авторизацию в Facebook. Повторите попытку.";
+
+/* Twitter authorization failed, prompt to try again */
+"Authorization with Twitter failed. Please try again." = "Не удалось пройти авторизацию в Twitter. Повторите попытку.";
+
+/* User is being authorized message */
+"Authorizing" = "Авторизация";
+
+/* Editor template failed to download error title */
+"Background Image Failure" = "Ошибка фонового изображения";
+
+/* A short label for the biographical information of the user */
+"Bio" = "Личн. данные";
+
+/* A collection of tools that can be used to draw in the editor */
+"Brushes" = "Кисти";
+
+/* Label for option to save to Apple Photos app */
+"Camera Roll" = "Пленка";
+
+/* Label for changing the user's password */
+"Change Password" = "Изменить пароль";
+
+/* Share via text message body */
+"Check out this drawing I made on DrawQuest: \"%@\"\n\n You should download the app at http://example.com/download" = "Посмотри мой рисунок в DrawQuest: \"%@\"\n\n Тебе следует загрузить приложение http://example.com/download";
+
+/* Invitation message to view a drawing on DrawQuest followed by download link */
+"Check out this drawing on DrawQuest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "Посмотри этот рисунок в DrawQuest: \"%1$@\" \n\nСкачай DrawQuest бесплатно здесь: %2$@";
+
+/* Invitation message to view a drawing on DrawQuest with Quest title */
+"Check out this drawing on DrawQuest: \"%@\"" = "Посмотри этот рисунок в DrawQuest: \"%@\"";
+
+/* Invitation to view a drawing on DrawQuest prefix message */
+"Check out this drawing on DrawQuest!" = "Посмотри этот рисунок в DrawQuest!";
+
+/* Prompt for a user to select the appropriate Twitter account from a list */
+"Choose a Twitter Account" = "Выбрать аккаунт в Twitter";
+
+/* Prompt to choose a photo from the device's Camera Roll to use as avatar */
+"Choose Existing" = "Выбрать из имеющихся";
+
+/* Plural form of our DrawQuest specific currency of 'Coin' */
+"Coins" = "Монеты";
+
+/* A collection of colors that can be used to draw in the editor */
+"Colors" = "Цвета";
+
+/* User should return for a new Quest tomorrow, or they can create a Quest themselves display message */
+"Come back tomorrow for a new Quest, or create your own!" = "Посмотрите новое задание завтра или создайте свое собственное!";
+
+/* Twitter specific invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on @DrawQuest! %@" = "Рисуй \"%1$@\" со мной в @DrawQuest! %2$@";
+
+/* Twitter specific invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on @DrawQuest! http://www.example.com/download" = "Рисуй \"%@\" со мной в @DrawQuest! http://example.com/download";
+
+/* Invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on DrawQuest! %@" = "Рисуй \"%1$@\" со мной в DrawQuest! %2$@";
+
+/* Invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on DrawQuest! http://www.example.com/download" = "Рисуй \"%@\" со мной в DrawQuest! http://example.com/download";
+
+/* Invitation email for another user to join DrawQuest via a particular Quest subject line */
+"Come draw \"%@\" with me on DrawQuest!" = "Рисуй \"%@\" со мной DrawQuest!";
+
+/* Generic invitation to DrawQuest message */
+"Come draw with me on DrawQuest! http://www.example.com/download" = "Рисуй со мной в DrawQuest! http://example.com/download";
+
+/* Invite a friend via email message subject */
+"Come draw with me on DrawQuest!" = "Рисуй со мной в DrawQuest!";
+
+/* Alert confirm button title */
+"Confirm" = "Подтвердить";
+
+/* Confirmation alert title */
+"Confirmation" = "Подтверждение";
+
+/* Facebook authorization and invite prompt */
+"Connect with Facebook to see your list of friends.\nThen choose friends you'd like to add." = "Для просмотра списка друзей подключитесь к Facebook.\nЗатем выберите друзей, которых хотите добавить.";
+
+/* Prompt to connect with Twitter to invite friends display message */
+"Connect with Twitter to see your list of friends.\nThen choose friends you'd like to add." = "Для просмотра списка друзей подключитесь к Twitter.\nЗатем выберите друзей, которых хотите добавить.";
+
+/* A label for inviting other users from the Address Book */
+"Contacts" = "Контакты";
+
+/* Continue on and do not invite any users confirmation alert title */
+"Continue without inviting?" = "Продолжить без приглашения?";
+
+/* Ignore connection failure confirmation button title */
+"Continue" = "Продолжить";
+
+/* Cost of shop items in coin currency */
+"Cost: %@ coins" = "Стоимость: %@ монеты";
+
+/* Prompt to create a new Quest */
+"Create a Quest" = "Создать задание";
+
+/* Instructions to create a Quest and share it with friends */
+"Create your own Quest and share it with friends!" = "Создавайте собственные задания и делитесь ими с друзьями!";
+
+/* Preceeded by a username indicating that they have created a Quest */
+"created a Quest" = "создал(а) задание";
+
+/* Label explaining that the above user is responsible for creating the current Quest */
+"Created this Quest" = "Создал(а) это задание";
+
+/* The user's current password before they change it, placeholder text */
+"Current Password" = "Текущий пароль";
+
+/* Delete a drawing alert title */
+"Delete Drawing" = "Удалить рисунок";
+
+/* Label for option to delete a drawing from DrawQuest */
+"Delete this Drawing" = "Удалить этот рисунок";
+
+/* Delete upload alert title */
+"Delete Upload" = "Удалить загрузку";
+
+/* Destroy item alert confirmation button title */
+"Delete" = "Удалить";
+
+/* Sign up button title as alternative to signing in */
+"Don't have an account?" = "У вас нет аккаунта?";
+
+/* User is done with this action button title */
+"Done" = "Готово";
+
+/* Prompt to draw a Quest template */
+"Draw a Template" = "Нарисовать шаблон";
+
+/* Option to draw the first quest at a later time */
+"Draw This Later" = "Сделать это позже";
+
+/* Label for option to draw a particular Quest */
+"Draw this Quest" = "Нарисовать задание";
+
+/* Label for option to draw a particular Quest */
+"Draw This Quest" = "Нарисовать это задание";
+
+/* Draw this Quest button title */
+"Draw this" = "Нарисовать это";
+
+/* Instructions explaining that users can draw something every day */
+"Draw, every day.\n\n " = "Рисуйте каждый день.\n\n";
+
+/* Title for the area where the user can draw Quests */
+"DrawAreaTitle" = "Рисовать";
+
+/* Delete drawing request error alert title */
+"Drawing delete failed" = "Не удалось удалить рисунок";
+
+/* Label for a colleciton of drawings */
+"Drawings" = "Рисунки";
+
+/* Prompt for a user to draw the Quest */
+"DrawPrompt" = "Рисовать";
+
+/* State sync with DrawQuest failed error title */
+"DrawQuest Connection Failed" = "Не удалось подключиться к DrawQuest";
+
+/* Post without sharing alert message */
+"DrawQuest is more fun when you share with friends. Would you still like to continue without sharing?" = "Пользоваться DrawQuest значительно нтереснее вместе с друзьями. Вы все еще хотите продолжить без них?";
+
+/* Label for a link to the user's DrawQuest profile web page */
+"DrawQuest Profile Page" = "Профиль DrawQuest";
+
+/* Update for DrawQuest app is available indicator label */
+"DrawQuest Update Available!" = "Доступно обновление DrawQuest!";
+
+/* File save access denied error message */
+"DrawQuest was denied access to your photo library. You can allow access using the iOS Settings app." = "DrawQuest отказано в доступе к вашей фото-библиотеке. Вы можете разрешить доступ в Настройках iOS.";
+
+/* Twitter access was denied by user error alert message */
+"DrawQuest was not granted access to your Twitter accounts." = "DrawQuest отказано в доступе к вашим аккаунтам в Twitter.";
+
+/* DrawQuest */
+"DrawQuest" = "DrawQuest";
+
+/* Label indicating the user can earn 5 coins with fixed white space */
+"Earn      5 Coins" = "Заработайте 5 монет";
+
+/* Label indicating the user can earn 25 coins with fixed white space */
+"Earn      25 Coins" = "Заработайте 25 монет";
+
+/* Instructions for earning and spending coins */
+"Earn coins by being an active Quester. Spend coins to unlock more colors!" = "Зарабатывайте монеты за активность в создании заданий. Используйте их для разблокировки других цветов!";
+
+/* Instructions explaining the coin economy */
+"Earn coins by drawing Quests. Spend coins to get more colors." = "Зарабатывайте монеты за создание заданий. Используйте их на расширение палитры.";
+
+/* Email */
+"Email" = "Эл. почта";
+
+/* A simple email placeholder that is obviously an invalid placeholder email */
+"email@email.com" = "email@example.com";
+
+/* Empty drawing alert title */
+"Empty Drawing" = "Пустой рисунок";
+
+/* Quest title placeholder text */
+"Enter Your Quest Title" = "Введите название задания";
+
+/* Invite error alert title */
+"Error Inviting Friends" = "Ошибка при приглашении друзей";
+
+/* Invite error to user error title prefix */
+"Error sending invite to:" = "Ошибка при отправке приглашения:";
+
+/* Invite error alert title */
+"Error sending invites." = "Ошибка при отправке приглашений.";
+
+/* Generic error message prefix */
+"Error: " = "Ошибка: ";
+
+/* Generic error alert title */
+"Error" = "Ошибка";
+
+/* Introductory phrase explaining how to use the app */
+"Every day, DrawQuesters from around the world complete a daily drawing challenge. Quests don't have a right or wrong answer - use your imagination, and have fun!" = "Ежедневно участники DrawQuest по всему миру выполняют задания по рисованию. В заданиях нет верных или неверных ответов. Привлекайте свое воображение и получайте удовольствие!";
+
+/* Title for section where users can explore for new content */
+"Explore" = "Поиск";
+
+/* Facebook error alert title */
+"Facebook Error" = "Ошибка Facebook";
+
+/* Label for a link to the user's Facebook profile web page */
+"Facebook Profile Page" = "Страница профиля Facebook";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Find your friends from other services that are registered on DrawQuest button title */
+"Find Your Friends on DrawQuest" = "Найдите друзей в DrawQuest";
+
+/* Flag an inappropriate drawing for staff review title */
+"Flag Drawing" = "Пометить рисунок";
+
+/* Flag an inappropriate Quest for staff review alert title */
+"Flag Quest" = "Пометить задание";
+
+/* Flag an inappropriate drawing or Quest for staff review alert confirmation button title */
+"Flag" = "Пометить";
+
+/* Flickr */
+"Flickr" = "Flickr";
+
+/* Instructions explaining how following, starring and playing all work */
+"Follow friends and other Questers. Star and play drawings you like." = "Следите за друзьями и создателями заданий. Помечайте звездочками и играйте с понравившимися рисунками.";
+
+/* Prompt to follow users so that they can see their drawings on this page */
+"Follow more Questers and their drawings will appear here!" = "Следите за другими создателями заданий и их рисунки появятся здесь!";
+
+/* Prompt to follow a user button title */
+"Follow" = "Следить";
+
+/* Instructions on how followers will see the new Quest */
+"Followers will see your Quest in their \"New\" tab" = "Ваши последователи будут видеть ваши задания у себя во вкладке \"Новое\"";
+
+/* Label for a collection of users a particular user is following */
+"Followers" = "Послед.";
+
+/* Label for the area where the content from followed users will appear */
+"FollowingHomeAreaLabel" = "Следую";
+
+/* Request fo follow a user is being completed indicator label */
+"FollowingRequestPending" = "Следую";
+
+/* Label that confirms a user is following another user */
+"FollowingStatusLabel" = "Следую";
+
+/* Label for a collection of users following a particular user */
+"FollowingUserListLabel" = "Следую";
+
+/* Use tapped button indicating they forgot their password alert title */
+"Forgot Password?" = "Забыли пароль?";
+
+/* Use tapped button indicating they forgot their password alert confirmation button title */
+"Forgot" = "Забыл(а)";
+
+/* Quest title instructing users to draw the smiley face a smile */
+"Give him a smile!" = "Улыбочку!";
+
+/* Instructions to star other users' drawings */
+"Give stars to your favorite drawings." = "Пометьте звездочками свои любимые рисунки.";
+
+/* Sign up completed modal title */
+"Happy Questing!" = "Удачного задания!";
+
+/* The user's homepage in the app */
+"Home" = "Главная";
+
+/* Code of conduct agreement label */
+"I agree to keep my artwork classy\nand appropriate for all ages." = "Я обязуюсь выполнять свои работы аккуратно\nв соответствии с разными возрастами";
+
+/* Message inviting another to come draw the Quest the user just created */
+"I just created a Quest on DrawQuest: \"%@\" Come draw it with me! http://example.com/download" = "Я только что создал(а) задание в DrawQuest: \"%@\" Рисуй со мной! http://example.com/download";
+
+/* Email specific invitation message to view a drawing */
+"I thought you'd like this drawing made with DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad: \"%@\" \n\nDownload DrawQuest for free here: %@" = "Думаю, тебе понравится этот рисунок, сделанный в бесплатном креативном приложении DrawQuest для iPhone, iPod touch и iPad: \"%1$@\" \n\nСкачай DrawQuest бесплатно здесь: %2$@";
+
+/* Button title indicating the user is ready to begin */
+"I'm ready for my first Quest!" = "Я готов к первому заданию!";
+
+/* Twitter specific invitation message for another user to join DrawQuest */
+"I'm using @DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "Я использую бесплатное креативное приложение @DrawQuest для iPhone, iPod touch и iPad. Рисуй со мной! http://example.com/download";
+
+/* Invitation message for another user to join DrawQuest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "Я использую бесплатное креативное приложение DrawQuest для iPhone, iPod touch и iPad. Рисуй со мной! http://example.com/download";
+
+/* Email specific invitation message for a user to come draw a specific Quest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: http://www.example.com/download" = "Я использую бесплатное креативное приложение DrawQuest для iPhone, iPod touch и iPad. Ежедневно DrawQuest предлагает задания по рисованию и позволяет создавать свои рисунки, чтобы делиться ими с друзьями. Думаю, тебе понравится это задание: \"%@\" \n\nСкачай DrawQuest бесплатно здесь: http://example.com/download";
+
+/* Email specific invitation message for another user to join DrawQuest, includes the inviting user's username */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\" \n\n Download DrawQuest for free here: http://www.example.com/download" = "Я использую бесплатное креативное приложение DrawQuest для iPhone, iPod touch и iPad. Ежедневно DrawQuest предлагает задания по рисованию и позволяет создавать свои рисунки, чтобы делиться ими с друзьями. Ты можешь следить за мной в приложении как \"%@\" \n\n Скачай DrawQuest бесплатно здесь: http://example.com/download";
+
+/* Invite a friend via email message body */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\". \n\nDownload DrawQuest for free here: %@" = "Я использую бесплатное креативное приложение DrawQuest для iPhone, iPod touch и iPad. Ежедневно DrawQuest предлагает задания по рисованию и позволяет создавать свои рисунки, чтобы делиться ими с друзьями. Ты можешь следить за мной в приложении как \"%1$@\". \n\nСкачай DrawQuest бесплатно здесь: %2$@";
+
+/* In-App Purchase failure error alert tile */
+"In-App Purchase Failed" = "Покупка внутри приложения не удалась";
+
+/* In-App Purchases disabled on device error alert message */
+"In-App Purchases have been disabled on this device." = "Покупки внутри приложения отключены на данном устройстве.";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Invite user action sheet title */
+"Invite %@ to DrawQuest" = "Пригласить %@ в DrawQuest";
+
+/* Invite friends prompt message */
+"Invite your friends!" = "Пригласите своих друзей!";
+
+/* Invite others to DrawQuest button title */
+"Invite" = "Пригласить";
+
+/* User has been invited to DrawQuest indicator label */
+"Invited" = "Приглашен(а)";
+
+/* The user has no Facebook friends message */
+"It looks like you don't have any Facebook friends to invite." = "Похоже, у вас нет друзей из Facebook, чтобы пригласить.";
+
+/* The user has no Twitter friends available to invite display message */
+"It looks like you don't have any Twitter friends to invite." = "Похоже, у вас нет друзей из Twitter, чтобы пригласить.";
+
+/* User has no contacts in their address book to invite */
+"It looks like your Address Book is empty." = "Похоже, ваша адресная книга пуста.";
+
+/* Sign up modal title */
+"Join DrawQuest" = "Присоединиться к DrawQuest";
+
+/* Title for sign up modal */
+"Join" = "Присоединиться";
+
+/* Preceeded by a username indicating that they have just joined DrawQuest */
+"joined DrawQuest" = "присоединился(лась) к DrawQuest";
+
+/* Alert title when the editor has repeatedly crashed */
+"Keep trying?" = "Keep trying?";
+
+/* Date the item was last updated */
+"Last Updated: %@" = "Последнее обновление: %@";
+
+/* App update available alert dismiss button title */
+"Later" = "Позже";
+
+/* Button title indicating the user can tap to load in more items */
+"Load More" = "Загрузить еще";
+
+/* More items are loading in from the server indicator label */
+"Loading More" = "Еще загружаются";
+
+/* Data is being loaded from server indicator label */
+"Loading..." = "Загрузка...";
+
+/* The user must wait as a request is currently being made. */
+"Loading" = "Загрузка";
+
+/* Mail app error alert title */
+"Mail Error" = "Ошибка почты";
+
+/* Label for option to share using the Apple Mail app */
+"Mail" = "Почта";
+
+/* Label for option to share using the Apple Messages app */
+"Message" = "Сообщение";
+
+/* Messages app error title */
+"Messages Error" = "Ошибка сообщений";
+
+/* Label for the user's first Quest */
+"My First Quest" = "Мое первое задание";
+
+/* Name required for Quest alert title */
+"Name your Quest!" = "Назовите свое задание!";
+
+/* Indicating an item has never been updated */
+"Never" = "Никогда";
+
+/* Activity item notifying users new colors are available in the shop */
+"New colors available!" = "Доступны новые цвета!";
+
+/* New colors available in shop message */
+"New Colors!" = "Новые цвета!";
+
+/* The user's new password they would like to change it to repeated for safety, placeholder text */
+"New Password Again" = "Снова новый пароль";
+
+/* The user's new password they would like to change it to */
+"New Password" = "Новый пароль";
+
+/* A new Quest is available alert label */
+"New Quest!" = "Новое задание!";
+
+/* App update available alert title */
+"New Version Available!" = "Доступна новая версия!";
+
+/* Shop item has been recently added indicator label */
+"New!" = "Новинка!";
+
+/* Shop item is new to the user indicator label */
+"NewShopItemIndicatorLabel" = "Новинка";
+
+/* Tab title which shows the newest items in reverse chron order */
+"NewTabTitle" = "Новинка";
+
+/* Proceed to the next phase of the current action */
+"Next" = "Далее";
+
+/* Message congratulating the user on completing another drawing for the day */
+"Nice drawing! You're on a roll today!" = "Отличный рисунок! Вы сегодня в ударе!";
+
+/* Message complementing users on a job well done as they post a drawing */
+"Nice Questing!" = "Отличная работа!";
+
+/* Invite friends failed because no accounts are set up alert title */
+"No Email Accounts" = "Нет почтовых аккаунтов";
+
+/* No drawings exist for this Quest message */
+"No one's drawn this Quest yet. Be the first!" = "С этим заданием никто не работал. Будьте первым!";
+
+/* No quests found on server display message */
+"No quests to display." = "Задания отсутствуют.";
+
+/* No Twitter accounts are configured on device error alert tile */
+"No Twitter Accounts" = "Нет аккаунтов в Twitter";
+
+/* Label for notification options */
+"Notifications" = "Уведомления";
+
+/* The user's old password before they change it */
+"Old Password" = "Старый пароль";
+
+/* The user's DrawQuest specific password */
+"Password" = "Пароль";
+
+/* The user failed to enter matching passwords during password change error alert message */
+"Passwords must match." = "Пароли должны совпадать.";
+
+/* Label for the photo avatar to represent the user */
+"Photo" = "Фото";
+
+/* Label for all the areas of the app the user can visit */
+"Places" = "Места";
+
+/* Instructions to watch the playback for drawings */
+"Play back your favorite drawings to see how your fellow Questers created their masterpiece." = "Посмотрите свои любимые рисунки, чтобы проследить, какие произведения искусства создали ваши коллеги по игре.";
+
+/* Drawing playback error title */
+"Playback Error" = "Ошибка воспроизведения";
+
+/* User has played current drawing suffix */
+"played this drawing" = "посмотрел(а) этот рисунок";
+
+/* Preceeded by a username indicating that they have played your drawing */
+"played your drawing" = "посмотрел(а) ваш рисунок";
+
+/* Request to delete account email body with reason for doing so asked of user */
+"Please close my account and remove all the content associated with it. I understand that this cannot be undone.\n\nThe reason I'm closing my account is:" = "Пожалуйста, закройте мой аккаунт и удалите все содержимое. Я осознаю, что это невозможно восстановить впоследствии. \n\nПричина, по которой я закрываю свой аккаунт:";
+
+/* Empty drawing alert message */
+"Please draw something before posting it!" = "Нарисуйте что-нибудь, прежде чем публиковать!";
+
+/* Name required for Quest alert message */
+"Please enter a title for your Quest to continue." = "Укажите название для своего задания, чтобы продолжить.";
+
+/* User needs to enter a valid email address indicator label */
+"Please enter a valid email address." = "Укажите действующий эл. адрес.";
+
+/* Invalid email alert title */
+"Please enter a valid email address" = "Укажите действующий эл. адрес";
+
+/* User needs to enter a valid password indicator label */
+"Please enter a valid password." = "Укажите действующий пароль";
+
+/* User needs to enter a valid username indicator label */
+"Please enter a valid username." = "Укажите действующее имя пользователя.";
+
+/* The user failed to enter and/or repeat a new password during password change error alert message */
+"Please enter and repeat your new password." = "Укажите и продублируйте новый пароль.";
+
+/* The user failed to enter an old password during password change error alert message */
+"Please enter your old password." = "Укажите прежний пароль.";
+
+/* Prompt to attempt a request again */
+"Please try again" = "Повторите попытку";
+
+/* Activity item request that the user update to a newer version of the app */
+"Please update DrawQuest to view this." = "Для просмотра обновите DrawQuest.";
+
+/* Instructions on how the new Quest can become popular */
+"Popular Quests appear in the \"All\" tab. Share yours to increase your chances!" = "Популярные задания отображаются во вкладке \"Все\". Поделитесь своими, чтобы увеличить свои шансы!";
+
+/* Upload error alert title */
+"Post Error" = "Ошибка публикации";
+
+/* Upload the completed drawing to DrawQuest button title */
+"Post to DrawQuest" = "Опубликовать в DrawQuest";
+
+/* Begin upload button title */
+"Post" = "Опубликовать";
+
+/* Preceeded by a username indicating that they have posted a drawing of their own */
+"posted a drawing" = "опубликовал(а) рисунок";
+
+/* Upload error alert title */
+"Posting Error" = "Ошибка публикации";
+
+/* The comment upload failed, prompt to try the upload again */
+"Posting failed. Try again?" = "Не удалось опубликовать. Повторить попытку?";
+
+/* Image upload failed message */
+"Posting Image Failed.\nTry Again?" = "Не удалось опубликовать изображение.\nПовторить попытку?";
+
+/* User should wait as the image is uploading */
+"Posting Image..." = "Публикация изображения...";
+
+/* Playback data upload failed message */
+"Posting Playback Data Failed.\nTry Again?" = "Не удалось опубликовать данные воспроизведения.\nПовторить попытку?";
+
+/* User should wait as the playback data is uploading */
+"Posting Playback Data..." = "Публикация данных воспроизведения...";
+
+/* Upload to Facebook failed message */
+"Posting to Facebook Failed.\nTry Again?" = "Не удалось опубликовать в Facebook.\nПовторить попытку?";
+
+/* Comment upload failed message */
+"Posting to Quest Failed.\nTry Again?" = "Не удалось опубликовать в Заданиях.\nПовторить попытку?";
+
+/* User should wait as the comment is uploading */
+"Posting to Quest..." = "Публикация в Заданиях...";
+
+/* Upload to Twitter failed message */
+"Posting to Twitter Failed.\nTry Again?" = "Публикация в Twitter не удалась.\nПовторить попытку?";
+
+/* Upload is in progress indicator label */
+"Posting" = "Публикация";
+
+/* Playback data is being loaded indicator label */
+"Preparing Playback" = "Подготовка воспроизведения";
+
+/* A blocking HUD message while the editor is loading in. */
+"Preparing Quest" = "Подготовка задания";
+
+/* Label to view the Privacy Policy */
+"Privacy Policy" = "Конфиденциальность";
+
+/* Profile error alert title */
+"Profile error:" = "Ошибка профиля:";
+
+/* Label for the user's own profile */
+"Profile" = "Профиль";
+
+/* Prompt to pull down on the page to refresh content */
+"Pull to refresh..." = "Для обновления потяните...";
+
+/* Store purchase failure error title */
+"Purchase Error" = "Ошибка покупки";
+
+/* Coin based shop purchase alert confirmation button title */
+"Purchase" = "Покупка";
+
+/* Shop item has been purchased indicator label */
+"Purchased" = "Куплено";
+
+/* Instructions explaining why you should say allow push notifications */
+"Push notifications remind you when there's a new Quest to draw." = "Уведомления Push напоминают вам о новых заданиях к выполнению";
+
+/* Label for the option to receive push notifications when there is a new Quest of the Day */
+"Quest of the Day Alerts" = "Сообщения о задании дня";
+
+/* The name for our daily Quests the users can draw */
+"Quest" = "Задание";
+
+/* Label for a colleciton of Quests */
+"Quests" = "Задания";
+
+/* Message asking if users are ready to complete their first drawing */
+"Ready for your first Quest?" = "Готовы к первому заданию?";
+
+/* Alert message */
+"Really delete your drawing?" = "Really delete your drawing?";
+
+/* Tab title which shows items the user has recently completed */
+"RecentTabTitle" = "Последнее";
+
+/* Label for list of users who will receive an email */
+"Recipients" = "Получатели";
+
+/* Refresh this Quest button title */
+"Refresh" = "Обновить";
+
+/* Prompt to release the page to refresh content */
+"Release to refresh..." = "Отпустите для обновления...";
+
+/* Preceeded by a username indicating that they have remixed your drawing */
+"remixed your drawing" = "переделал ваш рисунок";
+
+/* The user's new password they would like to change it to repeated for safety */
+"Repeat New Password" = "Введите новый пароль еще раз";
+
+/* Label to report problems to staff */
+"Report a Problem" = "Сообщить о проблеме";
+
+/* Label for option to flag an innappropriate drawing for staff review */
+"Report this Drawing" = "Сообщить о рисунке";
+
+/* Label for option to flag an inappropriate Quest for staff review */
+"Report this Quest" = "Сообщить о задании";
+
+/* Error restoring purchases the user has made in the shop alert title */
+"Restore Error" = "Ошибка восстановления";
+
+/* Restore all shop purchases previously made button title */
+"Restore Purchases" = "Восстановить покупки";
+
+/* Prompt for a user to attempt a failed connection again. */
+"Retry" = "Повторить";
+
+/* File save failure alert title */
+"Saving Failed" = "Не удалось сохранить";
+
+/* Search for user autocomplete button title */
+"Search for '%@'" = "Поиск '%@'";
+
+/* Search for user button title */
+"Search for..." = "Поиск...";
+
+/* Search for users search field placeholder text */
+"Search People" = "Поиск людей";
+
+/* Instructions to tap the menu button to see new activity */
+"See what's new by tapping the menu button." = "Посмотрите новости, воспользовавшись кнопкой в меню.";
+
+/* API Service error alert title */
+"Service Error" = "Ошибка веб-сервиса";
+
+/* Photo is being uploaded and set as user's avatar loading indicator label */
+"Setting Avatar" = "Установка аватара";
+
+/* The title for the area where the user can change their account settings */
+"Settings" = "Настройки";
+
+/* Share drawing to Tumblr modal title */
+"Share on Tumblr" = "Поделиться в Tumblr";
+
+/* Label for option to share posts to their Facebook timeline by default */
+"Share to Facebook Timeline" = "Поделиться в хронике Facebook";
+
+/* Label for option to share posts to their Twitter followers by default */
+"Share to Twitter" = "Поделиться в Twitter";
+
+/* Prompt to have users share their drawing with friends which will earn them coins */
+"Share with Friends to earn extra coins" = "Поделитесь с друзьями и заработайте монеты";
+
+/* Message inviting users to share the drawing they are posting with friends */
+"Share with Friends" = "Поделиться с друзьями";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile!" = "Опубликовать профиль!";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile" = "Опубликовать профиль";
+
+/* Drawing being published with options to share the drawing modal title */
+"Share" = "Поделиться";
+
+/* Label for sharing options */
+"Sharing" = "Публикация";
+
+/* Shop related error alert title */
+"Shop Error" = "Ошибка при покупке";
+
+/* Button title in color picker encouraging users to go to the shop */
+"Shop for More Colors!" = "Купите еще цвета!";
+
+/* Title for the shop area of the app where users can purchase new items */
+"Shop" = "Магазин";
+
+/* Prompt for the user to sign into their DrawQuest account so they can upload an item */
+"Sign In & Post" = "Вход и публикация";
+
+/* Prompt to sign into an existing DrawQuest account to see what others are drawing */
+"Sign In and see what your fellow Questers are drawing!" = "Войдите и посмотрите, что рисуют ваши коллеги по игре!";
+
+/* Prompt to sign in and immediately begin drawing */
+"Sign In and Start Drawing" = "Войти для рисования";
+
+/* Sign in failed alert title */
+"Sign In Failed" = "Не удалось осуществить вход";
+
+/* Prompt for the user to sign into their DrawQuest account */
+"Sign In" = "Вход";
+
+/* Sign the currently signed in user out of DrawQuest */
+"Sign Out" = "Выйти";
+
+/* Prompt for the user to sign up for DrawQuest so they can upload an item */
+"Sign Up & Post" = "Вход для публикации";
+
+/* Prompt to sign up and immediately begin drawing */
+"Sign Up and Start Drawing" = "Зарегистрируйтесь и начинайте рисовать";
+
+/* Prompt to sign up for DrawQuest so they can start following other users */
+"Sign Up and start following other Questers!" = "Зарегистрируйтесь и следите за другими создателями заданий!";
+
+/* Sign up failed alert title */
+"Sign Up Failed" = "Регистрация не удалась";
+
+/* Prompt to sign up, post, and collect the 25 coin reward for doing so */
+"Sign up for DrawQuest to post your drawing and collect your first 25 coins!" = "Зарегистрируйтесь в DrawQuest, чтобы опубликовать рисунок, и получите свои первые 25 монет!";
+
+/* Sign up using email button title */
+"Sign Up Using Email" = "Регистрация через эл. почту";
+
+/* Prompt for the user to sign up for DrawQuest */
+"Sign Up" = "Регистр.";
+
+/* Message letting the user know they must wait as the sign out is completed */
+"Signing out" = "Выход";
+
+/* Option to continue without completing the current step */
+"Skip" = "Пропустить";
+
+/* Prompt to drag with a finger to advance */
+"SLIDE" = "ЛИСТАТЬ";
+
+/* Label for links to web profile for various services */
+"Social Profile Links" = "Ссылки на соц. профили";
+
+/* Delete drawing request error alert message */
+"Something went wrong and we couldn't delete your drawing. Please try again." = "Произошел сбой и мы не смогли удалить ваш рисунок. Повторите попытку.";
+
+/* User profile not found on server error alert message */
+"Sorry that profile no longer exists." = "Извините, данный профиль больше не существует.";
+
+/* Invite friends failed because no accounts are set up alert message */
+"Sorry, but to invite friends you'll need to setup an email account on your device first." = "Извините, но вам следует сначала создать аккаунт эл. почты, чтобы пригласить друзей.";
+
+/* Message explaining that the user can only invite 50 or less friends at one time */
+"Sorry, but you can't select more than 50 friends to invite at once." = "Извините, вы не можете пригласить более 50 друзей одновременно.";
+
+/* Alert message */
+"Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again." = "Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again.";
+
+/* Drawing could not be found on server message */
+"Sorry, that drawing could not be found." = "Извините, не удалось найти данный рисунок.";
+
+/* Label for the option to receive push notifications when someone stars one of their drawings */
+"Starred Drawing Alerts" = "Оповещения об отмеченных звездочками рисунках";
+
+/* User has starred current drawing suffix */
+"starred this drawing" = "отметил(а) этот рисунок";
+
+/* Preceeded by a username indicating that they have starred your drawing */
+"starred your drawing" = "отметил(а) ваш рисунок";
+
+/* Preceeded by a username indicating that they have started following you */
+"started following you" = "следует за вами";
+
+/* Stop following user alert confirmation button title */
+"Stop Following " = "Не следовать";
+
+/* Successful request indicator label */
+"Success" = "Успешно";
+
+/* Label for support links */
+"Support" = "Поддержка";
+
+/* Prompt to use the camera function to take a photo as avatar */
+"Take a Photo" = "Сделать фото";
+
+/* User biographical field placeholder text prompting user to tap the field */
+"Tap here to say something about yourself!" = "Нажмите здесь и расскажите что-нибудь о себе!";
+
+/* Label to view the Terms of Service */
+"Terms of Service" = "Пользовательское соглашение";
+
+/* Coin purchase success alert title */
+"Thanks!" = "Спасибо!";
+
+/* Alert message requesting the user update their app because they received a notification not supported by the current version */
+"That notification is not supported by this version of DrawQuest. Please update to the latest version!" = "Оповещение не поддерживается данной версией DrawQuest. Сделайте обновление до последней версии!";
+
+/* User cancelled Facebook authorization message */
+"The operation was cancelled." = "Операция отменена.";
+
+/* Prompt to try a failed request once again */
+"The request failed. Try again?" = "Не удалось обработать запрос. Повторить попытку?";
+
+/* Empty explore page message */
+"There are no featured drawings to show right now. Try again later." = "Пока нет избранных рисунков для показа. Повторите попытку позже.";
+
+/* No Twitter accounts are configured on device error alert message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings on your device." = "Нет настроенных аккаунтов Twitter. Вы можете добавить или создать аккаунт Twitter в Настройках на вашем устройстве.";
+
+/* Quest gallery load failure alert message */
+"There was a problem loading this quest. Please return to the quest archive and try loading the the gallery again." = "При загрузке задания произошел сбой. Вернитесь к заданию и попытайтесь загрузить галерею еще раз.";
+
+/* Unknown DrawQuest upload error message */
+"There was a problem saving the drawing, DrawQuest is unable to post." = "При сохранении рисунка произошел сбой. DrawQuest не может осуществить публикацию.";
+
+/* Invite error to user error message prefix */
+"There was a problem sending your invitation via Twitter. Error code:" = "При отправке приглашения с помощью Twitter произошел сбой. Код ошибки:";
+
+/* Messages app error message */
+"There was an error opening the Messages app." = "При открытии почтового приложения произошла ошибка.";
+
+/* Unknown Twitter error alert message */
+"There was an unexpected error communicating with Twitter. Please try again." = "При передаче данных в Twitter произошла непредвиденная ошибка. Повторите попытку.";
+
+/* Unknown DrawQuest upload error message */
+"There was an unexpected problem and DrawQuest is unable to post." = "Произошла непредвиденная ошибка и DrawQuest не может осуществить публикацию.";
+
+/* App update available alert message */
+"There's a new version of DrawQuest available. Upgrade now?" = "Доступна новая версия DrawQuest. Обновить сейчас?";
+
+/* A message explaining that the user is seeing something unexpected and they should try again at a later time */
+"This shouldn't be empty. Please try back later!" = "Это не должно быть пустым. Повторите попытку позже!";
+
+/* Simple time unit suffix indicating days, e.g.: 5d */
+"TimestampTimesDays" = "%dд";
+
+/* Simple time unit suffix indicating hours, e.g.: 5h */
+"TimestampTimesHours" = "%dч";
+
+/* Timestamp label for an item that showed up in the last few seconds */
+"TimestampTimesJustNow" = "только что";
+
+/* Simple time unit suffix indicating minutes, e.g.: 5m */
+"TimestampTimesMinutes" = "%dм";
+
+/* Simple time unit suffix indicating seconds, e.g.: 5s */
+"TimestampTimesSeconds" = "%dс";
+
+/* Simple time unit suffix indicating weeks, e.g.: 5w */
+"TimestampTimesWeeks" = "%dн";
+
+/* Simple time unit suffix indicating years, e.g.: 5y */
+"TimestampTimesYears" = "%dг";
+
+/* Label for the Quest of the Day */
+"Today's Quest" = "Задание сегодня";
+
+/* Tab title which shows the best items in order of ranking */
+"TopTabTitle" = "Топ";
+
+/* Total coins a user has collected tally prefix */
+"Total coins:" = "Всего монет:";
+
+/* Label for a list of recent Quests the user can complete */
+"Try These Recent Quests" = "Попробуйте последние задания";
+
+/* Tumblr */
+"Tumblr" = "Tumblr";
+
+/* Twitter API keys are missing error message */
+"Twitter API keys are missing!" = "Нет ключей API для Twitter!";
+
+/* Twitter authorization error alert title */
+"Twitter Auth Error" = "Ошибка аутентификации в Twitter";
+
+/* Twitter error alert title */
+"Twitter Error" = "Ошибка Twitter";
+
+/* Label for a link to the user's Twitter profile web page */
+"Twitter Profile Page" = "Страница профиля Twitter";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Quest could not be dismissed from Inbox error alert title */
+"Unable to dismiss" = "Невозможно отменить";
+
+/* Quest could not be found on server error alert title */
+"Unable to Find Quest" = "Невозможно найти задание";
+
+/* Follow error alert title */
+"Unable to Follow" = "Невозможно следовать";
+
+/* Request for current page failed alert title */
+"Unable to load page" = "Невозможно загрузить страницу";
+
+/* Quest gallery load failure alert title */
+"Unable to Load Quest" = "Невозможно загрузить задание";
+
+/* Editor template failed to download error body */
+"Unable to load the quest background image. You can still post but it will be missing from your drawing. Exit and re-enter the editor to try again." = "Невозможно загрузить фоновый рисунок к заданию. Вы можете продолжить публикацию, но он не будет отображаться. Выйдите из редактора и войдите повторно.";
+
+/* Unable to purchase shop item error alert message prefix */
+"Unable to purchase due to error: %@" = "Покупка невозможна в связи с ошибкой: %@";
+
+/* Unable to purchase shop item error alert title */
+"Unable to Purchase" = "Покупка невозможна";
+
+/* Quest gallery refresh failure alert title */
+"Unable to Refresh Gallery" = "Невозможно обновить галерею";
+
+/* Quest refresh error alert message prefix */
+"Unable to refresh quests due to error: %@" = "Невозмоно обновить задания в связи с ошибкой: %@";
+
+/* Quest refresh unknown error alert message */
+"Unable to refresh quests due to unknown error." = "Невозможно обновить задания в связи с неизвестной ошибкой.";
+
+/* Quest refresh error alert title */
+"Unable to Refresh Quests" = "Невозможно обновить задания";
+
+/* Unknown Facebook upload error message */
+"Unable to share to Facebook due to an unknown error." = "Невозможно опубликовать в Facebook в связи с неизвестной ошибкой.";
+
+/* Unknown Twitter upload error message */
+"Unable to share to Twitter due to an unknown error." = "Невозможно опубликовать в Twitter в связи с неизвестной ошибкой.";
+
+/* Unfollow error alert title */
+"Unable to Unfollow" = "Невозможно отменить следование";
+
+/* Request to unfollow a user is being completed indicator label */
+"Unfollowing" = "Не следую";
+
+/* Unknown error alert message */
+"Unknown error." = "Неизвестная ошибка.";
+
+/* Update app alert title */
+"Update DrawQuest" = "Обновить DrawQuest";
+
+/* Update app alert confirmation button title */
+"Update" = "Обновить";
+
+/* Photo was successfully uploaded as user's new avatar indicator label */
+"Updated avatar." = "Обновленный аватар.";
+
+/* Settings are being updated loading indicator label */
+"Updating Settings" = "Обновление настроек";
+
+/* App update available alert confirmation button title */
+"Upgrade!" = "Обновить!";
+
+/* Upgrade alert confirmation button title */
+"Upgrade" = "Обновление";
+
+/* Upload failed message */
+"Upload Failed. Try Again?" = "Не удалось загрузить. Повторить попытку?";
+
+/* The image upload failed, prompt to try the upload again */
+"Uploading the image failed. Try again?" = "Не удалось загрузить изображение. Повторить попытку?";
+
+/* Data is uploading to server indicator label */
+"Uploading" = "Загрузка";
+
+/* The user's DrawQuest specific username */
+"Username" = "Имя пользователя";
+
+/* Label for option to view the Quest this drawing was drawn for */
+"View this Quest" = "Посмотреть это задание";
+
+/* Unknown error while loading Quest gallery, retry prompt */
+"We couldn't load the gallery. Please try again." = "Не удалось загрузить галерею. Повторите попытку.";
+
+/* Prompt to retry a failed attempt to load the current profile from the server */
+"We couldn't load the profile. Please try again." = "Не удалось загрузить профиль. Повторите попытку.";
+
+/* Error loading activity from server message */
+"We couldn't load your activity. Please try again." = "Не удалось загрузить ваши действия. Повторите попытку.";
+
+/* Message encouraging users to keep drawings appropriate for all ages */
+"We have Questers of all ages, so please keep your drawings safe-for-work and appropriate for everyone" = "Наши участники разных возрастов, поэтому рисунки должны быть соответствующими и подходить разным возрастным категориям";
+
+/* Quest could not be dismissed from Inbox error alert message */
+"We were unable to remove the quest from your inbox. Please try again later." = "Не удалось удалить задание из вашего ящика. Повторите попытку позже.";
+
+/* Label for the user's web profile */
+"Web Profile" = "Веб-профиль";
+
+/* Greeting for users signing in that have previously registered */
+"Welcome Back" = "Приветствуем снова";
+
+/* Activity item welcoming new users */
+"Welcome to DrawQuest!" = "Приветствуем в DrawQuest!";
+
+/* Prefix before the DrawQuest logo welcoming the user on the splash screen */
+"Welcome to" = "Добро пожаловать в";
+
+/* Sign in modal title welcoming the user back */
+"Welcome" = "Приветствуем";
+
+/* Delete artwork confirmation alert message */
+"Would you really like to delete your artwork?" = "Вы действительно хотите удалить свои работы?";
+
+/* Post without sharing alert confirmation button title */
+"Yes, continue" = "Да, продолжить";
+
+/* Yesterday */
+"Yesterday" = "Вчера";
+
+/* Label preceeding alernative services that can be used to sign in */
+"You Can Also Sign In Using:" = "Вы также можете войти с помощью:";
+
+/* Label preceeding alernative services that can be used to sign up */
+"You Can Also Sign Up Using:" = "Вы также можете зарегистрироваться с помощью:";
+
+/* Message for user that do not yet have any activity items */
+"You don't have any activity yet." = "У вас пока нет действий.";
+
+/* The user doesn't have enough coins to purchase what they tried to purchase, prompt them to purchase some coins first */
+"You don't have enough coins, why not buy some first?" = "У вас недостаточно монет. Почему бы не купить для начала?";
+
+/* The user's history is empty because they haven't completed any Quests display message */
+"You haven't drawn anything yet! Quests you've drawn in will appear here." = "У вас пока нет рисунков! Созданные вами задания появятся здесь.";
+
+/* Activity item notifying users of an explore feature */
+"Your drawing was featured on Explore!" = "Ваш рисунок был отмечен в Поиске!";
+
+/* Coin purchase success alert message */
+"Your new coins are ready to use." = "Вы можете пользоваться новыми монетами.";
+
+/* The user's profile has been removed from the server error message */
+"Your profile no longer exists." = "Ваш профиль больше не существует.";
+
+/* App needs to be updated alert title */
+"Your version of DrawQuest is out of date. Please update to see this activity item." = "Ваша версия DrawQuest устарела. Обновите ее, чтобы посмотреть действие.";
+
+/* A reminder that a new Quest of the Day is now available */
+"Today's Quest is now available. Come draw it!" = "Появилось сегодняшнее задание. Приглашаем к рисованию!";

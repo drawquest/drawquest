@@ -1,0 +1,1193 @@
+/* Email specific invitation message to come draw a particular Quest */
+" I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "ฉันกำลังใช้ DrawQuest แอปฟรีสำหรับวาดภาพเพื่อฝึกความคิดสร้างสรรค์สำหรับ iPhone, iPod touch และ iPad แอป DrawQuest จะส่งโจทย์การวาดภาพมาท้าทายคุณทุกวัน และคุณสามารถวาดภาพของคุณและนำไปแบ่งปันกับเพื่อนๆ ได้ ฉันคิดว่าคุณจะสนใจภารกิจครั้งนี้: \"%1$@\" \n\nดาวน์โหลด DrawQuest ฟรีได้ที่นี่: %2$@";
+
+/* A simple button title for when a user has forgotten their password */
+"?" = "?";
+
+/* Share a drawing via Twitter message with Quest title */
+"\"%@\" via @DrawQuest" = "\"%@\" ผ่าน @DrawQuest";
+
+/* this will end up being something like 'Twitter Friends' or 'Facebook Friends' */
+"%@ Friends" = "เพื่อนบน %@";
+
+/* Label displaying the DrawQuest username for a friend from another social service */
+"%@ on DrawQuest" = "%@ บน DrawQuest";
+
+/* Number of characters left for a user to fill in before they reach the maximum limit */
+"%d characters remaining" = "เหลืออีก %d อักขระ";
+
+/* Label indicating the number of days until the user receives another streak bonus, singular */
+"%ld more day 'til next Streak Bonus" = "อีก %ld วันก่อนถึงโบนัสต่อเนื่องครั้งต่อไป";
+
+/* Label indicating the number of days until the user receives another streak bonus, plural */
+"%ld more days 'til next Streak Bonus" = "อีก %ld วันก่อนถึงโบนัสต่อเนื่องครั้งต่อไป";
+
+/* Number of notes users have left on a drawing, singular count */
+"%ld Note" = "บันทึก %ld รายการ";
+
+/* Number of notes users have left on a drawing, plural count */
+"%ld Notes" = "บันทึก %ld รายการ";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please flip your device right-side-up to continue." = "↺ โปรดพลิกอุปกรณ์ให้ด้านขวาอยู่ด้านบนเพื่อดำเนินการต่อ";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device back to Portrait to continue." = "↺ โปรดหมุนอุปกรณ์ของคุณให้กลับไปอยู่ในแนวตั้งเพื่อดำเนินการต่อ";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↺ Please rotate your device to Portrait to continue." = "↺ โปรดหมุนอุปกรณ์ของคุณให้อยู่ในแนวตั้งเพื่อดำเนินการต่อ";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device back to Portrait to continue." = "↻ โปรดหมุนอุปกรณ์ของคุณให้กลับไปอยู่ในแนวตั้งเพื่อดำเนินการต่อ";
+
+/* displayed in overlay to tell user what they must do before they can proceed */
+"↻ Please rotate your device to Portrait to continue." = "↻ โปรดหมุนอุปกรณ์ของคุณให้อยู่ในแนวตั้งเพื่อดำเนินการต่อ";
+
+/* Navigation title for about us modal */
+"About DrawQuest" = "เกี่ยวกับ DrawQuest";
+
+/* Navigation title for about us modal, shortened for iPhone */
+"About" = "เกี่ยวกับ";
+
+/* Label for the area where all of the user's relevant activity is collected */
+"Activity" = "กิจกรรม";
+
+/* Label for adding an email address from user's address book */
+"Add Email Addresses from Contacts" = "เพิ่มที่อยู่อีเมลจากรายชื่อผู้ติดต่อ";
+
+/* Label for manually adding an email address to list of recipients */
+"Add Email Addresses Manually" = "เพิ่มที่อยู่อีเมลด้วยตนเอง";
+
+/* Label for adding recipients' email addresses */
+"Add Email" = "เพิ่มอีเมล";
+
+/* Add friends error alert title */
+"Add Friends Failed" = "เพิ่มเพื่อนไม่สำเร็จ";
+
+/* Title for modal where the user can invite their friends to DrawQuest */
+"Add Friends" = "เพิ่มเพื่อน";
+
+/* Add user completion button title */
+"Add" = "เพิ่ม";
+
+/* Address book authorization failed error message */
+"Address Book Error" = "สมุดที่อยู่เกิดความผิดพลาด";
+
+/* Cancel button for alert view */
+"AlertViewButtonTitleCancel" = "ยกเลิก";
+
+/* Delete button for alert view */
+"AlertViewButtonTitleDelete" = "ลบ";
+
+/* Dismiss button for alert view */
+"AlertViewButtonTitleDismiss" = "ปิด";
+
+/* OK button for alert view */
+"AlertViewButtonTitleOK" = "ตกลง";
+
+/* Retry button for alert view */
+"AlertViewButtonTitleRetry" = "ลองอีกครั้ง";
+
+/* Tab title which shows all items */
+"AllTabTitle" = "ทั้งหมด";
+
+/* Title for sign up modal when the user is nearly finished signing up */
+"Almost There..." = "เกือบเสร็จแล้ว...";
+
+/* Option to sign into DrawQuest if the user is already registered */
+"Already a Member?" = "เป็นสมาชิกอยู่แล้วหรือ?";
+
+/* Sign in button title as alternative to signing up */
+"Already have an account?" = "มีบัญชีอยู่แล้วหรือ?";
+
+/* Unknown error alert message */
+"An unexpected error occurred" = "เกิดข้อผิดพลาดโดยไม่คาดคิด";
+
+/* Unknown DrawQuest error message */
+"An unknown error occurred communicating with DrawQuest" = "เกิดข้อผิดพลาดโดยไม่คาดคิดขณะสื่อสารกับ DrawQuest";
+
+/* Unknown Facebook authorization error message */
+"An unknown error occurred communicating with Facebook. Please try again." = "เกิดข้อผิดพลาดโดยไม่คาดคิดขณะสื่อสารกับ Facebook โปรดลองอีกครั้ง";
+
+/* Unknown Twitter error alert message */
+"An unknown error occurred communicating with Twitter" = "เกิดข้อผิดพลาดโดยไม่คาดคิดขณะสื่อสารกับ Twitter";
+
+/* Generic unknown error message */
+"An unknown error occurred." = "เกิดข้อผิดพลาดโดยไม่ทราบสาเหตุขึ้น";
+
+/* Continue on and do not invite any users confirmation alert message */
+"Are you sure you want to continue without inviting any friends?" = "แน่ใจหรือว่าคุณต้องการดำเนินการต่อโดยไม่เชิญเพื่อนๆ เลย?";
+
+/* Delete upload alert message */
+"Are you sure you want to delete this drawing?" = "แน่ใจหรือว่าคุณต้องการลบภาพวาดนี้?";
+
+/* Flag an inappropriate drawing for staff review message */
+"Are you sure you want to flag this drawing as inappropriate?" = "แน่ใจหรือว่าคุณต้องการกำกับภาพวาดนี้ว่าไม่เหมาะสม?";
+
+/* Flag an inappropriate Quest for staff review alert message */
+"Are you sure you want to flag this Quest as inappropriate?" = "แน่ใจหรือว่าคุณต้องการกำกับภารกิจนี้ว่าไม่เหมาะสม?";
+
+/* Delete a drawing alert message */
+"Are you sure you want to permanently delete your drawing?" = "แน่ใจหรือว่าคุณต้องการลบภาพวาดนี้อย่างถาวร?";
+
+/* User requested sign out confirmation message */
+"Are you sure you want to sign out?" = "แน่ใจหรือว่าคุณต้องการออกจากระบบ?";
+
+/* Destructive request alert confirmation title */
+"Are you sure?" = "แน่ใจหรือ?";
+
+/* Authentication error alert title */
+"Authentication Error" = "เกิดข้อผิดพลาดขณะยืนยันสิทธิ์";
+
+/* User authorization error alert title */
+"Authorization Error" = "เกิดข้อผิดพลาดขณะยืนยันสิทธิ์";
+
+/* The user cancelled authorization message */
+"Authorization was cancelled." = "การยืนยันสิทธิ์ถูกยกเลิก";
+
+/* Facebook authorization failed, retry prompt */
+"Authorization with Facebook failed. Please try again." = "การยืนยันสิทธิ์กับ Facebook ล้มเหลว โปรดลองอีกครั้ง";
+
+/* Twitter authorization failed, prompt to try again */
+"Authorization with Twitter failed. Please try again." = "การยืนยันสิทธิ์กับ Twitter ล้มเหลว โปรดลองอีกครั้ง";
+
+/* User is being authorized message */
+"Authorizing" = "กำลังยืนยันสิทธิ์";
+
+/* Editor template failed to download error title */
+"Background Image Failure" = "ภาพพื้นหลังเกิดข้อผิดพลาด";
+
+/* A short label for the biographical information of the user */
+"Bio" = "ข้อมูลส่วนตัว";
+
+/* A collection of tools that can be used to draw in the editor */
+"Brushes" = "พู่กัน";
+
+/* Label for option to save to Apple Photos app */
+"Camera Roll" = "บันทึกภาพ";
+
+/* Label for changing the user's password */
+"Change Password" = "เปลี่ยนรหัสผ่าน";
+
+/* Share via text message body */
+"Check out this drawing I made on DrawQuest: \"%@\"\n\n You should download the app at http://example.com/download" = "ลองดูภาพที่ฉันวาดบน DrawQuest: \"%@\"\n\n คุณควรจะลองดาวน์โหลดแอปมาเล่นได้ที่ http://example.com/download";
+
+/* Invitation message to view a drawing on DrawQuest followed by download link */
+"Check out this drawing on DrawQuest: \"%@\" \n\nDownload DrawQuest for free here: %@" = "ลองดูภาพวาดนี้บน DrawQuest: \"%1$@\" \n\nดาวน์โหลด DrawQuest ฟรีได้ที่นี่: %2$@";
+
+/* Invitation message to view a drawing on DrawQuest with Quest title */
+"Check out this drawing on DrawQuest: \"%@\"" = "ลองดูภาพวาดนี้บน DrawQuest: \"%@\"";
+
+/* Invitation to view a drawing on DrawQuest prefix message */
+"Check out this drawing on DrawQuest!" = "ลองดูภาพวาดนี้บน DrawQuest!";
+
+/* Prompt for a user to select the appropriate Twitter account from a list */
+"Choose a Twitter Account" = "เลืิอกบัญชี Twitter";
+
+/* Prompt to choose a photo from the device's Camera Roll to use as avatar */
+"Choose Existing" = "เลือกจากที่มีอยู่";
+
+/* Plural form of our DrawQuest specific currency of 'Coin' */
+"Coins" = "เหรียญ";
+
+/* A collection of colors that can be used to draw in the editor */
+"Colors" = "สี";
+
+/* User should return for a new Quest tomorrow, or they can create a Quest themselves display message */
+"Come back tomorrow for a new Quest, or create your own!" = "กลับมารับภารกิจใหม่ได้พรุ่งนี้ หรือสร้างภารกิจของคุณเอง!";
+
+/* Twitter specific invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on @DrawQuest! %@" = "มาวาดรูป \"%1$@\" กับฉันบน @DrawQuest! %2$@";
+
+/* Twitter specific invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on @DrawQuest! http://www.example.com/download" = "มาวาดรูป \"%@\" กับฉันบน @DrawQuest! http://example.com/download";
+
+/* Invitation message to come draw a particular Quest */
+"Come draw \"%@\" with me on DrawQuest! %@" = "มาวาดรูป \"%1$@\" กับฉันบน DrawQuest! %2$@";
+
+/* Invitation message for a user to come draw a specific Quest */
+"Come draw \"%@\" with me on DrawQuest! http://www.example.com/download" = "มาวาดรูป \"%@\" กับฉันบน DrawQuest! http://example.com/download";
+
+/* Invitation email for another user to join DrawQuest via a particular Quest subject line */
+"Come draw \"%@\" with me on DrawQuest!" = "มาวาดรูป \"%@\" กับฉันบน DrawQuest!";
+
+/* Generic invitation to DrawQuest message */
+"Come draw with me on DrawQuest! http://www.example.com/download" = "มาวาดรูปกับฉันบน DrawQuest! http://example.com/download";
+
+/* Invite a friend via email message subject */
+"Come draw with me on DrawQuest!" = "มาวาดรูปกับฉันบน DrawQuest!";
+
+/* Alert confirm button title */
+"Confirm" = "ยืนยัน";
+
+/* Confirmation alert title */
+"Confirmation" = "การยืนยัน";
+
+/* Facebook authorization and invite prompt */
+"Connect with Facebook to see your list of friends.\nThen choose friends you'd like to add." = "เชื่อมต่อกับ Facebook เพื่อดูรายชื่อเพื่อนของคุณ\nจากนั้นเลือกเพื่อนที่คุณต้องการเพิ่ม";
+
+/* Prompt to connect with Twitter to invite friends display message */
+"Connect with Twitter to see your list of friends.\nThen choose friends you'd like to add." = "เชื่อมต่อกับ Twitter เพื่อดูรายชื่อเพื่อนของคุณ\nจากนั้นเลือกเพื่อนที่คุณต้องการเพิ่ม";
+
+/* A label for inviting other users from the Address Book */
+"Contacts" = "รายชื่อผู้ติดต่อ";
+
+/* Continue on and do not invite any users confirmation alert title */
+"Continue without inviting?" = "ดำเนินการต่อโดยไม่เชิญใครเลยใช่หรือไม่?";
+
+/* Ignore connection failure confirmation button title */
+"Continue" = "ทำต่อ";
+
+/* Cost of shop items in coin currency */
+"Cost: %@ coins" = "ราคา: %@ เหรียญ";
+
+/* Prompt to create a new Quest */
+"Create a Quest" = "สร้างภารกิจ";
+
+/* Instructions to create a Quest and share it with friends */
+"Create your own Quest and share it with friends!" = "สร้างภารกิจของคุณเองและแบ่งปันกับเพื่อนๆ!";
+
+/* Preceeded by a username indicating that they have created a Quest */
+"created a Quest" = "ได้สร้างภารกิจแล้ว";
+
+/* Label explaining that the above user is responsible for creating the current Quest */
+"Created this Quest" = "สร้างภารกิจนี้";
+
+/* The user's current password before they change it, placeholder text */
+"Current Password" = "รหัสผ่านปัจจุบัน";
+
+/* Delete a drawing alert title */
+"Delete Drawing" = "ลบภาพวาด";
+
+/* Label for option to delete a drawing from DrawQuest */
+"Delete this Drawing" = "ลบภาพวาดนี้";
+
+/* Delete upload alert title */
+"Delete Upload" = "ลบสิ่งที่อัปโหลด";
+
+/* Destroy item alert confirmation button title */
+"Delete" = "ลบ";
+
+/* Sign up button title as alternative to signing in */
+"Don't have an account?" = "ไม่มีบัญชีหรือ?";
+
+/* User is done with this action button title */
+"Done" = "เสร็จ";
+
+/* Prompt to draw a Quest template */
+"Draw a Template" = "วาดแม่แบบ";
+
+/* Option to draw the first quest at a later time */
+"Draw This Later" = "วาดภายหลัง";
+
+/* Label for option to draw a particular Quest */
+"Draw this Quest" = "วาดภารกิจนี้";
+
+/* Label for option to draw a particular Quest */
+"Draw This Quest" = "วาดภารกิจนี้";
+
+/* Draw this Quest button title */
+"Draw this" = "วาดสิ่งนี้";
+
+/* Instructions explaining that users can draw something every day */
+"Draw, every day.\n\n " = "วาดภาพทุกวัน\n\n";
+
+/* Title for the area where the user can draw Quests */
+"DrawAreaTitle" = "วาดภาพ";
+
+/* Delete drawing request error alert title */
+"Drawing delete failed" = "การลบภาพวาดล้มเหลว";
+
+/* Label for a colleciton of drawings */
+"Drawings" = "ภาพวาด";
+
+/* Prompt for a user to draw the Quest */
+"DrawPrompt" = "วาดภาพ";
+
+/* State sync with DrawQuest failed error title */
+"DrawQuest Connection Failed" = "การเชื่อมต่อกับ DrawQuest ล้มเหลว";
+
+/* Post without sharing alert message */
+"DrawQuest is more fun when you share with friends. Would you still like to continue without sharing?" = "DrawQuest จะสนุกยิ่งขึ้นเมื่อคุณแบ่งปันกับเพื่อนๆ คุณยังจะดำเนินการต่อโดยไม่อนุญาตให้มีการแบ่งปันใช่หรือไม่?";
+
+/* Label for a link to the user's DrawQuest profile web page */
+"DrawQuest Profile Page" = "หน้าโปรไฟล์ของ DrawQuest";
+
+/* Update for DrawQuest app is available indicator label */
+"DrawQuest Update Available!" = "มีอัปเดตสำหรับ DrawQuest ให้ติดตั้ง!";
+
+/* File save access denied error message */
+"DrawQuest was denied access to your photo library. You can allow access using the iOS Settings app." = "ไลบรารีภาพถ่ายไม่อนุญาตให้ DrawQuest เข้าถึง คุณสามารถอนุญาตการเข้าถึงได้ด้วยแอปการตั้งค่าของ iOS";
+
+/* Twitter access was denied by user error alert message */
+"DrawQuest was not granted access to your Twitter accounts." = "DrawQuest ไม่ได้รับอนุญาตให้เข้าถึงบัญชี Twitter ของคุณ";
+
+/* DrawQuest */
+"DrawQuest" = "DrawQuest";
+
+/* Label indicating the user can earn 5 coins with fixed white space */
+"Earn      5 Coins" = "ได้รับ 5 เหรียญ";
+
+/* Label indicating the user can earn 25 coins with fixed white space */
+"Earn      25 Coins" = "ได้รับ 25 เหรียญ";
+
+/* Instructions for earning and spending coins */
+"Earn coins by being an active Quester. Spend coins to unlock more colors!" = "รับเหรียญได้โดยเล่นภารกิจเป็นประจำ ใช้เหรียญเพื่อปลดล็อคสีต่างๆ เพิ่ม!";
+
+/* Instructions explaining the coin economy */
+"Earn coins by drawing Quests. Spend coins to get more colors." = "รับเหรียญโดยวาดภาพตามภารกิจ ใช้เหรียญเพื่อรับสีต่างๆ เพิ่ม";
+
+/* Email */
+"Email" = "อีเมล";
+
+/* A simple email placeholder that is obviously an invalid placeholder email */
+"email@email.com" = "email@example.com";
+
+/* Empty drawing alert title */
+"Empty Drawing" = "ภาพวาดว่างเปล่า";
+
+/* Quest title placeholder text */
+"Enter Your Quest Title" = "ใส่ชื่อภารกิจของคุณ";
+
+/* Invite error alert title */
+"Error Inviting Friends" = "เกิดข้อผิดพลาดในการเชิญเพื่อน";
+
+/* Invite error to user error title prefix */
+"Error sending invite to:" = "เกิดข้อผิดพลาดในการส่งคำเชิญถึง:";
+
+/* Invite error alert title */
+"Error sending invites." = "เกิดข้อผิดพลาดในการส่งคำเชิญ";
+
+/* Generic error message prefix */
+"Error: " = "ข้อผิดพลาด:";
+
+/* Generic error alert title */
+"Error" = "ข้อผิดพลาด";
+
+/* Introductory phrase explaining how to use the app */
+"Every day, DrawQuesters from around the world complete a daily drawing challenge. Quests don't have a right or wrong answer - use your imagination, and have fun!" = "ทุกๆ วัน ผู้เล่น DrawQuest จากทั่วโลกได้รับคำท้าทายและแสดงฝีมือการวาดภาพอยู่เสมอใน ภารกิจต่างๆ ไม่มีคำตอบที่ถูกหรือผิด ใช้จินตนาการของคุณ และขอให้สนุก!";
+
+/* Title for section where users can explore for new content */
+"Explore" = "สำรวจ";
+
+/* Facebook error alert title */
+"Facebook Error" = "Facebook เกิดข้อผิดพลาด";
+
+/* Label for a link to the user's Facebook profile web page */
+"Facebook Profile Page" = "หน้าโปรไฟล์ของ Facebook";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Find your friends from other services that are registered on DrawQuest button title */
+"Find Your Friends on DrawQuest" = "ค้นหาเพื่อนของคุณบน DrawQuest";
+
+/* Flag an inappropriate drawing for staff review title */
+"Flag Drawing" = "รายงานภาพวาด";
+
+/* Flag an inappropriate Quest for staff review alert title */
+"Flag Quest" = "รายงานภารกิจ";
+
+/* Flag an inappropriate drawing or Quest for staff review alert confirmation button title */
+"Flag" = "รายงาน";
+
+/* Flickr */
+"Flickr" = "Flickr";
+
+/* Instructions explaining how following, starring and playing all work */
+"Follow friends and other Questers. Star and play drawings you like." = "ติดตามเพื่อนๆ และนักล่าภารกิจคนอื่นๆ มอบดาวและเล่นภาพวาดที่คุณชอบ";
+
+/* Prompt to follow users so that they can see their drawings on this page */
+"Follow more Questers and their drawings will appear here!" = "ติดตามนักล่าภารกิจให้มากขึ้น และภาพวาดของพวกเขาจะปรากฏที่นี่!";
+
+/* Prompt to follow a user button title */
+"Follow" = "ติดตาม";
+
+/* Instructions on how followers will see the new Quest */
+"Followers will see your Quest in their \"New\" tab" = "ผู้ติดตามจะเห็นภารกิจของคุณในแท็บ \"ใหม่\"";
+
+/* Label for a collection of users a particular user is following */
+"Followers" = "ผู้ติดตาม";
+
+/* Label for the area where the content from followed users will appear */
+"FollowingHomeAreaLabel" = "กำลังติดตาม";
+
+/* Request fo follow a user is being completed indicator label */
+"FollowingRequestPending" = "กำลังติดตาม";
+
+/* Label that confirms a user is following another user */
+"FollowingStatusLabel" = "กำลังติดตาม";
+
+/* Label for a collection of users following a particular user */
+"FollowingUserListLabel" = "กำลังติดตาม";
+
+/* Use tapped button indicating they forgot their password alert title */
+"Forgot Password?" = "ลืมรหัสผ่านหรือ?";
+
+/* Use tapped button indicating they forgot their password alert confirmation button title */
+"Forgot" = "ลืม";
+
+/* Quest title instructing users to draw the smiley face a smile */
+"Give him a smile!" = "ยิ้มให้เขาหน่อย!";
+
+/* Instructions to star other users' drawings */
+"Give stars to your favorite drawings." = "ให้ดาวภาพวาดที่คุณชอบ";
+
+/* Sign up completed modal title */
+"Happy Questing!" = "ขอให้สนุกกับภารกิจ!";
+
+/* The user's homepage in the app */
+"Home" = "หน้าหลัก";
+
+/* Code of conduct agreement label */
+"I agree to keep my artwork classy\nand appropriate for all ages." = "ฉันยินยอมที่จะวาดภาพศิลป์อย่างสวยงาม\nและเหมาะสม สามารถรับชมได้ทุกวัย";
+
+/* Message inviting another to come draw the Quest the user just created */
+"I just created a Quest on DrawQuest: \"%@\" Come draw it with me! http://example.com/download" = "ฉันเพิ่งสร้างภารกิจบน DrawQuest: \"%@\" มาวาดภาพด้วยกัน! http://example.com/download";
+
+/* Email specific invitation message to view a drawing */
+"I thought you'd like this drawing made with DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad: \"%@\" \n\nDownload DrawQuest for free here: %@" = "ฉันคิดว่าคุณน่าจะชอบภาพที่วาดด้วย DrawQuest แอปฟรีสำหรับการวาดภาพอย่างสร้างสรรค์บน iPhone, iPod touch และ iPad: \"%1$@\" \n\nดาวน์โหลด DrawQuest ฟรีได้ที่นี่: %2$@";
+
+/* Button title indicating the user is ready to begin */
+"I'm ready for my first Quest!" = "ฉันพร้อมสำหรับภารกิจแรกแล้ว!";
+
+/* Twitter specific invitation message for another user to join DrawQuest */
+"I'm using @DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "ฉันกำลังใช้ @DrawQuest แอปฟรีสำหรับการวาดภาพอย่างสร้างสรรค์บน iPhone, iPod touch และ iPad มาวาดภาพด้วยกันเถอะ! http://example.com/download";
+
+/* Invitation message for another user to join DrawQuest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. Come draw with me! http://www.example.com/download" = "ฉันกำลังใช้ DrawQuest แอปฟรีสำหรับการวาดภาพอย่างสร้างสรรค์บน iPhone, iPod touch และ iPad มาวาดภาพด้วยกันเถอะ! http://example.com/download";
+
+/* Email specific invitation message for a user to come draw a specific Quest */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. I thought you might enjoy this Quest: \"%@\" \n\nDownload DrawQuest for free here: http://www.example.com/download" = "ฉันกำลังใช้ DrawQuest แอปฟรีสำหรับการวาดภาพอย่างสร้างสรรค์บน iPhone, iPod touch และ iPad แอป DrawQuest จะส่งโจทย์วาดภาพเพื่อท้าทายคุณทุกวัน และคุณสามารถสร้างภารกิจวาดภาพของตนเองเพื่อแบ่งปันกับเพื่อนได้ ฉันคิดว่าคุณน่าจะชอบภารกิจนี้: \"%@\" \n\nดาวน์โหลด DrawQuest ฟรีได้ที่นี่: http://example.com/download";
+
+/* Email specific invitation message for another user to join DrawQuest, includes the inviting user's username */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\" \n\n Download DrawQuest for free here: http://www.example.com/download" = "ฉันกำลังใช้ DrawQuest แอปฟรีสำหรับการวาดภาพอย่างสร้างสรรค์บน iPhone, iPod touch และ iPad แอป DrawQuest จะส่งโจทย์วาดภาพเพื่อท้าทายคุณทุกวัน และคุณสามารถสร้างภารกิจวาดภาพของตนเองเพื่อแบ่งปันกับเพื่อนได้ คุณสามารถติดตามฉันในแอปได้ โดยฉันใช้ชื่อว่า \"%@\" \n\n ดาวน์โหลด DrawQuest ฟรีได้ที่นี่: http://example.com/download";
+
+/* Invite a friend via email message body */
+"I'm using DrawQuest, a free creative drawing app for iPhone, iPod touch, and iPad. DrawQuest sends you daily drawing challenges and allows you to create your own to share with friends. You can follow me in the app as \"%@\". \n\nDownload DrawQuest for free here: %@" = "ฉันกำลังใช้ DrawQuest แอปฟรีสำหรับการวาดภาพอย่างสร้างสรรค์บน iPhone, iPod touch และ iPad แอป DrawQuest จะส่งโจทย์วาดภาพเพื่อท้าทายคุณทุกวัน และคุณสามารถสร้างภารกิจวาดภาพของตนเองเพื่อแบ่งปันกับเพื่อนได้ คุณสามารถติดตามฉันในแอปได้ โดยฉันใช้ชื่อว่า \"%1$@\" \n\nดาวน์โหลด DrawQuest ฟรีได้ที่นี่: %2$@";
+
+/* In-App Purchase failure error alert tile */
+"In-App Purchase Failed" = "การซื้อในแอปล้มเหลว";
+
+/* In-App Purchases disabled on device error alert message */
+"In-App Purchases have been disabled on this device." = "อุปกรณ์นี้ได้ปิดใช้งานการซื้อจากในแอป";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Invite user action sheet title */
+"Invite %@ to DrawQuest" = "เชิญ %@ ให้ร่วมเล่น DrawQuest";
+
+/* Invite friends prompt message */
+"Invite your friends!" = "เชิญเพื่อนของคุณ!";
+
+/* Invite others to DrawQuest button title */
+"Invite" = "เชิญ";
+
+/* User has been invited to DrawQuest indicator label */
+"Invited" = "เชิญแล้ว";
+
+/* The user has no Facebook friends message */
+"It looks like you don't have any Facebook friends to invite." = "ดูเหมือนว่าคุณไม่มีเพื่อนบน Facebook ให้เชิญ";
+
+/* The user has no Twitter friends available to invite display message */
+"It looks like you don't have any Twitter friends to invite." = "ดูเหมือนว่าคุณไม่มีเพื่อนบน Twitter ให้เชิญ";
+
+/* User has no contacts in their address book to invite */
+"It looks like your Address Book is empty." = "ดูเหมือนว่าสมุดที่อยู่ของคุณจะไม่มีข้อมูลอยู่เลย";
+
+/* Sign up modal title */
+"Join DrawQuest" = "เข้าร่วม DrawQuest";
+
+/* Title for sign up modal */
+"Join" = "เข้าร่วม";
+
+/* Preceeded by a username indicating that they have just joined DrawQuest */
+"joined DrawQuest" = "เข้าร่วม DrawQuest แล้ว";
+
+/* Alert title when the editor has repeatedly crashed */
+"Keep trying?" = "Keep trying?";
+
+/* Date the item was last updated */
+"Last Updated: %@" = "อัปเดตล่าสุด: %@";
+
+/* App update available alert dismiss button title */
+"Later" = "ภายหลัง";
+
+/* Button title indicating the user can tap to load in more items */
+"Load More" = "โหลดเพิ่ม";
+
+/* More items are loading in from the server indicator label */
+"Loading More" = "กำลังโหลดเพิ่ม";
+
+/* Data is being loaded from server indicator label */
+"Loading..." = "กำลังโหลด...";
+
+/* The user must wait as a request is currently being made. */
+"Loading" = "กำลังโหลด";
+
+/* Mail app error alert title */
+"Mail Error" = "อีเมลเกิดข้อผิดพลาด";
+
+/* Label for option to share using the Apple Mail app */
+"Mail" = "อีเมล";
+
+/* Label for option to share using the Apple Messages app */
+"Message" = "ข้อความ";
+
+/* Messages app error title */
+"Messages Error" = "การส่งข้อความผิดพลาด";
+
+/* Label for the user's first Quest */
+"My First Quest" = "ภารกิจแรกของฉัน";
+
+/* Name required for Quest alert title */
+"Name your Quest!" = "ตั้งชื่อภารกิจของคุณ!";
+
+/* Indicating an item has never been updated */
+"Never" = "ไม่เคย";
+
+/* Activity item notifying users new colors are available in the shop */
+"New colors available!" = "มีสีใหม่ให้ใช้!";
+
+/* New colors available in shop message */
+"New Colors!" = "มีสีใหม่!";
+
+/* The user's new password they would like to change it to repeated for safety, placeholder text */
+"New Password Again" = "รหัสผ่านใหม่ซ้ำอีกครั้ง";
+
+/* The user's new password they would like to change it to */
+"New Password" = "รหัสผ่านใหม่";
+
+/* A new Quest is available alert label */
+"New Quest!" = "ภารกิจใหม่!";
+
+/* App update available alert title */
+"New Version Available!" = "มีเวอร์ชันใหม่ให้โหลด!";
+
+/* Shop item has been recently added indicator label */
+"New!" = "ใหม่!";
+
+/* Shop item is new to the user indicator label */
+"NewShopItemIndicatorLabel" = "ใหม่";
+
+/* Tab title which shows the newest items in reverse chron order */
+"NewTabTitle" = "ใหม่";
+
+/* Proceed to the next phase of the current action */
+"Next" = "ถัดไป";
+
+/* Message congratulating the user on completing another drawing for the day */
+"Nice drawing! You're on a roll today!" = "สวยจริงๆ! คุณวาดภาพเสร็จอีกภาพแล้ว!";
+
+/* Message complementing users on a job well done as they post a drawing */
+"Nice Questing!" = "ผลงานไม่เลวเลย!";
+
+/* Invite friends failed because no accounts are set up alert title */
+"No Email Accounts" = "ไม่มีบัญชีอีเมล";
+
+/* No drawings exist for this Quest message */
+"No one's drawn this Quest yet. Be the first!" = "ยังไม่มีใครวาดภาพตามภารกิจนี้ ลงมือวาดเป็นคนแรก!";
+
+/* No quests found on server display message */
+"No quests to display." = "ไม่มีภารกิจให้แสดง";
+
+/* No Twitter accounts are configured on device error alert tile */
+"No Twitter Accounts" = "ไม่มีบัญชี Twitter";
+
+/* Label for notification options */
+"Notifications" = "การแจ้งเตือน";
+
+/* The user's old password before they change it */
+"Old Password" = "รหัสผ่านเก่า";
+
+/* The user's DrawQuest specific password */
+"Password" = "รหัสผ่าน";
+
+/* The user failed to enter matching passwords during password change error alert message */
+"Passwords must match." = "รหัสผ่านจะต้องตรงกัน";
+
+/* Label for the photo avatar to represent the user */
+"Photo" = "ภาพถ่าย";
+
+/* Label for all the areas of the app the user can visit */
+"Places" = "สถานที่";
+
+/* Instructions to watch the playback for drawings */
+"Play back your favorite drawings to see how your fellow Questers created their masterpiece." = "เล่นภาพวาดที่คุณชื่นชอบเพื่อดูผลงานชิ้นเอกของเพื่อนนักล่าภารกิจ";
+
+/* Drawing playback error title */
+"Playback Error" = "เกิดข้อผิดพลาดในการเล่น";
+
+/* User has played current drawing suffix */
+"played this drawing" = "เล่นภาพวาดนี้";
+
+/* Preceeded by a username indicating that they have played your drawing */
+"played your drawing" = "เล่นภาพวาดของคุณ";
+
+/* Request to delete account email body with reason for doing so asked of user */
+"Please close my account and remove all the content associated with it. I understand that this cannot be undone.\n\nThe reason I'm closing my account is:" = "โปรดปิดบัญชีของฉันและลบเนื้อหาทั้งหมดที่เกี่ยวข้องกับบัญชี ฉันเข้าใจว่าการดำเนินการนี้ไม่สามารถยกเลิกได้\n\nสาเหตุที่ฉันปิดบัญชีของฉันคือ:";
+
+/* Empty drawing alert message */
+"Please draw something before posting it!" = "โปรดวาดภาพลงไปก่อนโพสต์!";
+
+/* Name required for Quest alert message */
+"Please enter a title for your Quest to continue." = "โปรดใส่ชื่อภารกิจของคุณเพื่อดำเนินการต่อ";
+
+/* User needs to enter a valid email address indicator label */
+"Please enter a valid email address." = "โปรดใส่ที่อยู่อีเมลที่ถูกต้อง";
+
+/* Invalid email alert title */
+"Please enter a valid email address" = "โปรดใส่ที่อยู่อีเมลที่ถูกต้อง";
+
+/* User needs to enter a valid password indicator label */
+"Please enter a valid password." = "โปรดใส่รหัสผ่านที่ถูกต้อง";
+
+/* User needs to enter a valid username indicator label */
+"Please enter a valid username." = "โปรดใส่ชื่อผู้ใช้ที่ถูกต้อง";
+
+/* The user failed to enter and/or repeat a new password during password change error alert message */
+"Please enter and repeat your new password." = "โปรดใส่รหัสผ่านและยืนยันรหัสผ่านของคุณซ้ำอีกครั้ง";
+
+/* The user failed to enter an old password during password change error alert message */
+"Please enter your old password." = "โปรดป้อนรหัสผ่านเก่าของคุณ";
+
+/* Prompt to attempt a request again */
+"Please try again" = "โปรดลองอีกครั้ง";
+
+/* Activity item request that the user update to a newer version of the app */
+"Please update DrawQuest to view this." = "โปรดอัปเดต DrawQuest เพื่อดูข้อมูลนี้";
+
+/* Instructions on how the new Quest can become popular */
+"Popular Quests appear in the \"All\" tab. Share yours to increase your chances!" = "ภารกิจที่เป็นที่นิยมจะปรากฏในแท็บ \"ทั้งหมด\" แบ่งปันภารกิจของคุณเพื่อคว้าโอกาสดัง!";
+
+/* Upload error alert title */
+"Post Error" = "การโพสต์เกิดข้อผิดพลาด";
+
+/* Upload the completed drawing to DrawQuest button title */
+"Post to DrawQuest" = "โพสต์ไปยัง DrawQuest";
+
+/* Begin upload button title */
+"Post" = "โพสต์";
+
+/* Preceeded by a username indicating that they have posted a drawing of their own */
+"posted a drawing" = "โพสต์ภาพวาด";
+
+/* Upload error alert title */
+"Posting Error" = "เกิดข้อผิดพลาดในการโพสต์";
+
+/* The comment upload failed, prompt to try the upload again */
+"Posting failed. Try again?" = "การโพสต์ล้มเหลว ลองอีกครั้งหรือไม่?";
+
+/* Image upload failed message */
+"Posting Image Failed.\nTry Again?" = "การโพสต์รูปภาพล้มเหลว\nลองอีกครั้งหรือไม่?";
+
+/* User should wait as the image is uploading */
+"Posting Image..." = "กำลังโพสต์รูปภาพ...";
+
+/* Playback data upload failed message */
+"Posting Playback Data Failed.\nTry Again?" = "การโพสต์ข้อมูลการเล่นล้มเหลว\nลองอีกครั้งหรือไม่?";
+
+/* User should wait as the playback data is uploading */
+"Posting Playback Data..." = "กำลังโพสต์ข้อมูลการเล่น...";
+
+/* Upload to Facebook failed message */
+"Posting to Facebook Failed.\nTry Again?" = "การโพสต์ไปยัง Facebook ล้มเหลว\nลองอีกครั้งหรือไม่?";
+
+/* Comment upload failed message */
+"Posting to Quest Failed.\nTry Again?" = "การโพสต์ไปยังภารกิจล้มเหลว\nลองอีกครั้งหรือไม่?";
+
+/* User should wait as the comment is uploading */
+"Posting to Quest..." = "กำลังโพสต์ไปยังภารกิจ...";
+
+/* Upload to Twitter failed message */
+"Posting to Twitter Failed.\nTry Again?" = "การโพสต์ไปยัง Twitter ล้มเหลว\nลองอีกครั้งหรือไม่?";
+
+/* Upload is in progress indicator label */
+"Posting" = "กำลังโพสต์";
+
+/* Playback data is being loaded indicator label */
+"Preparing Playback" = "กำลังเตรียมการเล่น";
+
+/* A blocking HUD message while the editor is loading in. */
+"Preparing Quest" = "กำลังเตรียมภารกิจ";
+
+/* Label to view the Privacy Policy */
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+
+/* Profile error alert title */
+"Profile error:" = "โปรไฟล์เกิดข้อผิดพลาด:";
+
+/* Label for the user's own profile */
+"Profile" = "โปรไฟล์";
+
+/* Prompt to pull down on the page to refresh content */
+"Pull to refresh..." = "ดึุงเพื่อรีเฟรช...";
+
+/* Store purchase failure error title */
+"Purchase Error" = "เกิดข้อผิดพลาดในการซื้อ";
+
+/* Coin based shop purchase alert confirmation button title */
+"Purchase" = "ซื้อ";
+
+/* Shop item has been purchased indicator label */
+"Purchased" = "ซื้อแล้ว";
+
+/* Instructions explaining why you should say allow push notifications */
+"Push notifications remind you when there's a new Quest to draw." = "จะมีการส่งการแจ้งเตือนแบบพุชให้คุณทราบเมื่อมีภารกิจใหม่มาให้วาด";
+
+/* Label for the option to receive push notifications when there is a new Quest of the Day */
+"Quest of the Day Alerts" = "การแจ้งเตือนภารกิจประจำวัน";
+
+/* The name for our daily Quests the users can draw */
+"Quest" = "ภารกิจ";
+
+/* Label for a colleciton of Quests */
+"Quests" = "ภารกิจ";
+
+/* Message asking if users are ready to complete their first drawing */
+"Ready for your first Quest?" = "พร้อมสำหรับภารกิจแรกของคุณแล้วหรือยัง?";
+
+/* Alert message */
+"Really delete your drawing?" = "Really delete your drawing?";
+
+/* Tab title which shows items the user has recently completed */
+"RecentTabTitle" = "ล่าสุด";
+
+/* Label for list of users who will receive an email */
+"Recipients" = "ผู้รับ";
+
+/* Refresh this Quest button title */
+"Refresh" = "รีเฟรช";
+
+/* Prompt to release the page to refresh content */
+"Release to refresh..." = "ปล่อยเพื่อรีเฟรช...";
+
+/* Preceeded by a username indicating that they have remixed your drawing */
+"remixed your drawing" = "รีมิกซ์ภาพวาดของคุณ";
+
+/* The user's new password they would like to change it to repeated for safety */
+"Repeat New Password" = "ใส่รหัสผ่านใหม่อีกครั้ง";
+
+/* Label to report problems to staff */
+"Report a Problem" = "รายงานปัญหา";
+
+/* Label for option to flag an innappropriate drawing for staff review */
+"Report this Drawing" = "รายงานภาพวาดนี้";
+
+/* Label for option to flag an inappropriate Quest for staff review */
+"Report this Quest" = "รายงานภารกิจนี้";
+
+/* Error restoring purchases the user has made in the shop alert title */
+"Restore Error" = "การกู้คืนผิดพลาด";
+
+/* Restore all shop purchases previously made button title */
+"Restore Purchases" = "กู้คืนสิ่งที่ซื้อ";
+
+/* Prompt for a user to attempt a failed connection again. */
+"Retry" = "ลองอีกครั้ง";
+
+/* File save failure alert title */
+"Saving Failed" = "การบันทึกล้มเหลว";
+
+/* Search for user autocomplete button title */
+"Search for '%@'" = "ค้นหา '%@'";
+
+/* Search for user button title */
+"Search for..." = "ค้นหา...";
+
+/* Search for users search field placeholder text */
+"Search People" = "ค้นหาบุคคล";
+
+/* Instructions to tap the menu button to see new activity */
+"See what's new by tapping the menu button." = "ดูสิ่งใหม่ๆ โดยแตะที่ปุ่มเมนู";
+
+/* API Service error alert title */
+"Service Error" = "การบริการเกิดข้อผิดพลาด";
+
+/* Photo is being uploaded and set as user's avatar loading indicator label */
+"Setting Avatar" = "กำลังตั้งค่าภาพประจำตัว";
+
+/* The title for the area where the user can change their account settings */
+"Settings" = "การตั้งค่า";
+
+/* Share drawing to Tumblr modal title */
+"Share on Tumblr" = "แบ่งปันบน Tumblr";
+
+/* Label for option to share posts to their Facebook timeline by default */
+"Share to Facebook Timeline" = "แบ่งปันไปยังไทม์ไลน์ของ Facebook";
+
+/* Label for option to share posts to their Twitter followers by default */
+"Share to Twitter" = "แบ่งปันไปยัง Twitter";
+
+/* Prompt to have users share their drawing with friends which will earn them coins */
+"Share with Friends to earn extra coins" = "แบ่งปันกับเพื่อนๆ เพื่อรับเหรียญเพิ่ม";
+
+/* Message inviting users to share the drawing they are posting with friends */
+"Share with Friends" = "แบ่งปันกับเพื่อนๆ";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile!" = "แบ่งปันโปรไฟล์ของคุณ!";
+
+/* Prompt to share the user's web profile with others */
+"Share Your Profile" = "แบ่งปันโปรไฟล์ของคุณ";
+
+/* Drawing being published with options to share the drawing modal title */
+"Share" = "แบ่งปัน";
+
+/* Label for sharing options */
+"Sharing" = "การแบ่งปัน";
+
+/* Shop related error alert title */
+"Shop Error" = "ร้านค้าเกิดข้อผิดพลาด";
+
+/* Button title in color picker encouraging users to go to the shop */
+"Shop for More Colors!" = "ซื้อสีมากกว่านี้!";
+
+/* Title for the shop area of the app where users can purchase new items */
+"Shop" = "ร้านค้า";
+
+/* Prompt for the user to sign into their DrawQuest account so they can upload an item */
+"Sign In & Post" = "ลงชื่อเข้าใช้และโพสต์";
+
+/* Prompt to sign into an existing DrawQuest account to see what others are drawing */
+"Sign In and see what your fellow Questers are drawing!" = "ลงชื่อเข้าใช้และดูว่านักล่าภารกิจของเรากำลังวาดภาพอะไรอยู่!";
+
+/* Prompt to sign in and immediately begin drawing */
+"Sign In and Start Drawing" = "ลงชื่อเข้าใช้และเริ่มวาดภาพ";
+
+/* Sign in failed alert title */
+"Sign In Failed" = "การลงชื่อเข้าใช้ล้มเหลว";
+
+/* Prompt for the user to sign into their DrawQuest account */
+"Sign In" = "ลงชื่อเข้าใช้";
+
+/* Sign the currently signed in user out of DrawQuest */
+"Sign Out" = "ออกจากระบบ";
+
+/* Prompt for the user to sign up for DrawQuest so they can upload an item */
+"Sign Up & Post" = "สมัครใช้งานและโพสต์";
+
+/* Prompt to sign up and immediately begin drawing */
+"Sign Up and Start Drawing" = "สมัครใช้งานและเริ่มวาดภาพ";
+
+/* Prompt to sign up for DrawQuest so they can start following other users */
+"Sign Up and start following other Questers!" = "สมัครใช้งานและเริ่มติดตามนักล่าภารกิจคนอื่นๆ!";
+
+/* Sign up failed alert title */
+"Sign Up Failed" = "การสมัครใช้งานล้มเหลว";
+
+/* Prompt to sign up, post, and collect the 25 coin reward for doing so */
+"Sign up for DrawQuest to post your drawing and collect your first 25 coins!" = "สมัครใช้งาน DrawQuest เพื่อโพสต์ภาพวาดของคุณและรับ 25 เหรียญแรกของคุณ!";
+
+/* Sign up using email button title */
+"Sign Up Using Email" = "สมัครใช้งานด้วยอีเมล";
+
+/* Prompt for the user to sign up for DrawQuest */
+"Sign Up" = "สมัครใช้งาน";
+
+/* Message letting the user know they must wait as the sign out is completed */
+"Signing out" = "ออกจากระบบ";
+
+/* Option to continue without completing the current step */
+"Skip" = "ข้าม";
+
+/* Prompt to drag with a finger to advance */
+"SLIDE" = "ใช้นิ้วเลื่อน";
+
+/* Label for links to web profile for various services */
+"Social Profile Links" = "ลิงค์โปรไฟล์สื่อสังคม";
+
+/* Delete drawing request error alert message */
+"Something went wrong and we couldn't delete your drawing. Please try again." = "เกิดข้อผิดพลาดขึ้นและเราไม่สามารถลบภาพวาดของคุณได้ โปรดลองอีกครั้ง";
+
+/* User profile not found on server error alert message */
+"Sorry that profile no longer exists." = "ขออภัยด้วย ไม่มีโปรไฟล์นี้อยู่";
+
+/* Invite friends failed because no accounts are set up alert message */
+"Sorry, but to invite friends you'll need to setup an email account on your device first." = "ขออภัยด้วย แต่หากต้องการเชิญเพื่อน คุณต้องตั้งค่าบัญชีอีเมลบนอุปกรณ์ของคุณก่อน";
+
+/* Message explaining that the user can only invite 50 or less friends at one time */
+"Sorry, but you can't select more than 50 friends to invite at once." = "ขออภัยด้วย คุณไม่สามารถเลือกเพื่อนเกิน 50 คนพร้อมกันในคราวเดียวได้";
+
+/* Alert message */
+"Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again." = "Sorry, DrawQuest is having trouble loading this drawing. You can delete it or try loading it again.";
+
+/* Drawing could not be found on server message */
+"Sorry, that drawing could not be found." = "ขออภัยด้วย ไม่พบภาพวาดนี้";
+
+/* Label for the option to receive push notifications when someone stars one of their drawings */
+"Starred Drawing Alerts" = "การแจ้งเตือนภาพวาดได้รับแจกดาว";
+
+/* User has starred current drawing suffix */
+"starred this drawing" = "แจกดาวภาพวาดนี้";
+
+/* Preceeded by a username indicating that they have starred your drawing */
+"starred your drawing" = "แจกดาวภาพวาดของคุณ";
+
+/* Preceeded by a username indicating that they have started following you */
+"started following you" = "เริ่มติดตามคุณ";
+
+/* Stop following user alert confirmation button title */
+"Stop Following " = "หยุดติดตาม";
+
+/* Successful request indicator label */
+"Success" = "สำเร็จ";
+
+/* Label for support links */
+"Support" = "การสนับสนุน";
+
+/* Prompt to use the camera function to take a photo as avatar */
+"Take a Photo" = "ถ่ายภาพ";
+
+/* User biographical field placeholder text prompting user to tap the field */
+"Tap here to say something about yourself!" = "แตะที่นี่เพื่อเขียนเรื่องราวเกี่ยวกับตัวคุณ!";
+
+/* Label to view the Terms of Service */
+"Terms of Service" = "ข้อกำหนดการให้บริการ";
+
+/* Coin purchase success alert title */
+"Thanks!" = "ขอขอบคุณ!";
+
+/* Alert message requesting the user update their app because they received a notification not supported by the current version */
+"That notification is not supported by this version of DrawQuest. Please update to the latest version!" = "การแจ้งเตือนนั้นไม่ได้รับการสนับสนุนใน DrawQuest เวอร์ชันนี้ โปรดอัปเดตเป็นเวอร์ชันล่าสุด!";
+
+/* User cancelled Facebook authorization message */
+"The operation was cancelled." = "การดำเนินการถูกยกเลิก";
+
+/* Prompt to try a failed request once again */
+"The request failed. Try again?" = "คำขอล้มเหลว ลองอีกครั้งหรือไม่?";
+
+/* Empty explore page message */
+"There are no featured drawings to show right now. Try again later." = "ไม่มีภาพวาดเด่นให้แสดงในขณะนี้ ลองอีกครั้งภายหลัง";
+
+/* No Twitter accounts are configured on device error alert message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings on your device." = "ขณะนี้ยังไม่มีการตั้งค่าบัญชี Twitter คุณสามารถเพิ่มหรือสร้างบัญชี Twitter ได้จากส่วนของการตั้งค่าบนอุปกรณ์";
+
+/* Quest gallery load failure alert message */
+"There was a problem loading this quest. Please return to the quest archive and try loading the the gallery again." = "เกิดปัญหาในการโหลดภารกิจนี้ โปรดกลับไปยังคลังภารกิจและพยายามโหลดแกลเลอรี่อีกครั้ง";
+
+/* Unknown DrawQuest upload error message */
+"There was a problem saving the drawing, DrawQuest is unable to post." = "เกิดปัญหาในการบันทึกภาพวาด แอป DrawQuest ไม่สามารถโพสต์ได้";
+
+/* Invite error to user error message prefix */
+"There was a problem sending your invitation via Twitter. Error code:" = "เกิดปัญหาในการส่งคำเชิญของคุณผ่าน Twitter รหัสข้อผิดพลาด:";
+
+/* Messages app error message */
+"There was an error opening the Messages app." = "เกิดข้อผิดพลาดในการเปิดแอปข้อความ";
+
+/* Unknown Twitter error alert message */
+"There was an unexpected error communicating with Twitter. Please try again." = "เกิดข้อผิดพลาดโดยไม่คาดคิดขณะสื่อสารกับ Twitter โปรดลองอีกครั้ง";
+
+/* Unknown DrawQuest upload error message */
+"There was an unexpected problem and DrawQuest is unable to post." = "เกิดข้อผิดพลาดโดยไม่คาดคิด และ DrawQuest ไม่สามารถโพสต์ได้";
+
+/* App update available alert message */
+"There's a new version of DrawQuest available. Upgrade now?" = "มีเวอร์ชันใหม่ของ DrawQuest ให้โหลด อัปเกรดตอนนี้เลยหรือไม่?";
+
+/* A message explaining that the user is seeing something unexpected and they should try again at a later time */
+"This shouldn't be empty. Please try back later!" = "ไม่ควรเป็นข้อมูลว่างเปล่า โปรดลองอีกครั้งภายหลัง!";
+
+/* Simple time unit suffix indicating days, e.g.: 5d */
+"TimestampTimesDays" = "%d วัน";
+
+/* Simple time unit suffix indicating hours, e.g.: 5h */
+"TimestampTimesHours" = "%d ชั่วโมง";
+
+/* Timestamp label for an item that showed up in the last few seconds */
+"TimestampTimesJustNow" = "สักครู่นี้";
+
+/* Simple time unit suffix indicating minutes, e.g.: 5m */
+"TimestampTimesMinutes" = "%d นาที";
+
+/* Simple time unit suffix indicating seconds, e.g.: 5s */
+"TimestampTimesSeconds" = "%d วินาที";
+
+/* Simple time unit suffix indicating weeks, e.g.: 5w */
+"TimestampTimesWeeks" = "%d สัปดาห์";
+
+/* Simple time unit suffix indicating years, e.g.: 5y */
+"TimestampTimesYears" = "%d ปี";
+
+/* Label for the Quest of the Day */
+"Today's Quest" = "ภารกิจของวันนี้";
+
+/* Tab title which shows the best items in order of ranking */
+"TopTabTitle" = "ดีที่สุด";
+
+/* Total coins a user has collected tally prefix */
+"Total coins:" = "เหรียญทั้งหมด:";
+
+/* Label for a list of recent Quests the user can complete */
+"Try These Recent Quests" = "ลองภารกิจล่าสุดเหล่านี้";
+
+/* Tumblr */
+"Tumblr" = "Tumblr";
+
+/* Twitter API keys are missing error message */
+"Twitter API keys are missing!" = "คีย์ของ Twitter API ขาดหายไป!";
+
+/* Twitter authorization error alert title */
+"Twitter Auth Error" = "การยืนยันสิทธิ์กับ Twitter ผิดพลาด";
+
+/* Twitter error alert title */
+"Twitter Error" = "Twitter เกิดข้อผิดพลาด";
+
+/* Label for a link to the user's Twitter profile web page */
+"Twitter Profile Page" = "หน้าโปรไฟล์ Twitter";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Quest could not be dismissed from Inbox error alert title */
+"Unable to dismiss" = "ไม่สามารถปิดได้";
+
+/* Quest could not be found on server error alert title */
+"Unable to Find Quest" = "ไม่พบภารกิจ";
+
+/* Follow error alert title */
+"Unable to Follow" = "ไม่สามารถติดตามได้";
+
+/* Request for current page failed alert title */
+"Unable to load page" = "ไม่สามารถโหลดหน้าได้";
+
+/* Quest gallery load failure alert title */
+"Unable to Load Quest" = "ไม่สามารถโหลดภารกิจได้";
+
+/* Editor template failed to download error body */
+"Unable to load the quest background image. You can still post but it will be missing from your drawing. Exit and re-enter the editor to try again." = "ไม่สามารถโหลดภาพพื้นหลังของภารกิจได้ คุณยังสามารถโพสต์ได้ แต่จะไม่มีพื้นหลังอยู่ในภาพวาดของคุณ ให้ออกและเข้าใช้งานโปรแกรมแก้ไขเพื่อลองอีกครั้ง";
+
+/* Unable to purchase shop item error alert message prefix */
+"Unable to purchase due to error: %@" = "ไม่สามารถซื้อได้เนื่องจากเกิดข้อผิดพลาด: %@";
+
+/* Unable to purchase shop item error alert title */
+"Unable to Purchase" = "ไม่สามารถซื้อได้";
+
+/* Quest gallery refresh failure alert title */
+"Unable to Refresh Gallery" = "ไม่สามารถรีเฟรชแกลเลอรี่ได้";
+
+/* Quest refresh error alert message prefix */
+"Unable to refresh quests due to error: %@" = "ไม่สามารถรีเฟรชภารกิจได้เนื่องจากเกิดข้อผิดพลาด: %@";
+
+/* Quest refresh unknown error alert message */
+"Unable to refresh quests due to unknown error." = "ไม่สามารถรีเฟรชภารกิจได้เนื่องจากเกิดข้อผิดพลาดโดยไม่ทราบสาเหตุ";
+
+/* Quest refresh error alert title */
+"Unable to Refresh Quests" = "ไม่สามารถรีเฟรชภารกิจได้";
+
+/* Unknown Facebook upload error message */
+"Unable to share to Facebook due to an unknown error." = "ไม่สามารถแบ่งปันไปยัง Facebook ได้เนื่องจากเกิดข้อผิดพลาดโดยไม่ทราบสาเหตุ";
+
+/* Unknown Twitter upload error message */
+"Unable to share to Twitter due to an unknown error." = "ไม่สามารถแบ่งปันไปยัง Twitter ได้เนื่องจากเกิดข้อผิดพลาดโดยไม่ทราบสาเหตุ";
+
+/* Unfollow error alert title */
+"Unable to Unfollow" = "ไม่สามารถเลิกติดตามได้";
+
+/* Request to unfollow a user is being completed indicator label */
+"Unfollowing" = "กำลังเลิกติดตาม";
+
+/* Unknown error alert message */
+"Unknown error." = "เกิดข้อผิดพลาดโดยไม่ทราบสาเหตุ";
+
+/* Update app alert title */
+"Update DrawQuest" = "อัปเดต DrawQuest";
+
+/* Update app alert confirmation button title */
+"Update" = "อัปเดต";
+
+/* Photo was successfully uploaded as user's new avatar indicator label */
+"Updated avatar." = "อัปเดตภาพประจำตัวแล้ว";
+
+/* Settings are being updated loading indicator label */
+"Updating Settings" = "กำลังอัปเดตการตั้งค่า";
+
+/* App update available alert confirmation button title */
+"Upgrade!" = "อัปเกรด!";
+
+/* Upgrade alert confirmation button title */
+"Upgrade" = "อัปเกรด";
+
+/* Upload failed message */
+"Upload Failed. Try Again?" = "การอัปโหลดล้มเหลว ลองอีกครั้งหรือไม่?";
+
+/* The image upload failed, prompt to try the upload again */
+"Uploading the image failed. Try again?" = "การอัปโหลดรูปภาพล้มเหลว ลองอีกครั้งหรือไม่?";
+
+/* Data is uploading to server indicator label */
+"Uploading" = "กำลังอัปโหลด";
+
+/* The user's DrawQuest specific username */
+"Username" = "ชื่อผู้ใช้";
+
+/* Label for option to view the Quest this drawing was drawn for */
+"View this Quest" = "ดูภารกิจนี้";
+
+/* Unknown error while loading Quest gallery, retry prompt */
+"We couldn't load the gallery. Please try again." = "เราไม่สามารถโหลดแกลเลอรี่ได้ โปรดลองอีกครั้ง";
+
+/* Prompt to retry a failed attempt to load the current profile from the server */
+"We couldn't load the profile. Please try again." = "เราไม่สามารถโหลดโปรไฟล์ได้ โปรดลองอีกครั้ง";
+
+/* Error loading activity from server message */
+"We couldn't load your activity. Please try again." = "เราไม่สามารถโหลดกิจกรรมของคุณได้ โปรดลองอีกครั้ง";
+
+/* Message encouraging users to keep drawings appropriate for all ages */
+"We have Questers of all ages, so please keep your drawings safe-for-work and appropriate for everyone" = "เรามีนักล่าภารกิจทุกช่วงวัย ดังนั้นโปรดวาดภาพที่สามารถแสดงต่อสาธารณะได้ และเหมาะสมกับทุกๆ คน";
+
+/* Quest could not be dismissed from Inbox error alert message */
+"We were unable to remove the quest from your inbox. Please try again later." = "เราไม่สามารถลบภารกิจออกจากกล่องจดหมายได้ โปรดลองอีกครั้งภายหลัง";
+
+/* Label for the user's web profile */
+"Web Profile" = "โปรไฟล์บนเว็บ";
+
+/* Greeting for users signing in that have previously registered */
+"Welcome Back" = "ขอต้อนรับการกลับมา";
+
+/* Activity item welcoming new users */
+"Welcome to DrawQuest!" = "ยินดีต้อนรับสู่ DrawQuest!";
+
+/* Prefix before the DrawQuest logo welcoming the user on the splash screen */
+"Welcome to" = "ยินดีต้อนรับสู่";
+
+/* Sign in modal title welcoming the user back */
+"Welcome" = "ยินดีต้อนรับ";
+
+/* Delete artwork confirmation alert message */
+"Would you really like to delete your artwork?" = "คุณต้องการลบงานศิลปะของคุณหรือไม่?";
+
+/* Post without sharing alert confirmation button title */
+"Yes, continue" = "ใช่ ดำเนินการต่อ";
+
+/* Yesterday */
+"Yesterday" = "เมื่อวาน";
+
+/* Label preceeding alernative services that can be used to sign in */
+"You Can Also Sign In Using:" = "คุณยังสามารถลงชื่อเข้าใช้งานได้โดยใช้:";
+
+/* Label preceeding alernative services that can be used to sign up */
+"You Can Also Sign Up Using:" = "คุณยังสามารถสมัครใช้งานได้โดยใช้:";
+
+/* Message for user that do not yet have any activity items */
+"You don't have any activity yet." = "คุณยังไม่มีกิจกรรมใดๆ ในขณะนี้";
+
+/* The user doesn't have enough coins to purchase what they tried to purchase, prompt them to purchase some coins first */
+"You don't have enough coins, why not buy some first?" = "คุณมีเหรียญไม่พอ ไม่ลองซื้อเหรียญเพิ่มก่อนหรือ?";
+
+/* The user's history is empty because they haven't completed any Quests display message */
+"You haven't drawn anything yet! Quests you've drawn in will appear here." = "คุณยังไม่ได้วาดภาพใดๆ เลยในตอนนี้! ภารกิจที่คุณวาดไว้จะปรากฏที่นี่";
+
+/* Activity item notifying users of an explore feature */
+"Your drawing was featured on Explore!" = "ภาพวาดของคุณถูกแสดงเป็นภาพเด่นในส่วนของการสำรวจ!";
+
+/* Coin purchase success alert message */
+"Your new coins are ready to use." = "เหรียญที่คุณได้มาใหม่สามารถใช้งานได้ทันที";
+
+/* The user's profile has been removed from the server error message */
+"Your profile no longer exists." = "ไม่มีโปรไฟล์ของคุณอีกต่อไป";
+
+/* App needs to be updated alert title */
+"Your version of DrawQuest is out of date. Please update to see this activity item." = "DrawQuest ของคุณเป็นเวอร์ชันเก่าแล้ว โปรดอัปเดตเพื่อดูรายการกิจกรรมนี้";
+
+/* A reminder that a new Quest of the Day is now available */
+"Today's Quest is now available. Come draw it!" = "Quest ของวันนี้มีให้บริการแล้ว  มาวาดภาพกัน!";

@@ -1,0 +1,26 @@
+language: objective-c
+install: true
+source_key: redacted
+branches:
+  only:
+    - develop
+    - staging
+    - master
+    - /^dq-.*$/
+    - /^travis-.*$/
+env:
+  matrix:
+    - DQ_ENV=Production
+    - DQ_ENV=Staging
+  global:
+    - APP_NAME="DrawQuest"
+    - 'DEVELOPER_NAME="iPhone Distribution: Example"'
+before_script:
+  - ./scripts/add-key.sh
+  - ./scripts/update-bundle.sh
+script: xctool -project DrawQuest.xcodeproj -scheme DQ-Ad-Hoc-$DQ_ENV -sdk iphoneos -configuration Ad-Hoc-$DQ_ENV OBJROOT=$PWD/build SYMROOT=$PWD/build ONLY_ACTIVE_ARCH=NO
+after_script: ./scripts/remove-key.sh
+after_success: ./scripts/sign-and-upload.sh
+notifications:
+  rooms:
+    - REDACTED@DrawQuest Engineering

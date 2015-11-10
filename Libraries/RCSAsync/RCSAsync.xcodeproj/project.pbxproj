@@ -1,0 +1,475 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		38529FD91608F11D0080C025 /* RCSArrayIteration.m in Sources */ = {isa = PBXBuildFile; fileRef = 38529FD81608F11D0080C025 /* RCSArrayIteration.m */; };
+		38529FDD1608F1910080C025 /* RCSIteration.m in Sources */ = {isa = PBXBuildFile; fileRef = 38529FDC1608F1910080C025 /* RCSIteration.m */; };
+		38529FE01608F2870080C025 /* RCSArrayIterationContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 38529FDF1608F2870080C025 /* RCSArrayIterationContext.m */; };
+		38529FE31608F2930080C025 /* RCSIterationContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 38529FE21608F2920080C025 /* RCSIterationContext.m */; };
+		385D20301606A3A300B482C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385D202F1606A3A300B482C6 /* Foundation.framework */; };
+		385D20351606A3A300B482C6 /* RCSAsync.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 385D20341606A3A300B482C6 /* RCSAsync.h */; };
+		385D20371606A3A300B482C6 /* RCSAsync.m in Sources */ = {isa = PBXBuildFile; fileRef = 385D20361606A3A300B482C6 /* RCSAsync.m */; };
+		385D203F1606A3A300B482C6 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385D203E1606A3A300B482C6 /* SenTestingKit.framework */; };
+		385D20411606A3A300B482C6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385D20401606A3A300B482C6 /* UIKit.framework */; };
+		385D20421606A3A300B482C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385D202F1606A3A300B482C6 /* Foundation.framework */; };
+		385D20451606A3A300B482C6 /* libRCSAsync.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 385D202C1606A3A300B482C6 /* libRCSAsync.a */; };
+		385D204B1606A3A300B482C6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 385D20491606A3A300B482C6 /* InfoPlist.strings */; };
+		385D204E1606A3A300B482C6 /* RCSAsyncTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 385D204D1606A3A300B482C6 /* RCSAsyncTests.m */; };
+		385D20601607CB0E00B482C6 /* RCSIndexSetIteration.m in Sources */ = {isa = PBXBuildFile; fileRef = 385D205F1607CB0E00B482C6 /* RCSIndexSetIteration.m */; };
+		385D20631607CBB300B482C6 /* RCSIndexSetIterationContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 385D20621607CBB300B482C6 /* RCSIndexSetIterationContext.m */; };
+		38F23DAD1623853D00FBD993 /* RCSAsyncOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 38F23DAC1623853D00FBD993 /* RCSAsyncOperation.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		385D20431606A3A300B482C6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 385D20231606A3A300B482C6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 385D202B1606A3A300B482C6;
+			remoteInfo = RCSAsync;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		385D202A1606A3A300B482C6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/${PRODUCT_NAME}";
+			dstSubfolderSpec = 16;
+			files = (
+				385D20351606A3A300B482C6 /* RCSAsync.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		38529FD71608F11D0080C025 /* RCSArrayIteration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSArrayIteration.h; sourceTree = "<group>"; };
+		38529FD81608F11D0080C025 /* RCSArrayIteration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSArrayIteration.m; sourceTree = "<group>"; };
+		38529FDB1608F1910080C025 /* RCSIteration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSIteration.h; sourceTree = "<group>"; };
+		38529FDC1608F1910080C025 /* RCSIteration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSIteration.m; sourceTree = "<group>"; };
+		38529FDE1608F2870080C025 /* RCSArrayIterationContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSArrayIterationContext.h; sourceTree = "<group>"; };
+		38529FDF1608F2870080C025 /* RCSArrayIterationContext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSArrayIterationContext.m; sourceTree = "<group>"; };
+		38529FE11608F2920080C025 /* RCSIterationContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSIterationContext.h; sourceTree = "<group>"; };
+		38529FE21608F2920080C025 /* RCSIterationContext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSIterationContext.m; sourceTree = "<group>"; };
+		38529FED160901E20080C025 /* RCSArrayIterationContextBlocks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCSArrayIterationContextBlocks.h; sourceTree = "<group>"; };
+		38529FEE160902350080C025 /* RCSIndexSetIterationContextBlocks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCSIndexSetIterationContextBlocks.h; sourceTree = "<group>"; };
+		385D202C1606A3A300B482C6 /* libRCSAsync.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRCSAsync.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		385D202F1606A3A300B482C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		385D20331606A3A300B482C6 /* RCSAsync-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RCSAsync-Prefix.pch"; sourceTree = "<group>"; };
+		385D20341606A3A300B482C6 /* RCSAsync.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCSAsync.h; sourceTree = "<group>"; };
+		385D20361606A3A300B482C6 /* RCSAsync.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCSAsync.m; sourceTree = "<group>"; };
+		385D203D1606A3A300B482C6 /* RCSAsyncTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RCSAsyncTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		385D203E1606A3A300B482C6 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		385D20401606A3A300B482C6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		385D20481606A3A300B482C6 /* RCSAsyncTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RCSAsyncTests-Info.plist"; sourceTree = "<group>"; };
+		385D204A1606A3A300B482C6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		385D204C1606A3A300B482C6 /* RCSAsyncTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCSAsyncTests.h; sourceTree = "<group>"; };
+		385D204D1606A3A300B482C6 /* RCSAsyncTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCSAsyncTests.m; sourceTree = "<group>"; };
+		385D205E1607CB0E00B482C6 /* RCSIndexSetIteration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSIndexSetIteration.h; sourceTree = "<group>"; };
+		385D205F1607CB0E00B482C6 /* RCSIndexSetIteration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSIndexSetIteration.m; sourceTree = "<group>"; };
+		385D20611607CBB300B482C6 /* RCSIndexSetIterationContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSIndexSetIterationContext.h; sourceTree = "<group>"; };
+		385D20621607CBB300B482C6 /* RCSIndexSetIterationContext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSIndexSetIterationContext.m; sourceTree = "<group>"; };
+		38F23DAB1623853D00FBD993 /* RCSAsyncOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCSAsyncOperation.h; sourceTree = "<group>"; };
+		38F23DAC1623853D00FBD993 /* RCSAsyncOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCSAsyncOperation.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		385D20291606A3A300B482C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				385D20301606A3A300B482C6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		385D20391606A3A300B482C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				385D203F1606A3A300B482C6 /* SenTestingKit.framework in Frameworks */,
+				385D20411606A3A300B482C6 /* UIKit.framework in Frameworks */,
+				385D20421606A3A300B482C6 /* Foundation.framework in Frameworks */,
+				385D20451606A3A300B482C6 /* libRCSAsync.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		38529FEB1608F6B20080C025 /* Iterations */ = {
+			isa = PBXGroup;
+			children = (
+				38529FDB1608F1910080C025 /* RCSIteration.h */,
+				38529FDC1608F1910080C025 /* RCSIteration.m */,
+				38529FD71608F11D0080C025 /* RCSArrayIteration.h */,
+				38529FD81608F11D0080C025 /* RCSArrayIteration.m */,
+				385D205E1607CB0E00B482C6 /* RCSIndexSetIteration.h */,
+				385D205F1607CB0E00B482C6 /* RCSIndexSetIteration.m */,
+			);
+			name = Iterations;
+			sourceTree = "<group>";
+		};
+		38529FEC1608F6BD0080C025 /* Iteration Contexts */ = {
+			isa = PBXGroup;
+			children = (
+				38529FE11608F2920080C025 /* RCSIterationContext.h */,
+				38529FE21608F2920080C025 /* RCSIterationContext.m */,
+				38529FED160901E20080C025 /* RCSArrayIterationContextBlocks.h */,
+				38529FDE1608F2870080C025 /* RCSArrayIterationContext.h */,
+				38529FDF1608F2870080C025 /* RCSArrayIterationContext.m */,
+				38529FEE160902350080C025 /* RCSIndexSetIterationContextBlocks.h */,
+				385D20611607CBB300B482C6 /* RCSIndexSetIterationContext.h */,
+				385D20621607CBB300B482C6 /* RCSIndexSetIterationContext.m */,
+			);
+			name = "Iteration Contexts";
+			sourceTree = "<group>";
+		};
+		385D20211606A3A300B482C6 = {
+			isa = PBXGroup;
+			children = (
+				385D20311606A3A300B482C6 /* RCSAsync */,
+				385D20461606A3A300B482C6 /* RCSAsyncTests */,
+				385D202E1606A3A300B482C6 /* Frameworks */,
+				385D202D1606A3A300B482C6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		385D202D1606A3A300B482C6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				385D202C1606A3A300B482C6 /* libRCSAsync.a */,
+				385D203D1606A3A300B482C6 /* RCSAsyncTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		385D202E1606A3A300B482C6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				385D202F1606A3A300B482C6 /* Foundation.framework */,
+				385D203E1606A3A300B482C6 /* SenTestingKit.framework */,
+				385D20401606A3A300B482C6 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		385D20311606A3A300B482C6 /* RCSAsync */ = {
+			isa = PBXGroup;
+			children = (
+				385D20321606A3A300B482C6 /* Supporting Files */,
+				385D20341606A3A300B482C6 /* RCSAsync.h */,
+				385D20361606A3A300B482C6 /* RCSAsync.m */,
+				38529FEB1608F6B20080C025 /* Iterations */,
+				38529FEC1608F6BD0080C025 /* Iteration Contexts */,
+				38F23DAB1623853D00FBD993 /* RCSAsyncOperation.h */,
+				38F23DAC1623853D00FBD993 /* RCSAsyncOperation.m */,
+			);
+			path = RCSAsync;
+			sourceTree = "<group>";
+		};
+		385D20321606A3A300B482C6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				385D20331606A3A300B482C6 /* RCSAsync-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		385D20461606A3A300B482C6 /* RCSAsyncTests */ = {
+			isa = PBXGroup;
+			children = (
+				385D204C1606A3A300B482C6 /* RCSAsyncTests.h */,
+				385D204D1606A3A300B482C6 /* RCSAsyncTests.m */,
+				385D20471606A3A300B482C6 /* Supporting Files */,
+			);
+			path = RCSAsyncTests;
+			sourceTree = "<group>";
+		};
+		385D20471606A3A300B482C6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				385D20481606A3A300B482C6 /* RCSAsyncTests-Info.plist */,
+				385D20491606A3A300B482C6 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		385D202B1606A3A300B482C6 /* RCSAsync */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 385D20511606A3A300B482C6 /* Build configuration list for PBXNativeTarget "RCSAsync" */;
+			buildPhases = (
+				385D20281606A3A300B482C6 /* Sources */,
+				385D20291606A3A300B482C6 /* Frameworks */,
+				385D202A1606A3A300B482C6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RCSAsync;
+			productName = RCSAsync;
+			productReference = 385D202C1606A3A300B482C6 /* libRCSAsync.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		385D203C1606A3A300B482C6 /* RCSAsyncTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 385D20541606A3A300B482C6 /* Build configuration list for PBXNativeTarget "RCSAsyncTests" */;
+			buildPhases = (
+				385D20381606A3A300B482C6 /* Sources */,
+				385D20391606A3A300B482C6 /* Frameworks */,
+				385D203A1606A3A300B482C6 /* Resources */,
+				385D203B1606A3A300B482C6 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				385D20441606A3A300B482C6 /* PBXTargetDependency */,
+			);
+			name = RCSAsyncTests;
+			productName = RCSAsyncTests;
+			productReference = 385D203D1606A3A300B482C6 /* RCSAsyncTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		385D20231606A3A300B482C6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Roepcke Computing Solutions";
+			};
+			buildConfigurationList = 385D20261606A3A300B482C6 /* Build configuration list for PBXProject "RCSAsync" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 385D20211606A3A300B482C6;
+			productRefGroup = 385D202D1606A3A300B482C6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				385D202B1606A3A300B482C6 /* RCSAsync */,
+				385D203C1606A3A300B482C6 /* RCSAsyncTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		385D203A1606A3A300B482C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				385D204B1606A3A300B482C6 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		385D203B1606A3A300B482C6 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		385D20281606A3A300B482C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				385D20371606A3A300B482C6 /* RCSAsync.m in Sources */,
+				385D20601607CB0E00B482C6 /* RCSIndexSetIteration.m in Sources */,
+				385D20631607CBB300B482C6 /* RCSIndexSetIterationContext.m in Sources */,
+				38529FD91608F11D0080C025 /* RCSArrayIteration.m in Sources */,
+				38529FDD1608F1910080C025 /* RCSIteration.m in Sources */,
+				38529FE01608F2870080C025 /* RCSArrayIterationContext.m in Sources */,
+				38529FE31608F2930080C025 /* RCSIterationContext.m in Sources */,
+				38F23DAD1623853D00FBD993 /* RCSAsyncOperation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		385D20381606A3A300B482C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				385D204E1606A3A300B482C6 /* RCSAsyncTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		385D20441606A3A300B482C6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 385D202B1606A3A300B482C6 /* RCSAsync */;
+			targetProxy = 385D20431606A3A300B482C6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		385D20491606A3A300B482C6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				385D204A1606A3A300B482C6 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		385D204F1606A3A300B482C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		385D20501606A3A300B482C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		385D20521606A3A300B482C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DSTROOT = /tmp/RCSAsync.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RCSAsync/RCSAsync-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		385D20531606A3A300B482C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DSTROOT = /tmp/RCSAsync.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RCSAsync/RCSAsync-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		385D20551606A3A300B482C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RCSAsync/RCSAsync-Prefix.pch";
+				INFOPLIST_FILE = "RCSAsyncTests/RCSAsyncTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		385D20561606A3A300B482C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RCSAsync/RCSAsync-Prefix.pch";
+				INFOPLIST_FILE = "RCSAsyncTests/RCSAsyncTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		385D20261606A3A300B482C6 /* Build configuration list for PBXProject "RCSAsync" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				385D204F1606A3A300B482C6 /* Debug */,
+				385D20501606A3A300B482C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		385D20511606A3A300B482C6 /* Build configuration list for PBXNativeTarget "RCSAsync" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				385D20521606A3A300B482C6 /* Debug */,
+				385D20531606A3A300B482C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		385D20541606A3A300B482C6 /* Build configuration list for PBXNativeTarget "RCSAsyncTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				385D20551606A3A300B482C6 /* Debug */,
+				385D20561606A3A300B482C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 385D20231606A3A300B482C6 /* Project object */;
+}
